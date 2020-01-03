@@ -1,0 +1,342 @@
+{
+    "coursecode": "NET-08-02",
+    "AltKey": "NET-08-02",
+    "title": "ΜΟΥΣΙΚΗ ΠΛΗΡΟΦΟΡΙΚΗ",
+    "titleEN": "COMPUTER MUSIC",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155649,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΟΥΣΙΚΗ ΠΛΗΡΟΦΟΡΙΚΗ",
+                    "en": "COMPUTER MUSIC"
+                },
+                "course_code": "NET-08-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Διονύσιος Πολίτης"
+            },
+            "class_info": {
+                "class_title": "ΜΟΥΣΙΚΗ ΠΛΗΡΟΦΟΡΙΚΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Πολίτης Διονύσιος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο",
+                "2": "Eξ απoστάσεως εκπαίδευση"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121311"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "elearning.auth.gr"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Ενδείκνυται η γνώση Ανώτερων Μαθηματικων και της Επικοινωνίας Ανθρώπου - Υπολογιστή, χωρίς όμως να προαπαιτείται. Το ίδιο ισχύει για τη γνώση μουσικής ή για τη δυνατότητα να παίζουν κάποιο μουσικό όργανο.",
+                    "en": "The knowledge of Higher Mathematics and Human Computer Interactions is helpful, though it is not mandatory. The same goes for the prior knowledge of music theory or the capability to perform on music instruments."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Οι φοιτητές Πληροφορικής έχουν την ευκαιρία, ανεξάρτητα από τη Μουσική Παιδεία που φέρουν, να ενημερωθούν, καταρτιστούν, και εν τέλει να γίνουν ειδικοί στον τάχιστα αναπτυσσόμενο διεπιστημονικό κλάδο της Μουσικής Πληροφορικής. Η Μουσική Πληροφορική είναι ο κοινός τόπος πολλών επιστημονικών κλάδων, όπως η Ψυχοακουστική και η Φυσιολογία από το χώρο της Ιατρικής, η Νομική Πληροφορική, η Ηλεκτρακουστική, τα Πολυμέσα, η Θεωρία Πληροφοριών, τα Μαθηματικά. Προεξάρχοντες συνιστώσες είναι η Πληροφορική και η Μουσική Τέχνη. Σε πολλές περιπτώσεις δε, αποτελεί και αιχμή του δόρατος για τομείς όπως αυτόν της Επικοινωνίας Ανθρώπου-Υπολογιστή, της Ηλεκτρονικής Βιομηχανίας Πληροφόρησης, και της Διαδικτυακής Τεχνολογίας.",
+                "en": "Computer Science students have the opportunity, notwithstanding  the Musical Education they bear, to become knowledgeable,  thoroughly educated, and ultimately, skillful in the rapidly evolving sector of  Musical Information technology. Computer Music  is the melting point of many scientific fields, as is Psychoacoustics and Physiology from the space of Medicine, Computer Law,  Electracoustic  Technology, Multimedia, Information  Theory , and  Mathematics.  In many cases, Computer Music is the spearhead of evolving agendas for  Human Computer Interaction,  for the electronic Mass Media industry, and of course, for Internet technology. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 8",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Στο μάθημα αυτό αναπτύσσονται οι τεχνολογίες των διεπαφών και των γλωσσών προγραμματισμού του ταχύτατα αναπτυσσόμενου κλάδου της Μουσικής Πληροφορικής, οριοθετούμενου στο μεταίχμιο της επιστήμης (των υπολογιστών) και της τέχνης (της μουσικής).\r\nΓια πρώτη φορά ο μέσος χρήστης διαθέτει τόση μεγάλη διαδικτυωμένη υπολογιστική ισχύ, συνοδευόμενη από ειδικές πολυμεσικές εφαρμογές που μετατρέπουν τη διεπαφή ανθρώπου-υπολογιστή σε πολυδύναμη μονάδα ακρόασης, σύνθεσης, επεξεργασίας, παραγωγής και διάθεσης μουσικών ακουσμάτων σ' όλο τον κόσμο.\r\n\r\nΠαρουσιάζονται διεξοδικά τα εξής θέματα:\r\nΕισαγωγικά στοιχεία μουσικής θεωρίας. Η ακουστική και η ψυχοακουστική της μουσικής. Τεχνολογία και οργανολογία του ψηφιακού ήχου. Προγραμματισμός μουσικών συστημάτων. Μουσικές διεπαφές και το πρωτόκολλο MIDI. Απόδοση μουσικής με προσομοίωση μέσω Η/Υ. Φυσική μοντελοποίηση και συστήματα μουσικής πληροφορικής πραγματικού χρόνου. Μουσική και τεχνητή νοημοσύνη. Μουσικές γλώσσες προγραμματισμού. Μουσική αλγοριθμική σύνθεση. Απτικές και ειδικές μουσικές διεπαφές. ",
+                    "en": "This course presents in a scholarly manner the interfacing technologies and the programming languages of the rapidly developing sector of Computer Music, which is set on the verge of the Science (of Computers) and  the Art (of Music).\r\nFor the first time the average user has been allocated so many networked resources, accompanied by specialized multimedia applications, that alter the Musical Human Computer Interaction to a cluster of multifacet modules and interfaces enabling the hearing, composition, processing, production and dissemination of music all over the world.\r\n\r\nIn specific, the following topics are examined:\r\nIntroduction to musical sound and music theory.  The Acoustics and psychoacoustics of music.  Technology and instrumentation of digital sound. Programming music system and devices. Musical interfaces and the MIDI protocol. Producing music via computer simulations. Physical  modeling and real time computer music systems. Music and artificial intelligence. Music  programming  languages. Algorithmic synthesis and composition. Haptic and special music interfaces. "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "4": "Podcast",
+                "5": "Ήχος",
+                "6": "Πολυμεσικό υλικό",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιούνται τα εργαλεία του VLE Moodle: -Ηλεκτρονικά Τεστ -Ηλεκτρονική υποβολή και παρουσίαση εργασιών μέσω Journal και Wiki -Συμμετοχική διαδικασία με χρήση Forum του VLE.\r\n\r\nΤο μάθημα εφαρμόζει υβριδικό μοντέλο μάθησης σε ποσοστό 70% - 30%. Το 70% της ύλης παρουσιάζεται με τη μορφή κλασικής διδασκαλίας στο αμφιθέατρο και στο εργαστήριο. Από τους παρακολουθούντες απαιτείται η παρουσίαση βιβλιογραφικών εργασιών (2 τουλάχιστον) και ενός προγραμματιστικού project με γλώσσες και τεχνικές τάχιστης προτυποποίησης. Το 30% της διδασκαλίας γίνεται με ηλεκτρονικά μέσα υποβοήθησης. ",
+                    "en": "The course uses extensively the Moodle VLE. More specific it implements: -Electronic Tests -electronic submission of dues using Journal technology and Wikis -Collaborative Learning using the Forums of the VLE.\r\n\r\nThis course implements a hybrid learning model in a 70% - 30% analogy. 70% of the material presented applying  classic, excathedra teaching. The attendants are asked to present bibliographic cases (at least 2) and a programming project using rapid prototyping techniques. 30% of the teaching is offered by electronic means."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "24",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "2": {
+                    "activity": {
+                        "name": "Σεμινάρια",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "18",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "7": {
+                    "activity": {
+                        "name": "Πρακτική (Τοποθέτηση)",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "9": {
+                    "activity": {
+                        "name": "Καλλιτεχνικό Εργαστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "6",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "20",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "14": {
+                    "activity": {
+                        "name": "Καλλιτεχνική δημιουργία",
+                        "hours_of_instruction": "",
+                        "workload": "18",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "4",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Η αξιολόγηση των φοιτητών γίνεται ενδελεχώς ως εξής:\r\nΑ Φάση: Με Διαμορφωτική Αξιολόγηση κατά τη διάρκεια των 12 πρώτων εβδομάδων, που περιλαμβάνει ηλεκτρονικά τεστ και παρουσίαση εργαστηριακών ασκήσεων και project (40% του τελικού βαθμού)\r\nΒ Φάση: Με Συμπερασματική Αξιολόγηση, κατά τις εβδομάδες 13 - 15, των που περιλαμβάνει γραπτή εξέταση και δημόσια παρουσίαση του τελικού project. \r\n(60% του τελικού βαθμού)\r\n",
+                    "en": "Students are perpetually evaluated as follows:\r\nPhase A: With Formative Evaluation methods during the first 12 weeks of the semester: Electronic tests,  presentation of laboratory exercises and projects. (40% of final grade)\r\nPhase B: With a concluding Summative Evaluation, during weeks 13-15, which includes a written examination and a public presentation of the final project.\r\n(60% of the final grade)\r\n"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Δ. Πολίτη: \"Γλώσσες και Διεπαφές στη Μουσική Πληροφορική\", Εκδόσεις Κλειδάριθμος, Αθήνα 2008, σελ. 356.",
+                "additional_bibliography_for_study": "1. Everest F. Alton: \"Εγχειρίδιο ακουστικής - The master handbook of acoustics\", Θεσαλονίκη, Εκδόσεις Τζιόλα, 1998, σελ. 495. \r\n2. John Eargle: \"Μουσική Ακουστική Τεχνολογία\", Εκδόσεις ΙΩΝ, Αθήνα 1999, σελ. 393. \r\n3. Αντώνη Πλέσσα: \"Μουσική και τεχνολογία - Μουσικά προγράμματα, ψηφιακή εγγραφή ήχου, MIDI και Audio Studio\", Εκδόσεις Σύγχρονη Μουσική, Αθήνα 2002, σελ. 160."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121311"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "elearning.auth.gr"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Δ. Πολίτη: \"Γλώσσες και Διεπαφές στη Μουσική Πληροφορική\", Εκδόσεις Κλειδάριθμος, Αθήνα 2008, σελ. 356.",
+            "additional": "1. Everest F. Alton: \"Εγχειρίδιο ακουστικής - The master handbook of acoustics\", Θεσαλονίκη, Εκδόσεις Τζιόλα, 1998, σελ. 495. \r\n2. John Eargle: \"Μουσική Ακουστική Τεχνολογία\", Εκδόσεις ΙΩΝ, Αθήνα 1999, σελ. 393. \r\n3. Αντώνη Πλέσσα: \"Μουσική και τεχνολογία - Μουσικά προγράμματα, ψηφιακή εγγραφή ήχου, MIDI και Audio Studio\", Εκδόσεις Σύγχρονη Μουσική, Αθήνα 2002, σελ. 160."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

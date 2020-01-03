@@ -1,0 +1,234 @@
+{
+    "coursecode": "NCO-01-04",
+    "AltKey": "NCO-01-04",
+    "title": "ΔΙΑΚΡΙΤΑ ΜΑΘΗΜΑΤΙΚΑ",
+    "titleEN": "DISCRETE MATHEMATICS",
+    "units": 5,
+    "ects": 7,
+    "classID": 600155592,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΔΙΑΚΡΙΤΑ ΜΑΘΗΜΑΤΙΚΑ",
+                    "en": "DISCRETE MATHEMATICS"
+                },
+                "course_code": "NCO-01-04",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Κωνσταντίνος Τσίχλας"
+            },
+            "class_info": {
+                "class_title": "ΔΙΑΚΡΙΤΑ ΜΑΘΗΜΑΤΙΚΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Τσίχλας Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004869"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "delab.csd.auth.gr/~tsichlas/discrete.html"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "τόχος του μαθήματος είναι η εισαγωγή σε βασικές μαθηματικές έννοιες και τεχνικές των Διακριτών Μαθηματικών, τα οποία αποτελούν τη βάση για όλα σχεδόν τα μαθήματα θεωρητικής κατεύθυνσης, με εφαρμογές που αρχίζουν από την σχεδίαση δικτύων μέχρι τις βάσεις δεδομένων. Απόκτηση βασικών μαθηματικών εργαλείων της επιστήμης της Πληροφορική.",
+                "en": "he goal is the introduction to fundamental notions and techniques of discrete mathematics, which constitute the basis for almost all theoretical courses, with applications ranging from network design to databases. In this sense, students acquire fundamental mathematical tools in Computer Science. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 4",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικά Στοιχεία Προτασιακού και Κατηγορηματικού Λογισμού, Αποδεικτικές Μέθοδοι, Αριθμητικά Συστήματα - Βασικά Στοιχεία Θεωρίας Αριθμών, Σύνολα, Συναρτήσεις - Σχέσεις,  Αναδρομικές Σχέσεις, Αθροίσματα και Ασυμπτωτικές Εκτιμήσεις, Βασικά Στοιχεία Αρίθμησης – Συνδυασμοί και Μεταθέσεις Αντικειμένων, Στοιχεία Διακριτής Πιθανότητας, Γραφήματα και Δέντρα.",
+                    "en": "Basic elements of Propositional and Predicate Logic, Proof Techniques, Number Systems - Basic Elements of Number Theory, Sets, Functions - Relations, Recurrences, Sums and Asymptotic Notation, Basic Elements of Counting - Combinations and Permutations of Objects, Discrete Probability, Graphs and Trees. "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "72",
+                        "credits": "2.4",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "70",
+                        "credits": "2.333",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτή εξέταση σε όλη την ύλη με έμφαση στα θέματα που έχουν γίνει μετά την πρόοδο που έχει διδαχθεί (βιβλίο, σημειώσεις μαθήματος, διαφάνειες, ασκήσεις). Το βάρος της εξέτασης είναι 50-60% επί του τελικού βαθμού. Υποχρεωτική ενδιάμεση πρόοδος στην ύλη που θα έχει διδαχθεί μέχρι το συγκεκριμένο σημείο. Το βάρος της προόδου είναι 20-30% επί του τελικού βαθμού. Εργασίες κατανόησης της ύλης ανά δύο εβδομάδες. Το συνολικό βάρος των εργασιών είναι 20-30% επί του τελικού βαθμού.",
+                    "en": "Written exams on the covered material with emphasis on topics taught after the mid-term exams (book, lecture notes, presentations, exercises) (50-60% of the final grade). A mid-term exam on topics that have been covered until this point (20-30% of the final grade). Comprehension exercises every two weeks (20-30% of the final grade). "
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Ε.Σ. Αγγελής και Γ.Λ. Μπλέρης. Διακριτά Μαθηματικά. Εκδόσεις Τζιόλα. 2003.\r\n2. K.H. Rosen. Διακριτά Μαθηματικά και Εφαρμογές τους. 5η Έκδοση, Εκδόσεις Τζιόλα, 2009.",
+                "additional_bibliography_for_study": "1. D.E. Ensley και J.W. Crawley. Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games. Wiley, 2006.\r\n2. R.L. Graham, D.E. Knuth και O. Patashnik. Concrete Mathematics. Addison-Wesley, 1988."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004869"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "delab.csd.auth.gr/~tsichlas/discrete.html"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Ε.Σ. Αγγελής και Γ.Λ. Μπλέρης. Διακριτά Μαθηματικά. Εκδόσεις Τζιόλα. 2003.\r\n2. K.H. Rosen. Διακριτά Μαθηματικά και Εφαρμογές τους. 5η Έκδοση, Εκδόσεις Τζιόλα, 2009.",
+            "additional": "1. D.E. Ensley και J.W. Crawley. Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games. Wiley, 2006.\r\n2. R.L. Graham, D.E. Knuth και O. Patashnik. Concrete Mathematics. Addison-Wesley, 1988."
+        }
+    },
+    "winter": true,
+    "period": 1
+}

@@ -1,0 +1,239 @@
+{
+    "coursecode": "NCO-04-02",
+    "AltKey": "NCO-04-02",
+    "title": "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
+    "titleEN": "ARTIFICIAL INTELLIGENCE",
+    "units": 4,
+    "ects": 5.5,
+    "classID": 600155612,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
+                    "en": "ARTIFICIAL INTELLIGENCE"
+                },
+                "course_code": "NCO-04-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ιωάννης Βλαχάβας"
+            },
+            "class_info": {
+                "class_title": "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
+                "academic_year": "2017 – 2018",
+                "class_period": "Εαρινή",
+                "instructors": "Βλαχάβας Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600104716"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8143"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Καλές γνώσεις προγραμματισμού και ειδικότερα λογικού και συναρτησιακού",
+                    "en": "Good level of programming, especially logic and functional"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: \r\nΚατάρτιση των φοιτητών στις βασικές έννοιες της Τεχνητής Νοημοσύνης. Εξοικείωση με ποικίλες εφαρμογές της Τεχνητής Νοημοσύνης, όπως τα Συστήματα Γνώσης, τα Ευφυή Αυτόνομα Συστήματα και τα Συστήματα Πολλαπλών Πρακτόρων. Πρακτική Εξάσκηση στην υλοποίηση και χρήση αλγορίθμων Τεχνητής Νοημοσύνης.\r\n\r\nΔεξιότητες:\r\nΑπόκτηση ικανότητας επίλυσης προβλημάτων με τεχνικές Τεχνητής Νοημοσύνης. Ειδικότερα, απόκτηση ικανοτήτων αποδοτικής αναπαράστασης προβλημάτων πραγματικού κόσμου και επιλογής των κατάλληλων μεθοδολογιών και αλγορίθμων για την αυτοματοποιημένη επίλυση τους. Εξοικείωση με εργαλεία σε περιοχές της Τεχνητής Νοημοσύνης, όπως στα Συστήματα Γνώσης, στον Σχεδιασμό Ενεργειών κ.α.",
+                "en": "Cognitive: \r\nStudent’s training on the basic principles of Artificial Intelligence. Familiarization with various applications of Artificial Intelligence, such as Knowledge Systems, Intelligent Autonomous Systems and Multi Agent Systems. Practice on implementing and utilizing Artificial Intelligence algorithms.\r\n\r\nSkills:\r\nAcquiring the ability to solve problems using Artificial Intelligence techniques. More specifically, acquiring the ability to efficiently model real world problems and select the most appropriate methodologies and algorithms for the automatic solving of them. Familiarization with existing tools in various areas of Artificial Intelligence, such as Knowledge Systems, Planning and others\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικές έννοιες της Τεχνητής Νοημοσύνης, Αναπαράσταση και Επίλυση Προβλημάτων, Αλγόριθμοι (τυφλής και κατευθυνόμενης) Αναζήτησης, Αναπαράσταση Γνώσης, Συλλογιστικές, Αρχιτεκτονικές Συστημάτων, Συστήματα Γνώσης, Σχεδιασμός Ενεργειών, Μη συμβολική λογική (γενετικοί αλγόριθμοι, νευρωνικά δίκτυα), Ευφυή Συστήματα Πρακτόρων και κατανεμημένα συστήματα ΤΝ, Μηχανική Μάθηση, Εφαρμογές (επεξεργασία φυσικής γλώσσας, μηχανική όραση, ρομποτική).",
+                    "en": "Basic Principles of Artificial Intelligence, Problem Representation and Solving, Informed and Uninformed Search Algorithms. Knowledge Representation, Reasoning, System Architectures, Knowledge Systems. Automated Planning. Non–symbolic Logic (Genetic Algorithms, Neural Networks). Intelligent Agents and Distributed A.I. Systems. Machine Learning. Applications (Natural Language Processing, Computer Vision, Robotics)."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διαφάνειες σε ηλεκτρονική μορφή, εργαλεία Η/Υ & Βιντεοπαρουσιάσεις. ",
+                    "en": "Slides in electronic format, software tools & videos."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "13",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "50",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Αξιολογήση με γραπτές εξετάσεις.\r\nΟι εργασίες που ολοκληρώνουν οι φοιτητές και βαθμολογούνται προσφέρουν επιπλέον μονάδες στον τελικό βαθμό.\r\n",
+                    "en": "Final Exams (at the end of the semester)plus bonus grades from projects.\r\n"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Τεχνητή Νοημοσύνη, Ι. Βλαχάβας, Π. Κεφαλάς, Ν. Βασιλειάδης, Φ. Κόκκορας, Η. Σακελλαρίου, Γ' Έκδοση, Εκδόσεις Πανεπιστημίου Μακεδονίας, 2011, ISBN: 978-960-8396-64-7\r\n2. Τεχνητή Νοημοσύνη: Μια σύγχρονη προσέγγιση, S Russel, P. Norvig, ΚΛΕΙΔΑΡΙΘΜΟΣ, ISBN: 9602098732",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600104716"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8143"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Τεχνητή Νοημοσύνη, Ι. Βλαχάβας, Π. Κεφαλάς, Ν. Βασιλειάδης, Φ. Κόκκορας, Η. Σακελλαρίου, Γ' Έκδοση, Εκδόσεις Πανεπιστημίου Μακεδονίας, 2011, ISBN: 978-960-8396-64-7\r\n2. Τεχνητή Νοημοσύνη: Μια σύγχρονη προσέγγιση, S Russel, P. Norvig, ΚΛΕΙΔΑΡΙΘΜΟΣ, ISBN: 9602098732",
+            "additional": ""
+        }
+    },
+    "winter": false,
+    "period": 4
+}

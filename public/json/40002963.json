@@ -1,0 +1,258 @@
+{
+    "coursecode": "NDM-06-02",
+    "AltKey": "NDM-06-02",
+    "title": "ΕΠΕΞΕΡΓΑΣΙΑ ΣΤΟΧΑΣΤΙΚΟΥ ΣΗΜΑΤΟΣ",
+    "titleEN": "STOCHASTIC SIGNAL PROCESSING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155609,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΠΕΞΕΡΓΑΣΙΑ ΣΤΟΧΑΣΤΙΚΟΥ ΣΗΜΑΤΟΣ",
+                    "en": "STOCHASTIC SIGNAL PROCESSING"
+                },
+                "course_code": "NDM-06-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Κωνσταντίνος Κοτρόπουλος"
+            },
+            "class_info": {
+                "class_title": "ΕΠΕΞΕΡΓΑΣΙΑ ΣΤΟΧΑΣΤΙΚΟΥ ΣΗΜΑΤΟΣ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Κοτρόπουλος Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121301"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8157"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προηγούμενη έκθεση σε ένα εισαγωγικό μάθημα σε Πιθανότητες-Στατιστική, Σήματα-Συστήματα, Ψηφιακή Επεξεργασία Σήματος βοηθά στην πρόσληψη παραστάσεων και γρηγορότερη αφομοίωση των εννοιών.",
+                    "en": "Prior exposition to an introductory course on probabilities and statistics, signals and systems, and digital signal processing facilitates creating insight and faster grasping of the concepts introduced."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί:  Εξοικείωση με την έννοια του τυχαίου στη μετάδοση σημάτων, επεξεργασία εικόνων και ανάλυση του (προφορικού και γραπτού) λόγου. Εμπέδωση των εννοιών της τυχαίας μεταβλητής, του τυχαίου διανύσματος, του στοχαστικού σήματος και των ροπών τυχαίων μεταβλητών με έμφαση στην αυτοσυσχέτιση. Θεμελίωση των απαραίτητων εργαλείων για την ανάλυση γραμμικών συστημάτων που διεγείρονται από στοχαστικά σήματα.\r\nΔεξιότητες: Όξυνση αναλυτικών και προγραμματιστικών δεξιοτήτων. Θεμελίωση υποβά-θρου για τη σπουδή της επεξεργασίας εικόνων, ομιλίας, ήχου, βιοϊατρικών σημάτων, αλλά και για την εμβάθυνση σε θέματα αναγνώρισης προτύπων, στατιστικής μηχανικής μάθησης. Προγραμματισμός εφαρμογών στην ομιλία, μουσική, τηλεπικοινωνίες σε περιβάλλον MATLAB.",
+                "en": "Cognitive: Acquaintance with randomness and its impact in signal transmission; image, speech, and audio processing; language processing. Thorough grasp of the concepts of random variable, random vector, stochastic signal, moments of random variables with emphasis on the autocorrelation. Augmenting and revising linear system theory so that it allows for the analysis of linear systems excited by stochastic signals.\r\nSkills: Promoting analytical and programming skills in signal processing. Building the foundations for undertaking advanced studies in image, speech, audio, and biomedical signal processing as well as further reading in pattern recognition and statistical learning theory. Programming applications to speech, music, and telecommunications in MATLAB."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Αξιωματική θεωρία πιθανοτήτων. Επαναλαμβανόμενα πειράματα τύχης. Τυχαία μεταβλητή. Συναρτήσεις τυχαίων μεταβλητών. Στατιστικές ιδιότητες από-κοινού. Ροπές και υπό-συνθήκη στατιστικές ιδιότητες. Στοχαστικά σήματα. Βασικές κατηγορίες στοχαστικών σημάτων (Γκαουσιανό, Μαρκοβιανό, Στάσιμο, Εργοδικό). Στατιστική συνάρτηση αυτοσυσχέτισης και ετεροσυσχέτισης. Σχέση εισόδου-εξόδου γραμμικού συστήματος με στοχαστική διέγερση. Θεωρία βέλτιστων γραμμικών συστημάτων. Εκτίμηση μέσου τετραγωνικού σφάλματος.",
+                    "en": "Probability theory. Repeated trials. Random variables. Functions of random variables. Joint statistics. Moments and conditional statistics. Stochastic signals. Basic categories of stochastic signals (Gaussian, Markov, Stationary, Ergodic) . Statistical auto-correlation and cross-correlation function. Input-output relationship of linear systems with stochastic excitation. Theory of optimal linear systems. Mean square estimation."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διαφάνειες σε ηλεκτρονική μορφή, MATLAB demos.",
+                    "en": "Slides and MATLAB demos."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Οι φοιτητές αξιολογούνται με βάση τις επιδόσεις τους κατά την εκπόνηση υποχρεωτικών εργασιών, την παρακολούθηση των παραδόσεων και την ενεργητική συμμετοχή τους σ' αυτές, καθώς και τις επιδόσεις τους σε δύο προόδους που διενεργούνται στη διάρκεια του εξαμήνου. \r\nΟι υποχρεωτικές εργασίες αφορούν την επίλυση δύο (2) άλυτων ασκήσεων ανά κεφάλαιο της διδαχθείσας ύλης και την εκπόνηση δύο (2)  υπολογιστικών εργασιών σ' όλο το εξάμηνο που ανατίθενται σε κάθε φοιτητή από το διδάσκοντα. \r\nΟι πρόοδοι αφορούν την σύντομη απάντηση σε 10-15 ερωτήματ/προβλήματα που καλύπτουν την ύλη που διδάχθηκε.\r\nΗ ανακοίνωση της ανάθεσης εργασιών στους φοιτητές γίνεται στη σελίδα του μαθήματος στον ΠΗΛΕΑ http://pileas.csd.auth.gr. Οι φοιτητές προάγονται, εφόσον ο τελικός βαθμός είναι μεγαλύτερος ή ίσος του πέντε (5). Λεπτομέρειες επί της διαδικασίας παρατίθενται στον ΠΗΛΕΑ, οι οποίες καταργούν όποια άλλη ρύθμιση.",
+                    "en": "Students are graded taking into account their achievements in the compulsory home-work assigned to them, their attendance and active participation in the lectures and tutorials, and the   assessment of the mid-term and final progress exams.\r\nCompulsory homework includes solving two problems per chapter of Papoulis’ textbook taught and working out two computer-based projects in MATLAB assigned to each student during the semester. \r\nDuring the mid-term and final progress exams, students are requested to provide short answers in 10-15 questions/problems covering the topics taught in the course.\r\nHomework assignment and deadlines are announced in the course web page at http://pileas.csd.auth.gr. Students pass the course, if their total grade is greater than on equal to five (5). Details on the grading procedure are announced in the course web page, which supersede any prior arrangement."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Papoulis A., Pillai S. (translated in Greek) «Πιθανότητες, Τυχαίες Μεταβλητές και Στοχαστικές Διαδικασίες», 4η Έκδοση, Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2005.\r\nΠανάς Σ. «Ανάλυση Στοχαστικού Σήματος», University Studio Press, Θεσσαλονίκη, 1985.      ",
+                "additional_bibliography_for_study": "S. M. Kay, Intuitive Probability and Random Processes Using MATLAB}. New York, N.Y.: Springer 2006. (e-book accessible through www.lib.auth.gr)\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (e-book accessible through www.lib.auth.gr) \r\nR. E. Ziemer, Elements of Engineering Probability and Statistics. Upper Saddle River, N.J.: Prentice-Hall, 1997.\r\nD. P. Bertsekas and J. N. Tsitsiklis, Introduction to Probability. Belmont, MA: Athena Scientific, 2002.\r\nC. S. Burrus, J. H. McClellan, A. V. Oppenheim, T. W. Parks, R. W. Schafer, and H. W. Schuessler, Computer-Based Exercises for Signal Processing. Englewood Cliffs, N.J.: Prentice-Hall, 1994."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121301"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8157"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Papoulis A., Pillai S. (translated in Greek) «Πιθανότητες, Τυχαίες Μεταβλητές και Στοχαστικές Διαδικασίες», 4η Έκδοση, Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2005.\r\nΠανάς Σ. «Ανάλυση Στοχαστικού Σήματος», University Studio Press, Θεσσαλονίκη, 1985.      ",
+            "additional": "S. M. Kay, Intuitive Probability and Random Processes Using MATLAB}. New York, N.Y.: Springer 2006. (e-book accessible through www.lib.auth.gr)\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (e-book accessible through www.lib.auth.gr) \r\nR. E. Ziemer, Elements of Engineering Probability and Statistics. Upper Saddle River, N.J.: Prentice-Hall, 1997.\r\nD. P. Bertsekas and J. N. Tsitsiklis, Introduction to Probability. Belmont, MA: Athena Scientific, 2002.\r\nC. S. Burrus, J. H. McClellan, A. V. Oppenheim, T. W. Parks, R. W. Schafer, and H. W. Schuessler, Computer-Based Exercises for Signal Processing. Englewood Cliffs, N.J.: Prentice-Hall, 1994."
+        }
+    },
+    "winter": false,
+    "period": 6
+}

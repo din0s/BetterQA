@@ -1,0 +1,215 @@
+{
+    "coursecode": "NGE-06-03",
+    "AltKey": "NGE-06-03",
+    "title": "ΘΕΜΕΛΙΩΣΕΙΣ ΚΡΥΠΤΟΓΡΑΦΙΑΣ",
+    "titleEN": "FOUNDATIONS OF CRYPTOGRAPHY",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155639,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΘΕΜΕΛΙΩΣΕΙΣ ΚΡΥΠΤΟΓΡΑΦΙΑΣ",
+                    "en": "FOUNDATIONS OF CRYPTOGRAPHY"
+                },
+                "course_code": "NGE-06-03",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Κωνσταντίνος Δραζιώτης"
+            },
+            "class_info": {
+                "class_title": "ΘΕΜΕΛΙΩΣΕΙΣ ΚΡΥΠΤΟΓΡΑΦΙΑΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Δραζιώτης Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004989"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://users.auth.gr/drazioti/cource_crypto.htm"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6449"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-01-01 ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ Ι",
+                    "NCO-01-03 ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ",
+                    "NCO-01-04 ΔΙΑΚΡΙΤΑ ΜΑΘΗΜΑΤΙΚΑ",
+                    "NCO-01-05 ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "NCO-02-01 ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ ΙΙ",
+                    "NCO-02-05 ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ",
+                    "NCO-04-03 ΑΛΓΟΡΙΘΜΟΙ"
+                ],
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Ο στόχος του μαθήματος είναι να αποκτήσουν οι φοιτητές βασικές γνώσεις της σύγχρονης κρυπτογραφίας.",
+                "en": "The goal of the course is to provide a basic knowledge of modern cryptography."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "A. Εισαγωγή στη Κρυπτογραφία \r\nΑ1. Ιστορία της Κρυπτολογίας (Σπαρτιατική Σκυτάλη, Σύστημα του Καίσαρα κλπ)\r\nΑ2. Σύστημα Αντικατάστασης--Substitution ciphers\r\nΑ3. Σύστημα Μετάθεσης--Transposition ciphers\r\nA4. Σύστημα του Vigenere (Παρουσίαση και κρυπτανάλυση)\r\nΒ. Συμμετρική κρυπτογραφία \r\nΒ1. σημειωματάριο της μιας φοράς--One Time Pad\r\nΒ2. Τέλεια ασφάλεια κατά Shanon, Kρυπτοσυστήματα ροής--Stream ciphers\r\nΒ3. Σχήμα του Feistel, Σύστημα DES\r\nΒ4. Σχήμα SPN, Σύστημα AES\r\nB5. Συναρτήσεις κατακερματισμού--hash functions\r\nB6. MAC\r\nΓ. Κρυπτογραφία Δημοσίου Kλειδιού \r\nΓ1. Εισαγωγή (Πρόβλημα ανταλλαγής κλειδιού, Merkle Puzzles)\r\nΓ2. Μαθηματικό υπόβαθρο (διαιρετότητα στο Ζ, πρώτοι αριθμοί, GCD, Ευκλείδειος Αλγόριθμος, γραμμικές ισοδυναμίες, Κινέζικο θεώρημα υπολοίπων) \r\nΓ3. Aνταλλαγή κλειδιού Diffie-Hellman, Πρόβλημα των Diffie-Hellman\r\nΓ4. RSA Trapdoor Function, Rabin Trapdοor Function, Kρυπτοσυστήματα RSA & Rabin\r\nΓ5.  Πρόβλημα Διακριτού λογάριθμου mod p--DLP, Κρυπτοσύστημα του EL Gamal\r\nΓ6. Ψηφιακές υπογραφές RSA, ElGamal, DSA\r\nΓ7. Ψηφιακά Πιστοποιητικά, PGP(υλοποιήσεις του OpenPGP)",
+                    "en": "Α. Introduction to cryptography\r\nΑ1. History of Cryptology \r\nΑ2. Substitution ciphers\r\nΑ3. Transposition ciphers\r\nA4. Vigenere cryptosystem\r\nΒ. Symmetrical Cryptography \r\nΒ1. One Time Pad\r\nΒ2. Perfect Security-Stream ciphers\r\nΒ3. DES\r\nΒ4. AES\r\nB5. Hash functions\r\nΓ. Public Key cryptography\r\nΓ1. Diffie-Helmann\r\nΓ2. Mathmeatical Bckground\r\nΓ3. RSA Trapdoor Function, Rabin Trapdοor Function, \r\nΓ5. EL Gamal cryptosystem\r\nΓ6. RSA, ElGamal, DSA -- Digital signatures\r\nΓ7. Open PGP (presentation)"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "70",
+                        "credits": "2.333",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "25",
+                        "credits": "0.834",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1.Κρυπτογραφία για Ασφάλεια Δικτύων Αρχές και Εφαρμογές, William Stallings",
+                "additional_bibliography_for_study": "1. Crypotgraphy an introduction, N.Smart (3rd edition) (online: https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)\r\n2. Handobook of Applied Cryptography, Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone (on line : http://cacr.uwaterloo.ca/hac/)\r\n3. Cryptography. An Introduction (Student Mathematical Library , AMS), V.V. Yaschenko"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004989"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://users.auth.gr/drazioti/cource_crypto.htm"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6449"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1.Κρυπτογραφία για Ασφάλεια Δικτύων Αρχές και Εφαρμογές, William Stallings",
+            "additional": "1. Crypotgraphy an introduction, N.Smart (3rd edition) (online: https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)\r\n2. Handobook of Applied Cryptography, Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone (on line : http://cacr.uwaterloo.ca/hac/)\r\n3. Cryptography. An Introduction (Student Mathematical Library , AMS), V.V. Yaschenko"
+        }
+    },
+    "winter": false,
+    "period": 6
+}

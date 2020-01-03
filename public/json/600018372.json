@@ -1,0 +1,99 @@
+{
+    "coursecode": "NNA-08-07",
+    "AltKey": "64-NNA-08-07",
+    "title": "ΜΙΚΡΟΕΠΕΞΕΡΓΑΣΤΕΣ",
+    "titleEN": "MICROPROCESSORS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155585,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΙΚΡΟΕΠΕΞΕΡΓΑΣΤΕΣ",
+                    "en": "MICROPROCESSORS"
+                },
+                "course_code": "NNA-08-07",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Γεώργιος Κεραμίδας"
+            },
+            "class_info": {
+                "class_title": "ΜΙΚΡΟΕΠΕΞΕΡΓΑΣΤΕΣ",
+                "academic_year": "2019 – 2020",
+                "class_period": "Χειμερινή",
+                "instructors": "Κεραμίδας Γεώργιος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": [],
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600154366"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": [],
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "",
+                "en": ""
+            },
+            "general_competences": [],
+            "learning_outcomes_categorization": [],
+            "levels_of_intended_learning_outcomes": [],
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "",
+                    "en": ""
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": [],
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": [],
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": [],
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": []
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600154366"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 8
+}

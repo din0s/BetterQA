@@ -1,0 +1,272 @@
+{
+    "coursecode": "NIS-07-01",
+    "AltKey": "NIS-07-01",
+    "title": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ",
+    "titleEN": "WEB INFORMATION SYSTEMS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155572,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ",
+                    "en": "WEB INFORMATION SYSTEMS"
+                },
+                "course_code": "NIS-07-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Αθηνά Βακάλη"
+            },
+            "class_info": {
+                "class_title": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Τσουμάκας Γρηγόριος, Βακάλη Αθηνά, Τσουμάκας Γρηγόριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004914"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/el/studies/undergraduate/courses"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "http://elearning.auth.gr"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-01-05 ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "NCO-05-03 ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ"
+                ],
+                "general_prerequisites": {
+                    "el": "Πολύ καλό επίπεδο αγγλικών, γνώση των βασικών αρχών των πληροφοριακών συστημάτων, εμπειρία σε εφαρμογές και τεχνολογίες του Παγκόσμιου Ιστού, προχωρημένο επίπεδο προγραμματισμού σε C/C++/JAVA.",
+                    "en": "Good level of English, knowledge of information systems principles, background on Web framework and current Web technologies, advanced level in Java programming."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Κατανόηση των θεμελιωδών αρχών των Πληροφοριακών Συστημάτων του Παγκόσμιου Ιστού, αναγνώριση βασικών θεμάτων που σχετίζονται με τη διαχείριση πληροφοριών του Παγκόσμιου Ιστού, την υλοποίηση εφαρμογών του Παγκόσμιου Ιστού και την πρόσβαση στα δεδομένα του Παγκόσμιου Ιστού μέσω διεπαφών. Εκπαίδευση στο σχεδιασμό και την ανάπτυξη εφαρμογών επικεντρωμένων στον Παγκόσμιο Ιστό.",
+                "en": "Understanding Web information Systems principles, identify core issues involved in web in-formation management, implementation of Web-based applications and Web accessing over interfaces. Training on designing and developing of Web-centered data-intensive applications."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικές έννοιες για τα Πληροφοριακά Συστήματα Ιστού. Σχεδιασμός και υλοποίηση εφαρμογών για το Διαδίκτυο με χρήση σύγχρονων περιβαλλόντων και τεχνικών (τεχνολογία Java, XML, PHP). Μοντέλα και δομές πληροφορίας για αποδοτική διαχείριση δεδομένων με χρήση εφαρμογών και εργαλείων (PHP, MySQL) για πρόσβαση σε δεδομένα του Παγκόσμιου Ιστού. Υποδομές και πρωτόκολλα για τις εφαρμογές Παγκόσμιου Ιστού. Προχωρημένες λειτουργίες και μικρο-εφαρμογές με χρήση του περιβάλλοντος της Java και με έμφαση στη δια-συνδεσμικότητα της με βάσεις δεδομένων και πληροφοριακά συστήματα. Το περιβάλλον του Κοινωνικού Ιστού και εφαρμογές διαχείρισης δεδομένων με Web 2.0 τεχνολογίες. Μηχανές αναζήτησης Ιστού και λειτουργικότητα τους.",
+                    "en": "Basic concepts for Web information systems. Design and implementation of Internet based applications by using modern frameworks and techniques (Java, XML, PHP technologies) . Models and information structures appropriate for data management by using applications and tools (PHP, MySQL) for Web data accessing. Web applications protocols and infrastructures. Java advanced functionalities and applets with emphasis on the database and information systems connectivity. The Social Web environment and data management applications with the use of Web 2.0 technologies. Web search engines and their functionality."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Στη διδασκαλία χρησιμοποιούνται διαφάνειες powerpoint και το περιβάλλον ανάπτυξης ιστότοπων Microsoft Expression Web\r\nΓια την επικοινωνία με τους φοιτητές χρησιμοποιείται email και η πλατφόρμα ασύγχρονης τηλε-εκπαίδευσης ΠΗΛΕΑΣ που βασίζεται στις πλατφόρμες eCASE και Moodle",
+                    "en": "Powerpoint slides and Microsoft Expression Web are used during lectures \r\nCommunication with students is based on email and on the asynchronous distance learning platform PILEAS, which is based on the eCASE and Moodle platforms"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "12",
+                        "credits": "0.4",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "27",
+                        "credits": "0.9",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Δύο υποχρεωτικές εργασίες (1 βιβλιογραφική ή μικρής υλοποίησης  και 1 εκτενής προγραμματιστική) με βάρος 40% (θα υπολογίζονται με την προϋπόθεση το γραπτό της τελικής εξέτασης να έχει αξιολογηθεί με τουλάχιστον 4.5/10), μία προαιρετική εργασία για βελτίωση βαθμολογίας κατά 10%,  γραπτές εξετάσεις με βάρος 60 % (πιθανή ενδιάμεση πρόοδος με βάρος 15 %, τελική εξέταση με βάρος 45%). Τα παραπάνω κριτήρια έχουν αναρτηθεί στην ιστοσελίδα του μαθήματος.",
+                    "en": "2 compulsory projects (one theoretical or involving limited implementation and one involving extended implementation) weighting 40% (assuming the final examination mark is at least 4.5/10) , 1 optional project for grade improvement by 10%, written exams weighting 60% (potential mid-term weighting 15%, final exams weighting 45%) . Evaluation criteria are mentioned in the course webpages."
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Βιβλίο [22739941]: ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ, Αθηνά Βακάλη, Ζαχαρούλα Παπαμήτσιου",
+                "additional_bibliography_for_study": "Despoina Chatzakou and Athena Vakali. Harvesting Opinions and Emotions from Social Media Textual Resources. IEEE Internet Computing, vol.19, no.4, pp.46,50, July-Aug. 2015.\r\n\r\nEvangelia Polymerou, Despoina Chatzakou, and Athena Vakali. EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content. In Rajendra Akerkar, Nick Bassiliades, John Davies, and Vadim Ermolayev, editors, WIMS, page 20. ACM, 2014. \r\n\r\nWeb 2.0: Concepts and Applications by Gary B. Shelly and Mark Frydenberg,  2010."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004914"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/el/studies/undergraduate/courses"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "http://elearning.auth.gr"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Βιβλίο [22739941]: ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΠΑΓΚΟΣΜΙΟΥ ΙΣΤΟΥ, Αθηνά Βακάλη, Ζαχαρούλα Παπαμήτσιου",
+            "additional": "Despoina Chatzakou and Athena Vakali. Harvesting Opinions and Emotions from Social Media Textual Resources. IEEE Internet Computing, vol.19, no.4, pp.46,50, July-Aug. 2015.\r\n\r\nEvangelia Polymerou, Despoina Chatzakou, and Athena Vakali. EmoTube: A Sentiment Analysis Integrated Environment for Social Web Content. In Rajendra Akerkar, Nick Bassiliades, John Davies, and Vadim Ermolayev, editors, WIMS, page 20. ACM, 2014. \r\n\r\nWeb 2.0: Concepts and Applications by Gary B. Shelly and Mark Frydenberg,  2010."
+        }
+    },
+    "winter": false,
+    "period": 7
+}

@@ -1,0 +1,211 @@
+{
+    "coursecode": "NIS-08-03",
+    "AltKey": "NIS-08-03",
+    "title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ",
+    "titleEN": "COMPUTATIONAL GEOMETRY",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155582,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ",
+                    "en": "COMPUTATIONAL GEOMETRY"
+                },
+                "course_code": "NIS-08-03",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Κωνσταντίνος Τσίχλας"
+            },
+            "class_info": {
+                "class_title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Τσίχλας Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600005006"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://delab.csd.auth.gr/~tsichlas/geometry.html"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-02-03 ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ",
+                    "NCO-04-03 ΑΛΓΟΡΙΘΜΟΙ"
+                ],
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "• Εκμάθηση των βασικών αλγοριθμικών μεθόδων στην υπολογιστική γεωμετρία.\r\n• Εκμάθηση εργαλείων ανάλυσης και σχεδίασης αλγορίθμων με έμφαση στην υπολογιστική γεωμετρία.\r\n• Εφαρμογές και προγραμματισμός σε γλώσσα υωηλού επιπέδου τέτοιων αλγορίθμων.",
+                "en": "• Learning of basic algorithmic techniques in computational geometry.\r\n• Learning of analysis and design tools with emphasis in computational geometry.\r\n• Applications and programming of such algorithms. "
+            },
+            "general_competences": {
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Ανάλυση",
+                    "Αξιολόγηση"
+                ],
+                "Affective Domain": [
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Τομή ευθυγράμμων τμημάτων, Τριγωνοποίηση πολυγώνων, Γραμμικός προγραμματισμός στη γεωμετρία, Αναζήτηση περιοχής (orthogonal range), Εντοπισμός σημείων, Διαγράμματα Voronoi, Τριγωνοποίηση Delaunay, Γεωμετρικές δομές, Κυρτό περίβλημα, Δυαδικές χωρικές διαμερίσεις, Γράφοι ορατότητας.",
+                    "en": "Line segment intersection, Polygon Triangulation, Linear Programming, Orthogonal range searching, Point location, Voronoi diagrams, Delaunay triangulations, Geometric data structures, Convex hulls, Binary space partitions, Visibility graphs."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "48",
+                        "credits": "1.6",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "2",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Μπορεί να βρει την σχετική πληροφορία στην ιστοσελίδα του μαθήματος.",
+                    "en": "One can find this information in the course webpage."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ - ΑΛΓΟΡΙΘΜΟΙ ΚΑΙ ΕΦΑΡΜΟΓΕΣ, DE BERG MARK, CHEONG OTFRIED, VAN KREVELT MARC, OVERMARS MARK, ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, 2011.\r\n2. ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ: ΜΙΑ ΣΥΓΧΡΟΝΗ ΑΛΓΟΡΙΘΜΙΚΗ ΠΡΟΣΕΓΓΙΣΗ, ΓΙΑΝΝΗΣ Ζ. ΕΜΙΡΗΣ, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ, 2008.",
+                "additional_bibliography_for_study": "1. J. O'Rourke, Computational Geometry in C, Cambridge University Press, 2nd edition, 1998.\r\n2. F.P. Preparata and M.I. Shamos, Computational Geometry: An Introduction, Springer, New York, 1985.\r\n3. Handbook of Discrete and Computational geometry."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600005006"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://delab.csd.auth.gr/~tsichlas/geometry.html"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ - ΑΛΓΟΡΙΘΜΟΙ ΚΑΙ ΕΦΑΡΜΟΓΕΣ, DE BERG MARK, CHEONG OTFRIED, VAN KREVELT MARC, OVERMARS MARK, ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, 2011.\r\n2. ΥΠΟΛΟΓΙΣΤΙΚΗ ΓΕΩΜΕΤΡΙΑ: ΜΙΑ ΣΥΓΧΡΟΝΗ ΑΛΓΟΡΙΘΜΙΚΗ ΠΡΟΣΕΓΓΙΣΗ, ΓΙΑΝΝΗΣ Ζ. ΕΜΙΡΗΣ, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ, 2008.",
+            "additional": "1. J. O'Rourke, Computational Geometry in C, Cambridge University Press, 2nd edition, 1998.\r\n2. F.P. Preparata and M.I. Shamos, Computational Geometry: An Introduction, Springer, New York, 1985.\r\n3. Handbook of Discrete and Computational geometry."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

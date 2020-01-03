@@ -1,0 +1,342 @@
+{
+    "coursecode": "NET-06-01",
+    "AltKey": "NET-06-01",
+    "title": "ΔΙΕΠΑΦΕΣ ΦΟΡΗΤΩΝ ΣΥΣΚΕΥΩΝ",
+    "titleEN": "MOBILE DEVICE INTERFACES",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155638,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΔΙΕΠΑΦΕΣ ΦΟΡΗΤΩΝ ΣΥΣΚΕΥΩΝ",
+                    "en": "MOBILE DEVICE INTERFACES"
+                },
+                "course_code": "NET-06-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Διονύσιος Πολίτης"
+            },
+            "class_info": {
+                "class_title": "ΔΙΕΠΑΦΕΣ ΦΟΡΗΤΩΝ ΣΥΣΚΕΥΩΝ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Πολίτης Διονύσιος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο",
+                "2": "Eξ απoστάσεως εκπαίδευση"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004984"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "Wiki"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Συνίσταται η προηγούμενη ενασχόληση με την \"Επικοινωνία Ανθρώπου Υπολογιστή\", καθώς και η γνώση αντικειμενοστρεφών γλώσσών προγραμματισμού, όπως η Java. \r\n",
+                    "en": "A previous engagement with \"Human Computer Interaction\" is recommended, and a good knowledge of object-oriented programming languages, as is Java."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Ο σκοπός του μαθήματος είναι διττός: Αφενός πρέπει οι διδασκόμενοι να εξοικειωθούν με την ευρεία χρήση των πάσης φύσεως φορητών συσκευών, και αφετέρου πρέπει να είναι σε θέση να παραμετροποιούν, σχεδιάζουν και προγραμματίζουν τις διεπαφές που καθορίζουν την αλληλεπίδραση με τις φορητές συσκευές και το Διαδίκτυο. \r\n\r\nΠρος τούτο, δίνεται έμφαση:\r\n- Στη θεωρητική τεκμηρίωση των \"μεταφορών\" (metaphors) και των \"παραδειγμάτων\" (paradigms) \r\n- Στην παραμετροποίηση των διεπαφών φορητών συσκευών\r\n- Στην εκμάθηση γλωσσών προγραμματισμού που να να δημιουργούν με τεχνικές ταχείας προτυποποίησης (rapid prototyping) διαδραστικά μοντέλα που υλοποιούν τις τεχνικές \"διαλόγου\" που επιτάσσει η θεωρία.",
+                "en": "The purpose of this course is twofold: Primarily, attendants should become familiar with the wide use of all kinds of mobile devices, and secondly, they should become able to configure, design and program Interfaces that form the interaction with the mobile devices per se and the Internet.\r\n\r\nTo committ this, emphasis is given on:\r\n- The theoretical approach for \"metaphors\" and \"paradigms\"\r\n- The parametrization of mobile device interfaces\r\n- The learning of programming languages, entackled with rapid prototyping techniques that implement interactive models and \"dialogues\" according to theory."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 6",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή: Περιγραφή των διεπαφών και των λειτουργιών ενός τυπικού φορητού συστήματος. Τα στοιχεία εισόδου (keyboards, chord keyboards, phone pads, handwriting devices, \"mouses\", gyroscopes, physical control sensors, iDrives κ.α.) και εξόδου (πολλαπλές οθόνες, μεγάλες -large- οθόνες, situated displays, dedicated displays, HDMI, DLNA, digital paper κ.α.) H διάδραση με φορητές συσκευές. Τα δικτυακά πρωτόκολλα επικοινωνίας με περιφερειακές συσκευές και το Διαδίκτυο (wi-fi, bluetooth, radio link, electromagnetic & optical interfacing). Ο μύθος της απεριόριστα εξελίξιμης συσκευής (infinetely fast machine). Η πανταχού παρούσα συσκευή, ο Δικτυακός Προγραμματισμός (Networked Computing) και το Yπολογιστικό Σύννεφο (Cloud Computing). Περιορισμοί στην αλληλεπίδραση με τις φορητές συσκευές.\r\nΠροσδιορίζοντας τα στοιχεία της διεπαφής: appearance, interaction, design. Προσδιορίζοντας τα στοιχεία του χρήστη: behavioral aspects, liveness, dynamic interactions. Ανθρώπινοι παράγοντες (human factors) και φυσιολογία. Ο νόμος του Fitts.\r\nΣχεδιάζοντας την διεπαφή: Τα μοντέλα (models), τα παραδείγματα (paradigms) και οι μεταφορές (metaphors) που χρησιμοποιούν οι φορητές διεπαφές σε αντικατάσταση του desktop metaphor των σταθερών υπολογιστικών συστημάτων. Ταχεία προτυποποίηση (rapid prototyping) και σχεδίαση με script γλώσσες προγραμματισμού του διαδραστικού περιεχομένου (context) της αλληλεπίδρασης:  dialogue widgets,  query interfaces, WIMP (=Windows, Icons, Menus, Pointers) interfaces, Script Programming Toolkits. Συνολική παραμετροποίηση του πλαισίου αλληλεπίδρασης με τις φορητές συσκευές και δημιουργία Interaction Paradigm για τον προγραμματισμό με διαδικαστικές γλώσσες (Language versus Action). \r\nΠρογραμματισμός της διεπαφής: Βασικές αρχές προγραμματισμού σε iOS, Android, Windows8. Διαδικτυακός προγραμματισμός και εφαρμογές (apps) φορητών συσκευών.  \r\nΕκπαιδευτικές Απόψεις των διεπαφών φορητών συσκευών: Multimodality, Computer Supported Cooperative Work, Social Networks με φορητές συσκευές, Ubiquitus Computing. Σχεδιάζοντας την μάθηση με φορητές συσκευές (m-learning).\r\n",
+                    "en": "Intoduction: Describing the interfaces and functions of a typical mobile system. Data input (keyboards, chord keyboards, phone pads, handwriting devices, \"mouses\", gyroscopes, physical control sensors, iDrives etc.) and output (multiple screens , large -large- screens , situated displays, dedicated displays, HDMI , DLNA, digital paper , etc. ). Interacting with portable devices. Network protocols enabling communication with peripheral devices and the Internet (wi-fi, bluetooth, radio link, electromagnetic & optical interfacing). The myth of the unbound evolution for mobile devices (infinetely fast machine). Ubiquitous devices, Networked Computing and Cloud Computing. Restrictions on interaction with portable devices.\r\nSpecifying the interface elements : appearance, interaction, design. Identifying the user's data : behavioral aspects, liveness, dynamic interactions. Human factors and physiology. The law of Fitts.\r\nDesigning the interface : Models, paradigms and metaphors that will replace the desktop metaphor of fixed computing systems. Rapid prototyping and design with script programming languages for context interaction: dialogue widgets, query interfaces, WIMP (= Windows, Icons, Menus, Pointers) interfaces, Script Programming Toolkits. Overall interaction framework customization with mobile devices and Interaction Paradigms for procedural lanuage programming ​​(Language versus Action).\r\nProgramming the Interface : Basic programming principles in iOS, Android, and Windows8. Internet programming and applications (apps) for mobile devices.\r\nEducational Views for Mobile Interfaces : Multimodality, Computer Supported Cooperative Work, Social Networks using Mobile Devices, Ubiquitus Computing. Designing learning with mobile devices (m-learning)."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "6": "Πολυμεσικό υλικό",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιούνται τα εργαλεία του VLE Moodle (http://elearning.auth.gr):\r\n-Ηλεκτρονικά Τεστ\r\n-Ηλεκτρονική υποβολή και παρουσίαση εργασιών μέσω Journal και Wiki\r\n-Συμμετοχική διαδικασία με χρήση Forum του VLE",
+                    "en": "The Following tools of the Moodle VLE (http://elearning.auth.gr) are often used:\r\n-Electronic Tests\r\n-Electronic submission and presentation of papers, implemented with Journals and Wikis\r\n-Participation on the VLE's Fora"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "24",
+                        "workload": "24",
+                        "credits": "0.8",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "2": {
+                    "activity": {
+                        "name": "Σεμινάρια",
+                        "hours_of_instruction": "3",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "6",
+                        "workload": "18",
+                        "credits": "0.6",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "6",
+                        "workload": "18",
+                        "credits": "0.6",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "7": {
+                    "activity": {
+                        "name": "Πρακτική (Τοποθέτηση)",
+                        "hours_of_instruction": "3",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "10": {
+                    "activity": {
+                        "name": "Διαδραστική διδασκαλία στο Υπολογιστικό Κέντρο",
+                        "hours_of_instruction": "3",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "11": {
+                    "activity": {
+                        "name": "Εκπαιδευτικές επισκέψεις και παρακολούθηση συνεδρίων / σεμιναρίων / εκδηλώσεων",
+                        "hours_of_instruction": "3",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "1.734",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "20",
+                        "credits": "0.667",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "4",
+                        "workload": "4",
+                        "credits": "0.133",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Το μάθημα εφαρμόζει υβριδικό μοντέλο μάθησης σε ποσοστό 70% - 30%.\r\nΤο 70% της ύλης παρουσιάζεται με τη μορφή κλασικής διδασκαλίας στο αμφιθέατρο και στο εργαστήριο. Από τους παρακολουθούντες απαιτείται η παρουσίαση βιβλιογραφικών εργασιών (2 τουλάχιστον) και ενός προγραμματιστικού project με γλώσσες και τεχνικές τάχιστης προτυποποίησης. \r\nΤο 30% της διδασκαλίας γίνεται με ηλεκτρονικά μέσα υποβοήθησης και περιλαμβάνει:\r\n- Ηλεκτρονικά τεστ (2 τουλάχιστον) μέσω του VLE του ΑΠΘ (Blackboard στο τρέχον έτος)\r\n- Ηλεκτρονική Υποβολή ασκήσεων και μετρήσεων\r\n- Συμμετοχή σε forum και wiki του μαθήματος που εδράζονται σε υπηρεσίες \r\nτου ΑΠΘ και του Διαδικτύου. ",
+                    "en": "This course applies a hybrid learning model in a 70% - 30% ratio.\r\n70% of the course material is presented in the form of ex-cathedra teaching in classes and in the laboratory. The attendants are required to present bibliographical essays (at least 2) and demonstrate a \r\nproject,  based on programming languages ​​and techniques for rapid prototyping.\r\n\r\n30% of the teaching is offerd  via electronic media and includes:\r\n- Electronic Tests (at least 2) using AUTh's VLE (Blackboard for this year)\r\n- Electronic Submission of exercises and/or assignments\r\n- Participation in the Fora and Wikis that AUTh offers over the Internet."
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Σχεδίαση Διαδραστικότητας: Επεκτείνοντας την Αλληλεπίδραση Ανθρώπου-Υπολογιστή, των Y.  Rogers, H. Sharp, Jenny Preece, M. Γκιούρδας, 2013, ISBN: 978 960 512 650 6\r\n(Ελλέιψει περισσότερο ειδικευμένου συγγράματος στην Ελληνική)",
+                "additional_bibliography_for_study": "• Build Mobile: Websites and Apps for Smart Devices, των E. Castledine , M. Eftos , M. Wheeler, SItePoint Pty. Ltd., Australia, 2011. ISBN: 0987090844\r\n• Understanding Mobile Human-Computer Interaction, του S. Love, Elsevier Information Systems Series, UK, 2005. ISBN: 0 7506 6352 9\r\n• Designing Mobile Interfaces, των S. Hoober, E. Berkman,  O’ Reilly Media, 2012. ISBN: 978-1-449-39463-9"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004984"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "Wiki"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Σχεδίαση Διαδραστικότητας: Επεκτείνοντας την Αλληλεπίδραση Ανθρώπου-Υπολογιστή, των Y.  Rogers, H. Sharp, Jenny Preece, M. Γκιούρδας, 2013, ISBN: 978 960 512 650 6\r\n(Ελλέιψει περισσότερο ειδικευμένου συγγράματος στην Ελληνική)",
+            "additional": "• Build Mobile: Websites and Apps for Smart Devices, των E. Castledine , M. Eftos , M. Wheeler, SItePoint Pty. Ltd., Australia, 2011. ISBN: 0987090844\r\n• Understanding Mobile Human-Computer Interaction, του S. Love, Elsevier Information Systems Series, UK, 2005. ISBN: 0 7506 6352 9\r\n• Designing Mobile Interfaces, των S. Hoober, E. Berkman,  O’ Reilly Media, 2012. ISBN: 978-1-449-39463-9"
+        }
+    },
+    "winter": false,
+    "period": 6
+}

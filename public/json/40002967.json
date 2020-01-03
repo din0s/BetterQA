@@ -1,0 +1,284 @@
+{
+    "coursecode": "NET-08-01",
+    "AltKey": "NET-08-01",
+    "title": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΑΞΙΟΛΟΓΗΣΗ ΕΚΠΑΙΔΕΥΤΙΚΟΥ ΛΟΓΙΣΜΙΚΟΥ",
+    "titleEN": "DESIGN AND EVALUATION OF EDUCATIONAL SOFTWARE",
+    "units": 5,
+    "ects": 5,
+    "classID": 600155605,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΑΞΙΟΛΟΓΗΣΗ ΕΚΠΑΙΔΕΥΤΙΚΟΥ ΛΟΓΙΣΜΙΚΟΥ",
+                    "en": "DESIGN AND EVALUATION OF EDUCATIONAL SOFTWARE"
+                },
+                "course_code": "NET-08-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "-"
+            },
+            "class_info": {
+                "class_title": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΑΞΙΟΛΟΓΗΣΗ ΕΚΠΑΙΔΕΥΤΙΚΟΥ ΛΟΓΙΣΜΙΚΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Τσιάτσος Θρασύβουλος-Κωνσταντίνος, Δημητριάδης Σταύρος, Τσιάτσος Θρασύβουλος-Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004985"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8142"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-04-04 ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ",
+                    "NET-06-03 ΘΕΩΡΙΕΣ ΜΑΘΗΣΗΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ",
+                    "NET-07-01 ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΕΡΙΒΑΛΛΟΝΤΑ ΔΙΑΔΙΚΤΥΟΥ"
+                ],
+                "general_prerequisites": {
+                    "el": "Καλές γνώσεις προγραμματισμού εφαρμογών πολυμέσων και εφαρμογών διαδικτύου.\r\nEυχέρεια στη μελέτη κειμένων στα Αγγλικά.",
+                    "en": "Good level of English. Basic knowledge of Internet technologies, computer networks and\r\nmultimedia technologies."
+                }
+            },
+            "learning_outcomes": {
+                "el": "α. Περιγραφή μαθησιακών στόχων/αποτελεσμάτων\r\nΓνωστικοί: Κατανόηση θεμάτων σχεδιασμού και αξιολόγησης εκπαιδευτικού λογισμικού.\r\nΕξοικείωση με τις φάσεις εργασίας το μοντέλου ADDIE.\r\nΔεξιότητες: Αξιοποίηση εργαλείων λογισμικού για την σχεδίαση και ανάπτυξη εκπαιδευτικού\r\nλογισμικού. Εφαρμογή των φάσεων εργασίας του μοντέλου ADDIE. Συνεργασία σε ομάδες,\r\nυιοθέτηση ρόλων στην ομάδα ανάπτυξης. Διενέργεια ανάλυσης αναγκών και σχεδίασης με\r\nβάση ρεαλιστικά σενάρια. Εφαρμογή μεθόδων αξιολόγησης εκπαιδευτικού λογισμικού.",
+                "en": "Cognitive:\r\nDesign, development and evaluation of educational software. Applying the ADDIE model.\r\nSkills:\r\nUsage of software tools for the design and development of educational software. Practical\r\nimplementation of ADDIE model based on realistic scenarios. Teamwork and collaborative\r\nlearning. Role playing in the development team. Application of educational software evaluation\r\nmethods."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "13": "Επίδειξη κοινωνικής, επαγγελματικής και ηθικής υπευθυνότητας και ευαισθησίας σε θέματα φύλου",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Διδακτική σχεδίαση (Instructional Design). Μοντέλο ADDIE (Analysis, Design, Development,\r\nImplementation, Evaluation). Ανάλυση αναγκών & αρχική ανάλυση (Needs & Front-\r\nEnd Analysis). Ρόλος & καθήκοντα του σχεδιαστή εκπαίδευσης (Instructional Designer). Με-\r\nθοδολογία σχεδιασμού εκπαιδευτικών συστημάτων. Σχεδίαση εκπαιδευτικής διάδρασης & δι-\r\nεπιφάνειας χρήστη. Σχεδίαση εφαρμογών πολυμέσων με βάση διδακτικές θεωρίες. Συμμετο-\r\nχική σχεδίαση. Φάσεις παραγωγής (pre-production, production, post-production). Νόημα και\r\nστόχοι της αξιολόγησης. Διαμορφωτική & αθροιστική αξιολόγηση, ποσοτικές & ποιοτικές\r\nμέθοδοι αξιολόγησης, μέθοδοι αξιολόγησης διεπαφής χρήστη, μοντέλο Kirkpatrick. Σχεδίαση\r\nεποικοδομικών περιβαλλόντων μάθησης. Ελληνικό & εξελληνισμένο εκπαιδευτικό λογισμι-\r\nκό. Ανάπτυξη εκπαιδευτικών εφαρμογών με προχωρημένο προγραμματισμό και χρήση Τεχ-\r\nνολογιών Διαδικτύου και Πολυμέσων.",
+                    "en": "Instructional Design. ADDIE model for software production (Analysis, Design, Development,\r\nImplementation, Evaluation). Needs and Front-End Analysis. Educational systems design\r\nmethodology. User interface design. Multimedia applications design based on instructive\r\ntheories. Participative designing. Production phases (pre-production, production, postproduction).\r\nMeaning and objectives of evaluation. Formative and summative evaluation,\r\nquantitative and qualitative methods of evaluation, methods of user interface evaluation,\r\nKirkpatrick model. Constructive learning environments design. Greek and Hellenized educational\r\nsoftware. Implementation of educational applications based on advanced programming\r\nas well Internet and Multimedia Technologies."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Συνεχής και εκτεταμένη: \r\n- Διδασκαλία: χρήση ηλεκτρονικών διαφανειών, ιστοσελίδων διαδικτύου (ως περιπτώσεων μελέτης και ανάλυσης) \r\n- Γίνεται χρήση ιστοχώρου για την επικοινωνία και διαμοίραση μαθησιακού υλικού\r\n- Χρήση εργαλείων ανάπτυξης εφαρμογών πολυμέσων και διαδικτύου\r\n- Χρήση εργαλείων web 2.0 για το συντονισμό/υποστήριξη της εργασίας της κάθε ομάδας",
+                    "en": "Continuous and extended: \r\n- Teaching: use of e-slides and web resources (commercial web sites in case studies) \r\n- Use of course web site to communicate with students and disseminate learning material \r\n- Use of authoring/programming tools (multimedia and web-based) to develop software prototypes\r\n- Use of Web 2.0 communication tools to support groupwork "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "α. Περιγραφή της διαδικασίας\r\n(1) Γραπτές εξετάσεις. (50%): Αξιολογείται η επάρκεια βασικών θεωρητικών γνώσεων των\r\nφοιτητών καθώς και η ικανότητα σχεδίασης κατάλληλων λύσεων/μεθόδων για ποικίλα σενά-\r\nρια αναγκών για σχεδίαση και αξιολόγηση εκπαιδευτικού λογισμικού. Χρησιμοποιούνται ε-\r\nρωτήσεις κλειστού τύπου (πολλαπλών επιλογών, αντιστοίχισης, κλπ.) και ανοικτού τύπου\r\n(σύντομης απάντησης και ανάπτυξης). Επίσης παρόμοιες ερωτήσεις χρησιμοποιούνται για τη\r\nδιαμορφωτική αξιολόγηση των φοιτητών (σε κάθε διάλεξη με χρήση κατάλληλων φύλλων\r\nερωτημάτων).\r\n(2) Ανάπτυξη έργου (50%). Οι φοιτητές εργάζονται σε ομάδες με 3 ή 4 μέλη. Επιλέγουν ένα\r\nαυθεντικό σενάριο σχεδίασης εκπ. λογισμικού και υλοποιούν όλες τις φάσεις του μοντέλου\r\nADDIE. Η πορεία ανάπτυξης της εργασίας υποστηρίζεται και αξιολογείται διαμορφωτικά\r\nαπό τους διδάσκοντες με τακτικές συμβουλευτικές συναντήσεις (5 συναντήσεις για κάθε ο-\r\nμάδα στη διάρκεια του εξαμήνου). Στο τέλος του εξαμήνου η κάθε ομάδα παρουσιάζει την\r\nεργασία της και αξιολογείται διαμορφωτικά και συνολικά (συμπερασματικά).\r\nΤα κριτήρια αξιολόγησης παρουσιάζονται αναλυτικά στον οδηγό εργασίας του μαθήματος\r\nπου είναι διαθέσιμος στο δικτυακό τόπο του μαθήματος.\r\nβ. Μέθοδοι αξιολόγησης\r\n Δοκιμασία Πολλαπλής Επιλογής για βελτίωση και βαθμολόγηση\r\n Ερωτήσεις Σύντομης Απάντησης για βελτίωση και βαθμολόγηση\r\n Ερωτήσεις Ανάπτυξης Δοκιμίου για βελτίωση και βαθμολόγηση\r\n Γραπτή Εργασία για βαθμολόγηση (συμπερασματική)\r\n Προφορική παρουσίαση για βελτίωση και βαθμολόγηση\r\n Συνεχής Αξιολόγηση για βελτίωση και βαθμολόγηση\r\n Συνεργατική Ανάπτυξη Έργου για βελτίωση και βαθμολόγηση",
+                    "en": "(1) Written exams (50%), focusing on the evaluation of basic conceptual knowledge of the domain. \r\n(2) Group Project (50%), focusing on the analysis, design and implementation of a software development project including the development and evaluation of a prototypical learning software application. "
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "-- «Πολυμέσα & Εκπαίδευση – Μέθοδοι & Ανάπτυξη», ALESSI, TROLLIP. Εκδ. Γκι-\r\nούρδας, Αθήνα, 2005\r\n-- «Το εκπαιδευτικό λογισμικό και η αξιολόγησή του», ΠΑΝΑΓΙΩΤΑΚΟΠΟΥΛΟΣ,\r\nΠΙΕΡΡΑΚΕΑΣ, ΠΙΝΤΕΛΑΣ. Εκδ. Μεταίχμιο",
+                "additional_bibliography_for_study": "-- Διαφάνειες & Σημειώσεις μαθήματος (Διδάσκοντες)"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004985"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8142"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "-- «Πολυμέσα & Εκπαίδευση – Μέθοδοι & Ανάπτυξη», ALESSI, TROLLIP. Εκδ. Γκι-\r\nούρδας, Αθήνα, 2005\r\n-- «Το εκπαιδευτικό λογισμικό και η αξιολόγησή του», ΠΑΝΑΓΙΩΤΑΚΟΠΟΥΛΟΣ,\r\nΠΙΕΡΡΑΚΕΑΣ, ΠΙΝΤΕΛΑΣ. Εκδ. Μεταίχμιο",
+            "additional": "-- Διαφάνειες & Σημειώσεις μαθήματος (Διδάσκοντες)"
+        }
+    },
+    "winter": false,
+    "period": 8
+}

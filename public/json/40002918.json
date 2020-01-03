@@ -1,0 +1,194 @@
+{
+    "coursecode": "NCO-02-02",
+    "AltKey": "NCO-02-02",
+    "title": "ΠΙΘΑΝΟΤΗΤΕΣ & ΣΤΑΤΙΣΤΙΚΗ",
+    "titleEN": "PROBABILITIES & STATISTICS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155623,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΠΙΘΑΝΟΤΗΤΕΣ & ΣΤΑΤΙΣΤΙΚΗ",
+                    "en": "PROBABILITIES & STATISTICS"
+                },
+                "course_code": "NCO-02-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ελευθέριος Αγγελής"
+            },
+            "class_info": {
+                "class_title": "ΠΙΘΑΝΟΤΗΤΕΣ & ΣΤΑΤΙΣΤΙΚΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Αγγελής Ελευθέριος, Λάσκαρης Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121282"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": ""
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Θεωρία συνόλων, βασικές γνώσεις μαθηματικής ανάλυσης (συναρτήσεις, παράγωγοι, ολοκληρώματα)",
+                    "en": "Set theory, basics of calculus (functions, derivatives, integrals) "
+                }
+            },
+            "learning_outcomes": {
+                "el": "Θεμελιώδεις γνώσεις πιθανοτήτων, τυχαίων μεταβλητών και κατανομών. Μέθοδοι περιγραφής δεδομένων και στατιστικής συμπερασματολογίας.",
+                "en": "Fundamentals of probabilities, random variables and distributions. Methods for data descrip-tion and statistical inference"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 3",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 2"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικά στοιχεία θεωρίας πιθανοτήτων. Δεσμευμένη πιθανότητα και θεώρημα Bayes. Τυχαίες μεταβλητές και κατανομές. Περιγραφική στατιστική. Γραφικές παραστάσεις και στατιστικά μέτρα. Διαστήματα εμπιστοσύνης. Έλεγχοι υποθέσεων. Έλεγχος προσαρμογής. Πίνακες συνάφειας. Συσχέτιση και Παλινδρόμηση. Ανάλυση διασποράς. Μη-παραμετρικές δοκιμασίες.",
+                    "en": "Basics of probability theory. Conditional probability and Bayes theorem. Random variables and distributions. Descriptive statistics. Graphic representation and statistical measures. Con-fidence intervals. Hypothesis and significance tests. Test for fitting and contingency tables. Regression and correlation. Analysis of variance, Total variance, Distribution of variances. Analysis of variance. Non-parametric tests"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "Επίδειξη στατιστικών αναλύσεων με στατιστικό πρόγραμμα",
+                    "en": "Illustration of statistical analyses with statistical software"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "26",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "26",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "98",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Απαλλακτικές πρόοδοι ή τελική γραπτή εξέταση. Δίνονται δύο πρόοδοι και ο τελικός βαθμός προκύπτει ως μέσος όρος τους, εφόσον είναι τουλάχιστον 5 και για τις δύο προόδους",
+                    "en": "Midterm exams or final written examination. Regarding the midterm exams, the student has to succeed in both of the written exams (mark at least 5/10) . In this case, the final mark is ob-tained as the average of both exams"
+                },
+                "assessment_methods": {
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Βιβλίο [22768680]: Στατιστική, Κολυβά - Μαχαίρα Φωτεινή, Μπόρα - Σέντα Ευθυμία \r\nΒιβλίο [59394390]: Στατιστική Σκέψη στον Κόσμο των Επιχειρήσεων, Aczel Amir \r\nΒιβλίο [41965021]: ΣΤΑΤΙΣΤΙΚΗ ΤΟΜΟΣ Α', ΣΤ' ΕΚΔΟΣΗ, ΖΑΧΑΡΟΠΟΥΛΟΥ ΧΡΥΣΟΥΛΑ",
+                "additional_bibliography_for_study": "Πιθανότητες και Στατιστική. Συγγραφέας: Γ. Κονόμος, Εκδόσεις Γκιούρδα, 2009."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121282"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": ""
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Βιβλίο [22768680]: Στατιστική, Κολυβά - Μαχαίρα Φωτεινή, Μπόρα - Σέντα Ευθυμία \r\nΒιβλίο [59394390]: Στατιστική Σκέψη στον Κόσμο των Επιχειρήσεων, Aczel Amir \r\nΒιβλίο [41965021]: ΣΤΑΤΙΣΤΙΚΗ ΤΟΜΟΣ Α', ΣΤ' ΕΚΔΟΣΗ, ΖΑΧΑΡΟΠΟΥΛΟΥ ΧΡΥΣΟΥΛΑ",
+            "additional": "Πιθανότητες και Στατιστική. Συγγραφέας: Γ. Κονόμος, Εκδόσεις Γκιούρδα, 2009."
+        }
+    },
+    "winter": false,
+    "period": 2
+}

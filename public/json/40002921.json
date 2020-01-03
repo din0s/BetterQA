@@ -1,0 +1,259 @@
+{
+    "coursecode": "NCO-02-04",
+    "AltKey": "NCO-02-04",
+    "title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ",
+    "titleEN": "DIGITAL DESIGN",
+    "units": 6,
+    "ects": 7,
+    "classID": 600155625,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ",
+                    "en": "DIGITAL DESIGN"
+                },
+                "course_code": "NCO-02-04",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Γεώργιος Κεραμίδας"
+            },
+            "class_info": {
+                "class_title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Κονοφάος Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων",
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004958"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": ""
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=133"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα:\r\n1. Γνωρίζουν τις αρχές της λογικής σχεδίασης και των ψηφιακών ηλεκτρονικών.\r\n2. Κατανοούν την δομή και λειτουργία των ψηφιακών κυκλωμάτων και την χρήση τους στου Η/Υ. \r\n3. Είναι σε θέση να υλοποιούν σε προγραμματιστικό περιβάλλον τα βασικά ψηφιακά κυκλώματα, να τα σχεδιάζουν και να τα ελέγχουν.\r\n5. ",
+                "en": "After the course completion, the students will:\r\n1. Know the basics of logic design and digital electronics.\r\n2. Understand the structure and the operation of digital circuits and their use in computers.\r\n3. Be able to use suitable programming environments in order to design elementary digital circuits and test them."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 3",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 3"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Ψηφιακά σήματα. Μέθοδοι κωδικοποίησης ψηφιακών δεδομένων. Λογικές πύλες. Άλγεβρα Boole, λογικές συναρτήσεις, κανονική παράσταση συναρτήσεως. Μέθοδοι απλοποίησης συναρτήσεων, χάρτες Karnaugh, αλγεβρικές μέθοδοι. Συνδυαστικά κυκλώματα. Μετρητές, συγκριτές, κωδικοποιητές, αθροιστές κλπ. Ακολουθιακά κυκλώματα, σύγχρονα, ασύγχρονα κυκλώματα. Μανδαλωτές, flip-flop, μνήμες ROM & RAM. Εισαγωγή στις γλώσσες περιγραφής υλικού (Verilog, VHDL). \r\n",
+                    "en": "Digital signals, digital data coding. Logic gates, Boole algebra, logic functions. Logic simplification, Karnaugh maps, algebraic methods. Combinational circuits, counters, comparators, encoders, adders etc. Sequential circuits, synchronous, asynchronous circuits. Latches, flip-flops, ROM and RAM memories. Introduction to Hardware definition Languages (Verilog, VHDL).  "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "40",
+                        "workload": "40",
+                        "credits": "1.333",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "12",
+                        "workload": "12",
+                        "credits": "0.4",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "129",
+                        "credits": "4.3",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Βιβλίο [33153989]: Ψηφιακή Σχεδίαση, Mano Morris, Ciletti Michael \r\n2. Βιβλίο [13946]: ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ: ΑΡΧΕΣ & ΠΡΑΚΤΙΚΕΣ, JOHN F. WAKERLY",
+                "additional_bibliography_for_study": "Σημειώσεις διδάσκοντα."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004958"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": ""
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=133"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Βιβλίο [33153989]: Ψηφιακή Σχεδίαση, Mano Morris, Ciletti Michael \r\n2. Βιβλίο [13946]: ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ: ΑΡΧΕΣ & ΠΡΑΚΤΙΚΕΣ, JOHN F. WAKERLY",
+            "additional": "Σημειώσεις διδάσκοντα."
+        }
+    },
+    "winter": false,
+    "period": 2
+}

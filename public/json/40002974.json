@@ -1,0 +1,260 @@
+{
+    "coursecode": "NDM-07-02",
+    "AltKey": "NDM-07-02",
+    "title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΟΜΙΛΙΑΣ",
+    "titleEN": "DISCRETE-TIME SPEECH PROCESSING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155568,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΟΜΙΛΙΑΣ",
+                    "en": "DISCRETE-TIME SPEECH PROCESSING"
+                },
+                "course_code": "NDM-07-02",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Κωνσταντίνος Κοτρόπουλος"
+            },
+            "class_info": {
+                "class_title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΟΜΙΛΙΑΣ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Χειμερινή",
+                "instructors": "Κοτρόπουλος Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121214"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8156"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προϋποτίθεται προγραμματιστική ικανότητα. Πλην της αυτονόητης κατανόησης εννοιών και τεχνικών από τα Σήματα-Συστήματα, Ψηφιακή Επεξεργασία Σήματος, Επεξεργασία Στοχαστικού Σήματος, Αναγνώριση Προτύπων, προηγούμενη έκθεση σ' ένα μάθημα Μερικών Διαφορικών Εξισώσεων βοηθά στη γρηγορότερη αφομοίωση των εννοιών και την επιτυχέστερη τριβή με το αντικείμενο",
+                    "en": "Prior exposition to a course on partial differential equations on the top of understanding of signals and systems, digital signal processing, stochastic signal processing, pattern recognition as well as pre-existing computer programming skills facilitate the grasping of concepts by the students as well as their successful enrollment in the course."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: Εξοικείωση με τεχνικές βραχυχρόνιας επεξεργασίας σημάτων. Έκθεση σε στοιχειώδεις γνώσεις της επιστήμης της ομιλίας. Θεμελίωση της ανάλυση γραμμικής πρόβλεψης. Κατανόηση των τεχνικών εξαγωγής χαρακτηριστικών γνωρισμάτων για την αντιμετώπιση του προβλήματος αναγνώρισης ομιλίας υπό το πρίσμα της αναγνώρισης προτύπων.\r\nΔεξιότητες: Θεμελίωση υποβάθρου για τη σπουδή της αναγνώρισης και σύνθεσης ομιλίας και τριβής με τη γλωσσική τεχνολογία. Απόκτηση των αναγκαίων αναλυτικών και προγραμματιστικών δεξιοτήτων. Κριτική αξιοποίηση γνώσεων από το σύνολο του προπτυχιακού προγράμματος σπουδών στην επεξεργασία της ομιλίας. Ανάπτυξη συστήματος αναγνώρισης μεμονωμένων λέξεων από τον προφορικό λόγο.",
+                "en": "Cognitive: Acquaintance with short-term signal processing. Exposition to speech science fundamentals. Deep understanding of linear prediction analysis. Thorough grasp of the feature extraction techniques as front-end of speech recognition. Treating speech recognition as a pattern recognition problem.\r\nSkills: Building the foundations for further studies focused on speech synthesis, speech recognition, and language technology. Promoting analytical and programming skills. Critical re-view of the whole undergraduate syllabus from speech recognition and language technology perspective. Programming an isolated-word speech recognition system."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 6",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Ανατομία και φυσιολογία του συστήματος παραγωγής ομιλίας. Φωνητική και φωνολογία. Μοντελοποίηση του συστήματος παραγωγής ομιλίας. Βραχυχρόνια επεξεργασία ομιλίας. Ανάλυση Γραμμικής Πρόβλεψης. Ανάλυση χάσματος (cepstral analysis). Δυναμική χρονική κλιμάκωση (dynamic time warping).",
+                    "en": "Anatomy and physiology of speech production system. Phonetics and phonology. Modeling speech production. Short-term processing of speech. Linear prediction analysis. Cepstral analysis. Dynamic time warping."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διαφάνεις σε ηλεκτρονική μορφή, MATLAB demos.",
+                    "en": "Sides and MATLAB demos."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "α1. Η παρακολούθηση των διαλέξεων και η ενεργός συμμετοχή σ' αυτές είναι υποχρεωτική. Ανεκτός αριθμός απουσιών: το πολύ 30% του συνολικού εκπαιδευτικού προγράμματος. Υπέρβαση του ανεκτού αριθμού απουσιών συνεπάγεται αυτομάτως την αποτυχία του φοιτητή στο μάθημα.\r\nα2. Στο μάθημα προσφέρονται υποχρεωτικές βιβλιογραφικές και προγραμματιστικές εργασίες. Οι βιβλιογραφικές εργασίες αφορούν τη συγγραφή δοκιμίων σχετικών με τις διάφορες φάσεις της ψηφιακής επεξεργασίας του σήματος της ομιλίας, των διαδικασιών αναγνώρισης ομιλίας και ομιλητών καθώς και της στατιστικής μοντελοποίησης της γλώσσας. Οι προγραμματιστικές ασκήσεις αφορούν την ανάπτυξη εφαρμογών σχετικών με την μοντελοποίηση του συστήματος παραγωγής ανθρώπινης ομιλίας, την κατάτμηση σήματος ομιλίας, την προέμφαση, την εφαρμογή βραχυχρόνιων μετασχηματισμών, την ανάλυση γραμμικής πρόβλεψης, την ομομορφική επεξεργασία του σήματος ομιλίας, τη δυναμική χρονική κλιμάκωση. Οι φοιτητές καλούνται να αναπτύξουν κώδικα σε MATLAB ή python. Σε κάθε φοιτητή ανατίθεται μια (1) βιβλιογραφική και μια (1) συναφής προγραμματιστική εργασία. Η ανακοίνωση της ανάθεσης εργασιών στους φοιτητές γίνεται στη σελίδα του μαθήματος στον ΠΗΛΕΑ http://pileas.csd.auth.gr. \r\nα3. Στο μάθημα οργανώνονται δύο γραπτές πρόοδοι υπό τον τύπο σύντομων απαντήσεων σε 10-15 ερωτήματα/προβλήματα που καλύπτουν τη διδαχθείσα ύλη.  Η πρώτη πρόοδος οργανώνεται την 8η εβδομάδα και η δεύτερη πρόοδος εντός της εξεταστικής περιόδου.\r\nΟ τελικός βαθμός προκύπτει κατά 10% από την αξιολόγηση της βιβλιογραφικής εργασίας, 50% από την αξιολόγηση της υπολογιστικής εργασίας και την παρουσίαση των αποτελεσμάτων της και 40% από τις επιδόσεις στις γραπτές προόδους. Οι φοιτητές προάγονται, εφόσον ο τελικός βαθμός είναι μεγαλύτερος ή ίσος του πέντε (5). Λεπτομέρειες επί της διαδικασίας παρατίθενται στον ΠΗΛΕΑ, οι οποίες καταργούν κάθε άλλη ρύθμιση.",
+                    "en": "a1) Lecture attendance and active participation in them is compulsory. Absence from 30 the total educational activities is tolerated at most. Failure to comply with this requirement implies failure in the course automatically. \r\na2) Homework is assigned to students, including survey writing and computer-based project implementation. The surveys deal with the various stages of the discrete-time speech processing, speech and speaker recognition, and statistical language engineering. The computer-based projects aim at modeling speech production by humans, speech segmentation, short-time speech processing, linear prediction analysis, homomorphic speech processing, dynamic time warping, and so on. Students are requested to develop demo applications in MATLAB or python. One survey and one related computer-based project is assigned to each student. Homework assignment is posted to the course web page at http://pileas.csd.auth.gr. \r\na3) Hourly mid-term and final progress exams are organized in the course. During these exams, the students are requested to provide short answers in 10-15 questions covering the topics taught in the course. The mid-term exam is scheduled for the 8th week and the final progress exam will take place during the period of exams.\r\nThe final grade results by 10% from the survey assessment, 50% from the computer-project assessment (including project presentation), and 40% from paper grading in the mid-term and final progress exams. The students pass the course, if their total grade is greater than on equal to five (5). Details on the grading procedure are announced in the course web page, which supersede any prior arrangement.\r\n"
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Rabiner, L. R., and Schafer, R. W. (επιμ. μτφ. Α. Πικράκης) «Ψηφιακή Επεξεργασία Φωνής», Broken Hill Publishers LTD, Λευκωσία Κύπρος 2012.\r\nMcClellan J., Schafer R., Yoder M. (μτφ. Ε. Ζ. Ψαράκης) «Θεμελιώδεις Έννοιες της Επεξεργασίας Σημάτων», Εκδόσεις Άγγελος Γκότσης, Πάτρα 2006",
+                "additional_bibliography_for_study": "Σημειώσεις σε ηλεκτρονική μορφή του διδάσκοντος και επιμέλεια διαφανειών από διδασκαλία αντίστοιχου μαθήματος σε πανεπιστήμια του εξωτερικού.\r\nΕνδεικτικoί τίτλοι. Πλήρης κατάλογος στην ιστοσελίδα του μαθήματος:\r\nJ. R. Deller, J. G. Proakis, and J. H. L. Hansen, Discrete-Time Processing of Speech Signals. New York, Ν.Y.: Wiley-IEEE, 1999.\r\nD. Jurafsky and J. H. Martin, Speech and Language Processing, 2/e. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2009.\r\nT. F. Quartieri, Discrete-Time Speech Signal Processing: Principles and Practice. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2002.\r\nX. Huang, A. Acero, and H. -S. Hon, Spoken Language Processing. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2001.\r\nL. R. Rabiner and R. W. Schafer, Theory and Applications of Digital Speech Processing. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2011.\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (πρόσβαση στο e-book μέσω του www.lib.auth.gr)"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121214"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8156"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Rabiner, L. R., and Schafer, R. W. (επιμ. μτφ. Α. Πικράκης) «Ψηφιακή Επεξεργασία Φωνής», Broken Hill Publishers LTD, Λευκωσία Κύπρος 2012.\r\nMcClellan J., Schafer R., Yoder M. (μτφ. Ε. Ζ. Ψαράκης) «Θεμελιώδεις Έννοιες της Επεξεργασίας Σημάτων», Εκδόσεις Άγγελος Γκότσης, Πάτρα 2006",
+            "additional": "Σημειώσεις σε ηλεκτρονική μορφή του διδάσκοντος και επιμέλεια διαφανειών από διδασκαλία αντίστοιχου μαθήματος σε πανεπιστήμια του εξωτερικού.\r\nΕνδεικτικoί τίτλοι. Πλήρης κατάλογος στην ιστοσελίδα του μαθήματος:\r\nJ. R. Deller, J. G. Proakis, and J. H. L. Hansen, Discrete-Time Processing of Speech Signals. New York, Ν.Y.: Wiley-IEEE, 1999.\r\nD. Jurafsky and J. H. Martin, Speech and Language Processing, 2/e. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2009.\r\nT. F. Quartieri, Discrete-Time Speech Signal Processing: Principles and Practice. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2002.\r\nX. Huang, A. Acero, and H. -S. Hon, Spoken Language Processing. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2001.\r\nL. R. Rabiner and R. W. Schafer, Theory and Applications of Digital Speech Processing. Upper Saddle River, N.J.: Pearson Education-Prentice Hall, 2011.\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (πρόσβαση στο e-book μέσω του www.lib.auth.gr)"
+        }
+    },
+    "winter": true,
+    "period": 7
+}

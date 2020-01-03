@@ -1,0 +1,214 @@
+{
+    "coursecode": "NCO-03-05",
+    "AltKey": "NCO-03-05",
+    "title": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ",
+    "titleEN": "COMPUTER ARCHITECTURE",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155601,
+    "elearning_url": "https://elearning.auth.gr/course/view.php?id=8100",
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ",
+                    "en": "COMPUTER ARCHITECTURE"
+                },
+                "course_code": "NCO-03-05",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Γεώργιος Κεραμίδας"
+            },
+            "class_info": {
+                "class_title": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ",
+                "academic_year": "2019 – 2020",
+                "class_period": "Χειμερινή",
+                "instructors": "Κεραμίδας Γεώργιος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600154389"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8100"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Κυκλώματα Ψηφιακής Λογικής, Αριθμητική Boolean",
+                    "en": "Digital Logical Cirsuits, Boolean logic"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Παρά την μεγάλη ποικιλία και ταχεία αλλαγή στο πεδίο των υπολογιστών ορισμένες βασικές αρχές τους παραμένουν αναλλοίωτες. Στο μάθημα γίνεται προσπάθεια ανάλυσης και κατανόησης αυτών των βασικών αρχών και εννοιών των υπολογιστών α) της αρχιτεκτονικής τους (των χαρακτηριστικών που «βλέπει» ο προγραμματιστής) και β) της οργάνωσης τους (των υπομονάδων που περιέχονται και της μεταξύ τους διασύνδεσης). Επίσης, η κατανόηση των στόχων (κόστος, απόδοση) που κατευθύνουν την σχεδίαση των υπολογιστών.",
+                "en": "In spite of the variety and pace of change in the computer field, certain fundamental concepts apply consistently throughout. In this course, fundamental concepts are presented and analyzed, like a) the architecture (the way the programmer sees the computer) and b) the internal organization (the operation of the individual components and the way they are interconnected). Design targets (cost, speed) for a computer system are also analyzed. In terms of obtained skills, students are equipped with the ability to understand the merits of a given computer system and its applicability to certain computational needs."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "5": "Αυτόνομη εργασία",
+                "10": "Σχεδιασμός και διαχείριση έργων"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 4",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 3"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Οι Υπομονάδες του υπολογιστή, η λειτουργία τους και η Διασύνδεση τους (Δίαυλοι). Μνήμες (τεχνολογία) και Ιεραρχία Μνημών. Είδη Ενδιάμεσης μνήμης, Κύριας, Εξωτερικής (Μαγνητικοί και Οπτικοί δίσκοι) και απόδοση τους. Είσοδος/Έξοδος δεδομένων υπολογιστή (Υπομονάδες, Μέθοδοι επικοινωνίας, χρήση Διακοπών). Αριθμητική των υπολογιστών (Ακέραιοι, Προσημασμένοι, Κινητής Υποδιαστολής). Δομή και Λειτουργία της Κεντρικής Μονάδος Επεξεργασίας - CPU (Κύκλος Εντολής, Καταχωρητές, Σωληνωτή εκτέλεση Εντολών, Αριθμητική και Λογική μονάς). Εντολές CPU (Ιδιότητες, Τελεσταίοι, Διευθυνσιοδότηση, Παράγοντες σχεδίασης εντολών). Προγραμματισμός σε Γλώσσα Assembly Εκπαιδευτικού Υπολογιστή",
+                    "en": "Overview of computer Units, their Function and Interconnection. Memory technology and Hierarchy. Cache Memory, Main, External memory (Magnetic and Optic disks), Performance. Input/Output of Data (Units, Communication, Interrupt handling). Computer Arithmetic (Integers, Signed numbers, Floating Point). The Central Processing Unit (Instruction cycle, Registers, Pipelining, Arithmetic and Logic Unit). Instruction sets (Characteristics, Function, Operands, Addressing modes, Design considerations).Programming in Assembly Language, Training Computer"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "40",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "12",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "98",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις (80%) και εργασία (20%)",
+                    "en": "Written exams (80%) and project (20%)"
+                },
+                "assessment_methods": {
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Stallings W. «Οργάνωση και Αρχιτεκτονική Υπολογιστών», 8η Έκδοση, Εκδόσεις Τζιόλα, Θεσσαλονίκη",
+                "additional_bibliography_for_study": "ΣΗΜΕΙΩΣΕΙΣ ΔΙΔΑΣΚΟΝΤΑ"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600154389"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8100"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Stallings W. «Οργάνωση και Αρχιτεκτονική Υπολογιστών», 8η Έκδοση, Εκδόσεις Τζιόλα, Θεσσαλονίκη",
+            "additional": "ΣΗΜΕΙΩΣΕΙΣ ΔΙΔΑΣΚΟΝΤΑ"
+        }
+    },
+    "winter": true,
+    "period": 3
+}

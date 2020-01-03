@@ -1,0 +1,234 @@
+{
+    "coursecode": "NCO-03-04",
+    "AltKey": "NCO-03-04",
+    "title": "ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+    "titleEN": "OBJECT ORIENTED PROGRAMMING",
+    "units": 6,
+    "ects": 8,
+    "classID": 600155602,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+                    "en": "OBJECT ORIENTED PROGRAMMING"
+                },
+                "course_code": "NCO-03-04",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Γρηγόριος Τσουμάκας"
+            },
+            "class_info": {
+                "class_title": "ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Τσουμάκας Γρηγόριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004879"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=82"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-01-05 ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ"
+                ],
+                "general_prerequisites": {
+                    "el": "Γνώσεις διαδικαστικού προγραμματισμού",
+                    "en": "Knowledge of procedural programming"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα μπορούν να:\r\n- Αναπτύσσουν λογισμικό στη γλώσσα Java\r\n- Σχεδιάζουν και υλοποιούν προγράμματα υψηλής ποιότητας και μεγάλου μεγέθους ακολουθώντας τις αρχές του αντικειμενοστρεφούς προγραμματισμού και τις καλές πρακτικές ανάπτυξης και συντήρησης λογισμικού που θα έχουν διδαχθεί\r\n- Αναπτύσσουν προγράμματα με γραφική διεπαφή χρήστη ακολουθώντας τις αρχές του βασισμένου σε γεγονότα προγραμματισμού που θα έχουν διδαχθεί ",
+                "en": "On successful completion of this course, the students will be able to:\r\n- Develop software in the Java language\r\n- Design and implement software of high quality and large size following the principles of object oriented programming and the best practices for software development and maintenance taught during the course\r\n- Develop software with graphical user interfaces following the principles of event-driven programming taught during the course"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή, η σύνταξη της Java, αλληλεπίδραση αντικειμένων, ομαδοποίηση αντικειμένων, εξελιγμένη συμπεριφορά, σχεδίαση κλάσεων, τεχνικές αφαίρεσης, γραφικές διεπαφές χρήστη και προγραμματισμός βασισμένος σε γεγονότα, χειρισμός σφαλμάτων, έλεγχος και αποσφαλμάτωση, ρεύματα και αρχεία, γενικός κώδικας, ταυτόχρονος και δικτυακός προγραμματισμός, διανομή εφαρμογών.\r\n\r\n",
+                    "en": "Introduction, the syntax of Java, object interaction, grouping objects, advanced behavior, class design, abstraction techniques, graphical user interfaces and event-driven programming, error handling, testing and debugging, streams and files, generics, concurrent and network programming, application distribution.  "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Στη διδασκαλία χρησιμοποιούνται διαφάνειες powerpoint\r\nΣτο εργαστήριο χρησιμοποιείται το περιβάλλον ολοκληρωμένης ανάπτυξης λογισμικού NetBeans\r\nΓια την επικοινωνία με τους φοιτητές χρησιμοποιείται email και η πλατφόρμα ασύγχρονης τηλε-εκπαίδευσης ΠΗΛΕΑΣ που βασίζεται στις πλατφόρμες eCASE και Moodle",
+                    "en": "Powerpoint slides are used during lectures \r\nThe NetBeans integrated development environment is used during labs \r\nCommunication with students is based on email and on the asynchronous distance learning platform PILEAS, which is based on the eCASE and Moodle platforms"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "78",
+                        "credits": "2.6",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "20",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "54",
+                        "credits": "1.8",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "7",
+                        "workload": "78",
+                        "credits": "2.6",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Εξεταστική Φεβρουαρίου\r\n- 30% εργαστηριακή εξέταση\r\n- 30% εκπόνηση εργασίας\r\n- 40% γραπτή εξέταση\r\n\r\nΕξεταστική Σεπτεμβρίου\r\n-100% γραπτή εξέταση\r\n",
+                    "en": "Semester examination\r\n- 30% lab examination\r\n- 30% project\r\n- 40% written exam\r\n\r\nResit examination\r\n-100% γραπτή εξέταση"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Βιβλίο [13599]: ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ JAVA: ΜΙΑ ΠΡΑΚΤΙΚΗ ΕΙΣΑΓΩΓΗ ΜΕ ΧΡΗΣΗ ΤΟΥ BLUEJ, DAVID J. BARNES, MICHAEL KOLLING \r\nΒιβλίο [12256]: Java προγραμματισμός, Deitel Paul J.,Deitel Harvey M.",
+                "additional_bibliography_for_study": "The Java Tutorials (http://docs.oracle.com/javase/tutorial/)"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004879"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=82"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Βιβλίο [13599]: ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ JAVA: ΜΙΑ ΠΡΑΚΤΙΚΗ ΕΙΣΑΓΩΓΗ ΜΕ ΧΡΗΣΗ ΤΟΥ BLUEJ, DAVID J. BARNES, MICHAEL KOLLING \r\nΒιβλίο [12256]: Java προγραμματισμός, Deitel Paul J.,Deitel Harvey M.",
+            "additional": "The Java Tutorials (http://docs.oracle.com/javase/tutorial/)"
+        }
+    },
+    "winter": true,
+    "period": 3
+}

@@ -1,0 +1,161 @@
+{
+    "coursecode": "NGE-07-02",
+    "AltKey": "NGE-07-02",
+    "title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ",
+    "titleEN": "INTERNSHIP",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155620,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ",
+                    "en": "INTERNSHIP"
+                },
+                "course_code": "NGE-07-02",
+                "department_id": "64",
+                "course_period": "Χειμερινή/Εαρινή",
+                "teacher_in_charge": "Αναστάσιος Γούναρης"
+            },
+            "class_info": {
+                "class_title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Χειμερινή",
+                "instructors": "Αγγελής Ελευθέριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121229"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/el/"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8429"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": [],
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προαπαιτούμενα μαθήματα ΔΕΝ υπάρχουν με την αυστηρή έννοια του όρου αλλά οι φοιτητές θα πρέπει να έχουν πάρει το 50% των ECTS των μαθημάτων μέχρι το εξάμηνο που έχουν κάνει την αίτηση. ",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "1) Πρώτη επαφή με τον επαγγελματικό χώρο και απόκτηση της απαραίτητης εξωστρέφειας.\r\n2) Γνωριμία με τις τάσεις της αγοράς και τις δεξιότητες που απαιτούνται.\r\n3) Εφαρμογή των γνώσεων που απέκτησαν στο Πανεπιστήμιο πάνω στον τομέα εργασίας που τους ενδιαφέρει.\r\n4) Γνωριμία με τα διάφορα αντικείμενα του επαγγελματικού χώρου, ώστε να επιλέξουν αυτό που τους προσφέρει τα περισσότερα οφέλη σε επαγγελματικό & προσωπικό επίπεδο.",
+                "en": "Objectives of the program:\r\n• First contact with the workplace and acquire the necessary extroversion.\r\n• Getting to market trends and the skills required.\r\n• Apply the knowledge acquired at the University on the work area of interest.\r\n• Knowing the different aspects of professional environment, so choose one that offers the most benefits with respects to professional and personal level. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Οργάνωση"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 8",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 8"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Η Πρακτική Άσκηση είναι μάθημα στο Πρόγραμμα Σπουδών του Τμήματος. Η Πρακτική Άσκηση είναι η μικρής διάρκειας παρουσία φοιτητών/τριών και η άσκηση καθηκόντων σε εν δυνάμει χώρους εργασίας, ανάλογα με το Τμήμα που φοιτούν. Πραγματοποιείται σε Φορέα Υποδοχής εκτός Πανεπιστημίου υπό την καθοδήγηση στελέχους του φορέα και την επίβλεψη μέλους Δ.Ε.Π. Η πρακτική άσκηση αποσκοπεί: στην ανταλλαγή εμπειριών μεταξύ του εργασιακού χώρου και εκπαίδευσης, στην ανάπτυξη επαγγελματικής συνείδησης των φοιτητών, πλέον και πέραν της εκπαίδευσης τους και στην ανάδειξη με διαδικασία ανάδρασης των υπαρκτών προβλημάτων μεταξύ εκπαίδευσης και παραγωγής. Οι φοιτητές του Τμήματος ΠΛηροφορικής δύνανται να ασκηθούν στους εξής τομείς: - Σχολεία Β/μιας ή Α/μιας εκπαίδευσης και ειδικά σχολεία εφόσον διδάσκονται Πληροφορική - Δημόσιους οργανισμούς και Ιδιωτικούς φορείς με αντικείμενο σχετικό με την Επιστήμη της Πληροφορικής. Αυτό γίνεται σε συνεννόηση με τον υπεύθυνο του μαθήματος ή τους επόπτες της Πρακτικής Άσκησης. Το πρόγραμμα χρηματοδοτείται από το Ευρωπαϊκό Κοινωνικό Ταμείο (ΕΚΤ) και συγχρηματοδοτείται από Εθνικούς Πόρους μέσω του Επιχειρησιακού Προγράμματος «Ανταγωνιστικότητα, Επιχειρηματικότητα και Καινοτομία» του Εταιρικού Συμφώνου για το Πλαίσιο Ανάπτυξης 2014-2020, με Ενδιάμεσο Φορέα την Ειδική Υπηρεσία Διαχείρισης του Επιχειρησιακού Προγράμματος «Ανάπτυξη Ανθρώπινου Δυναμικού, Εκπαίδευση και Δία Βίου Μάθηση».",
+                    "en": ""
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "7": {
+                    "activity": {
+                        "name": "Πρακτική (Τοποθέτηση)",
+                        "hours_of_instruction": "",
+                        "workload": "150",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Στο τέλος της Πρακτικής Άσκησης των φοιτητών/τριών  γίνεται η online αξιολόγηση των φοιτητών/τριών από τους επόπτες μέλη ΔΕΠ που έχει καθορίσει το Τμήμα για τον κάθε φοιτητή/τρια. ",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121229"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/el/"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8429"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "",
+            "additional": ""
+        }
+    },
+    "winter": false,
+    "period": 7
+}

@@ -1,0 +1,255 @@
+{
+    "coursecode": "NCO-05-05",
+    "AltKey": "NCO-05-05",
+    "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+    "titleEN": "SOFTWARE ENGINEERING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155569,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+                    "en": "SOFTWARE ENGINEERING"
+                },
+                "course_code": "NCO-05-05",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Ιωάννης Σταμέλος"
+            },
+            "class_info": {
+                "class_title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+                "academic_year": "2017 – 2018",
+                "class_period": "Χειμερινή",
+                "instructors": "Σταμέλος Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": [],
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600104631"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": [],
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές αρχές προγραμματισμού, Αντικειμενοστρεφής Προγραμματισμός, Βάσεις Δεδομένων.",
+                    "en": "Basic Programming Principles, Object-Oriented Programming, Data Bases."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Ο φοιτητής μελετάει τις βασικές αρχές και έννοιες της Τεχνολογίας Λογισμικού. Για κάθε μία από αυτές μελετάει μία τουλάχιστον σχετική μεθοδολογία και βλέπει παραδείγματα εργαλείων υπολογιστή που την υποστηρίζουν. Μέσα από διαφόρων ειδών ασκήσεις εκπαιδεύεται στην επίλυση πρακτικών προβλημάτων Τεχνολογίας Λογισμικού. Τέλος με τη συμμετοχή του σε έργα ανοιχτού κώδικα, έρχεται σε επαφή με την ανάπτυξη λογισμικού στον πραγματικό κόσμο και αναπτύσσει(με δική του επιλογή) δεξιότητες στη συγγραφή απαιτήσεων, δοκιμή και συγγραφή κώδικα.\r\n",
+                "en": "Students study foundations and basic concepts of Software Engineering. At least one methodology and supporting techniques and tools are taught. Student is trained on practical problem solving in various areas of Software Engineering, like requirements writing, analysis, testing, etc."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "12": "Σεβασμός στο φυσικό περιβάλλον",
+                "13": "Επίδειξη κοινωνικής, επαγγελματικής και ηθικής υπευθυνότητας και ευαισθησίας σε θέματα φύλου",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 8",
+                "Competence": "Επίπεδο 8",
+                "Skills": "Επίπεδο 8"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Περιγραφή και ανάλυση των προβλημάτων της σημερινής βιομηχανίας παραγωγής λογισμικού. Λογισμικό Ανοικτού Κώδικα. Ευέλικτες Μέθοδοι. Διαδικασίες παραγωγής λογισμικού. Μοντέλα κύκλου ζωής λογισμικού. Εξαγωγή και\r\nΣυγγραφή Απαιτήσεων. Προσεγγίσεις Ανάλυσης και Δομημένη Ανάλυση. Προσεγγίσεις Σχεδίασης και Δομημένη Σχεδίαση. Κωδικοποίηση\r\nκαι Έλεγχος. Εργαλεία και Περιβάλλοντα Τεχνολογίας Λογισμικού. Εργασία με συμμετοχή σε έργο Λογισμικού Ανοικτού Κώδικα.",
+                    "en": "Description and analysis of modern software industry problems. Open source code. Agile Methods. Software Processes. Software Life Cycle Models. Requirements Elicitation and Review. Analysis2 approaches and Structured Analysis. Design approaches and Structured Design. Coding and Testing. Tools and Environments for Software Engineering. Participation in an open source project either as requirements engineer, coder or tester."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρήση διαφανειών, διάθεση ειδικού ιστοχώρου για την εκπόνηση της εργασίας (www.opense.net)",
+                    "en": "Lecturing with slides, special web site for the student project (www.opense.net)"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "2",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "10",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Βαθμός μαθήματος = 60% γραπτή εξέταση, 40% εργασία. Η εργασία είναι στο πεδίο (σε έργο ανοικτού κώδικα) και αξιολογείται (α) με δημόσια παρουσίαση με διαφάνειες από το φοιτητή (β) με εξέταση των παραδοτέων και (γ) από τα σχόλια της κοινότητας του έργου. ",
+                    "en": "Course grade = 60% written exam, 40% project. Project is in the open source field and is evaluated by (a) public presentation of project results (b) assessment of open source project deliverables and (c) open source project community feedback."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ ΑΠΟ ΤΗ ΘΕΩΡΙΑ ΣΤΗΝ ΠΡΑΞΗ, S.L.Pfleeger, Κλειδάριθμος, 2002\r\n2. ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ, R. Pressmanm Τζιόλας, 2013\r\n3. ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΤΕΧΝΟΛΟΓΙΑΣ ΛΟΓΙΣΜΙΚΟΥ, Ι. Sommerville, Κλειδάριθμος, 2010",
+                "additional_bibliography_for_study": "Παράλληλα κείμενα και σημειώσεις πάνω στο λογισμικό ανοικτού κώδικα και στις ευέλικτες μεθόδους, διαθέσιμα στον ιστοχώρο του μαθήματος (AUTH elearning)"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600104631"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ ΑΠΟ ΤΗ ΘΕΩΡΙΑ ΣΤΗΝ ΠΡΑΞΗ, S.L.Pfleeger, Κλειδάριθμος, 2002\r\n2. ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ, R. Pressmanm Τζιόλας, 2013\r\n3. ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΤΕΧΝΟΛΟΓΙΑΣ ΛΟΓΙΣΜΙΚΟΥ, Ι. Sommerville, Κλειδάριθμος, 2010",
+            "additional": "Παράλληλα κείμενα και σημειώσεις πάνω στο λογισμικό ανοικτού κώδικα και στις ευέλικτες μεθόδους, διαθέσιμα στον ιστοχώρο του μαθήματος (AUTH elearning)"
+        }
+    },
+    "winter": true,
+    "period": 5
+}

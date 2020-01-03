@@ -1,26 +1,43 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import PropTypes from "prop-types";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Nav from "./components/navigator/Nav";
+import Courses from "./components/courses/Courses";
+import "./App.css";
+
+import {
+  setTranslations,
+  setDefaultLanguage,
+  setLanguageCookie,
+  translate
+} from "react-switch-lang";
+
+import en from "./lang/en.json";
+import gr from "./lang/gr.json";
+
+setTranslations({ en, gr });
+setDefaultLanguage("en");
+setLanguageCookie();
+
+class App extends Component {
+  render() {
+    const { t } = this.props;
+    return (
+      <div className="App">
+        <div className="App-content">
+          <Nav />
+          <div className="Info-box">
+            <h1>{t("desc")}</h1>
+          </div>
+          <Courses />
+        </div>
+      </div>
+    );
+  }
 }
 
-export default App;
+App.propTypes = {
+  t: PropTypes.func.isRequired
+};
+
+export default translate(App);

@@ -1,0 +1,237 @@
+{
+    "coursecode": "NIS-07-05",
+    "AltKey": "NIS-07-05",
+    "title": "ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΑΣ",
+    "titleEN": "INFORMATION RETRIEVAL",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155570,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΑΣ",
+                    "en": "INFORMATION RETRIEVAL"
+                },
+                "course_code": "NIS-07-05",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Απόστολος Παπαδόπουλος"
+            },
+            "class_info": {
+                "class_title": "ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΑΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Παπαδόπουλος Απόστολος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004918"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://delab.csd.auth.gr/courses/c_ir/index.html"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος οι φοιτητές θα έχουν μία πλήρη εικόνα των μεθόδων ανάκτησης πληροφορίας που χρησιμοποιούνται στον Παγκόσμιο Ιστό. Επίσης, η εκπόνηση των εργασιών θα τους δώσει αρκετές γνώσεις και εφόδια για το αντικείμενο.",
+                "en": "After the course completion students will have a thorough understanding of information retrieval methods used in the World Wide Web. Moreover, the assignments will provide the necessary tools required to develop their knowledge further."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 6",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "- βασικές λειτουργίες της ανάκτησης πληροφορίας\r\n- κλασικά μοντέλα ανάκτησης πληροφορίας (λογικό, διανυσματικό, πιθανοκρατικό)\r\n- συλλογές αναφοράς και αποτίμηση αποτελεσματικότητας συστημάτων\r\n- προεπεξεργασία εγγράφων κειμένου\r\n- αντεστραμμένος κατάλογος\r\n- κατάλογος υπογραφών\r\n- συμπίεση καταλόγων\r\n- ανάδραση σχετικότητας\r\n- ανάκτηση πολυμεσικών δεδομένων\r\n- ανάκτηση πληροφορίας στον παγκόσμιο ιστό\r\n- παράλληλη και κατανεμημένη ανάκτηση πληροφορίας ",
+                    "en": "- fundamental issues\r\n- classic information retrieval models\r\n- reference collections\r\n- document preprocessing\r\n- inverted indexing\r\n- signature indexing\r\n- index compression\r\n- relevance feedback\r\n- multimedia retrieval\r\n- retrieval in the world wide web\r\n- parallel and distributed information retrieval"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "69",
+                        "credits": "2.3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Η αξιολόγηση των φοιτητών στο μάθημα βασίζεται στη γραπτή εξέταση, στην εκπόνηση βιβλιογραφικής εγρασίας και στην εκπόνηση της αναπτυξιακής εργασίας. Στην ιστοσελίδα του μαθήματος οι πληροφορίες αυτές είναι διαθέσιμες.",
+                    "en": "Student evaluation is based on written examination, a bibliographic assignment and a system develpoment assignment. The grading scheme is avaliable in the course webpage.  "
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "\"Εισαγωγή στην Ανάκτηση Πληροφοριών\",\r\nManning, C.D. and Raghavan, P. and Schutze, H.\r\nΚλειδάριθμος\r\n(μεταφρασμένο στα ελληνικά)",
+                "additional_bibliography_for_study": "- Baeza-Yates, R. and Ribeiro-Neto, B., \"Modern Information Retrieval\", ACM Press, 2011.\r\n- Witten, I.H and Moffat, A. and Bell, T.C., \"Managing Gigabytes: Compressing and Indexing Documents and Images\", Morgan Kaufmann, 1999.\r\n- Korfhage, R., \"Information Storage and Retrieval\", John Wiley & Sons, 1997.\r\n- Frakes, W.B. and Baeza-Yates (eds), \"Information Retrieval: Data Structures and Algorithms\", Prentice Hall, Englewood Cliffs, NJ, 1992."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004918"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://delab.csd.auth.gr/courses/c_ir/index.html"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "\"Εισαγωγή στην Ανάκτηση Πληροφοριών\",\r\nManning, C.D. and Raghavan, P. and Schutze, H.\r\nΚλειδάριθμος\r\n(μεταφρασμένο στα ελληνικά)",
+            "additional": "- Baeza-Yates, R. and Ribeiro-Neto, B., \"Modern Information Retrieval\", ACM Press, 2011.\r\n- Witten, I.H and Moffat, A. and Bell, T.C., \"Managing Gigabytes: Compressing and Indexing Documents and Images\", Morgan Kaufmann, 1999.\r\n- Korfhage, R., \"Information Storage and Retrieval\", John Wiley & Sons, 1997.\r\n- Frakes, W.B. and Baeza-Yates (eds), \"Information Retrieval: Data Structures and Algorithms\", Prentice Hall, Englewood Cliffs, NJ, 1992."
+        }
+    },
+    "winter": true,
+    "period": 7
+}

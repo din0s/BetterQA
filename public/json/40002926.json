@@ -1,0 +1,215 @@
+{
+    "coursecode": "NNA-07-06",
+    "AltKey": "NNA-07-06",
+    "title": "ΑΣΥΡΜΑΤΑ ΔΙΚΤΥΑ",
+    "titleEN": "WIRELESS NETWORKS",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155556,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΣΥΡΜΑΤΑ ΔΙΚΤΥΑ",
+                    "en": "WIRELESS NETWORKS"
+                },
+                "course_code": "NNA-07-06",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Πέτρος Νικοπολιτίδης"
+            },
+            "class_info": {
+                "class_title": "ΑΣΥΡΜΑΤΑ ΔΙΚΤΥΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Νικοπολιτίδης Πέτρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων",
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004930"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Εισαγωγή στα ασύρματα δίκτυα, βασικά θέματα υποδομής στο φυσικό επίπεδο, το υπο-\r\nεπίπεδο MAC, τα επίπεδα δικτύου και μεταφοράς, ανάλυση και εμβάθυνση σε υπάρχουσες\r\nτεχνολογίες και πρότυπα ασυρμάτων δικτύων. Ο φοιτητής θα αποκτήσει μια συνολική εικόνα\r\nτου χώρου των ασυρμάτων δικτύων. Επίλυση ασκήσεων με βάση τη θεωρία που έχει\r\nδιδαχθεί. Εργαστηριακές ασκήσεις με τη χρήση προσομοιωτών για πρωτόκολλα ασυρμάτων\r\nδικτύων.",
+                "en": "Fundamentals of wireless networks, physical, MAC, networks and transport layer issues, study of wireless network technologies and current standards. The student will acquire knowledge on the area of wireless networks. Practice in solving ex-ercises based on taught theory. Practice via participation in laboratory exercises on wireless networks."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "13": "Επίδειξη κοινωνικής, επαγγελματικής και ηθικής υπευθυνότητας και ευαισθησίας σε θέματα φύλου",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή, το φυσικό επίπεδο στις ασύρματες επικοινωνίες, το υπο-επίπεδο MAC,\r\nκυψελλωτά δίκτυα δεύτερης και τρίτης γενιάς, ασύρματα τοπικά δίκτυα, ασύρματα δίκτυα\r\nπροσωπικής περιοχής, ασύρματα δίκτυα ευρείας περιοχής, δορυφορικά επικοινωνιακά\r\nσυστήματα, αλγόριθμοι δρομολόγησης σε ad-hoc δίκτυα, MobileIP, TCP σε ασύρματα\r\nδίκτυα, συστήμα-τα εκπομπής μέσω προώθησης.",
+                    "en": "Introduction to wireless networks, the MAC layer, wireless cellular networks, wireless local area networks, personal area networks, wide area wireless networks, satellite networks, routing algorithms in ad-hoc networks, MobileIP, TCP in wireless networks, wireless push sys-tems."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "H/Y και λογισμικό για εργαστηριακές ασκήσεις και laptop και προβολικό για τη διδασκαλία\r\nτου μαθήματος. Χρηση πλατφόρμας blackboard για επικοινωνια με φοιτητες.",
+                    "en": "PC and software use for the lab excercises and use of laptop and data projector for teaching the course. Use of blackboard platform for interactions and communication with the students."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "42",
+                        "credits": "1.4",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Τα κριτήρια και τα βάρη αυτών αναγράφονται στην ιστοσελίδα του μαθήματος",
+                    "en": "The criteria and their weights are listed on the web page of the course"
+                },
+                "assessment_methods": {
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004930"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 7
+}

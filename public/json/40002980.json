@@ -1,0 +1,251 @@
+{
+    "coursecode": "NDM-08-02",
+    "AltKey": "NDM-08-02",
+    "title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΟΗΜΟΣΥΝΗ",
+    "titleEN": "COMPUTATIONAL INTELLIGENCE",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155629,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΟΗΜΟΣΥΝΗ",
+                    "en": "COMPUTATIONAL INTELLIGENCE"
+                },
+                "course_code": "NDM-08-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Αναστάσιος Τέφας"
+            },
+            "class_info": {
+                "class_title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΟΗΜΟΣΥΝΗ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Τέφας Αναστάσιος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων",
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004982"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=7944"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προηγούμενη έκθεση σε νευρωνικά δίκτυα, αναγνώριση προτύπων, μαθηματική λογική βοηθά στην γρηγορότερη αφομοίωση των εννοιών.",
+                    "en": "Prior exposition to pattern recognition, neural networks and logic can facilitate the faster comprehension of the concepts introduced."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: Θεμελίωση των εννοιών της υπολογιστικής νοημοσύνης στις περιοχές νευρωνικών δικτύων, στατιστικής μάθησης, ασαφούς λογικής και εξελικτικών αλγορίθμων. Εξοικείωση με τις έννοιες της αυτό-οργάνωσης, ανταγωνιστικής μάθησης, ενισχυτικής μάθησης. Κατανόηση των αρχών της ασαφούς λογικής, ασαφών συνόλων και ασαφών συστημάτων. Θεμελίωση των εξελικτικών τεχνικών στην βελτιστοποίηση. Έκθεση στην πληθώρα εφαρμογών της υπολογιστικής νοημοσύνης στην ανάλυση και ανάκτηση πολυμεσικών δεδομένων, στον ευφυή έλεγχο και την ρομποτική, στην δημιουργία νευροασαφών συστημάτων. \r\nΔεξιότητες: Ικανότητα υλοποίησης και εφαρμογής των τεχνικών υπολογιστικής νοημοσύνης που διδάχτηκαν (ασαφούς λογικής, εξελικτικών αλγορίθμων, νοημοσύνης πληθυσμών, νευρωνικών δικτύων) στην επίλυση πραγματικών προβλημάτων. Αντιμετώπιση σύνθετων πραγματικών προβλημάτων όπως τεχνητή όραση, ανάκτηση πολυμεσικής πληροφορίας, ρομποτικός έλεγχος.\r\n",
+                "en": "Cognitive: Foundation of the basic computational intelligence concepts in the areas of neural networks, statistical learning, fuzzy logic and evolutionary computation. Comprehension of the ideas behind self-organization, competitive learning, reinforcement learning. Conception of the fuzzy logic, fuzzy sets and fuzzy systems principles. Foundation of the evolutionary concepts in optimization. Exposition to the plethora of computational intelligence applications in multimedia information analysis and retrieval, intelligent control, robotics and neurofuzzy systems.\r\nSkills: Promoting analytic and implementation skills in the taught computational intelligence fields (fuzzy theory, evolutionary computation, swarm intelligence and neural networks) and their application to real problems. Combining computational intelligence techniques for complex real problems like computer vision, multimedia information retrieval, robotic control. \r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 6",
+                "Skills": "Επίπεδο 6"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Επισκόπηση νευρωνικών δικτύων. Συσχετιστικές μνήμες. Αναδρομικά δίκτυα Hopfield. Αυτο-οργανωνούμενα δίκτυα. Kohonen maps και ανταγωνιστική μάθηση. Προσομοιωμένη ανόπτηση και μηχανή Boltzmann. Νευρωνικά δίκτυα ενισχυτικής μάθησης. Νευρωνικά δίκτυα βαθειάς μάθησης (Deep learning). Βαθειά συνελικτικά δίκτυα. Βαθειά αναδρομικά δίκτυα. Ασαφής λογική, ασαφής μάθηση και ασαφή συστήματα. Γενετικοί και εξελικτικοί αλγόριθμοι βελτιστοποίησης. Αλγόριθμοι βασισμένοι στην νοημοσύνη πληθυσμών (swarm intelligence). Γενετικός προγραμματισμός, Κοινωνιογνωσιακοί και μιμητικοί αλγόριθμοι. Εφαρμογές στην αναγνώριση προτύπων, ρομποτική. Νευροασαφή συστήματα. Υβριδικά συστήματα υπολογιστικής νοημοσύνης στην ανάλυση σήματος, εικόνας και video.",
+                    "en": "Neural Networks overview. Associative memories. Hopfiled recurrent neural networks. Self-organizing neural networks. Kohonen maps and competitive learning. Simulated annealing and Boltzmann machine. Deep Learning. Deep Convolutional Neural Networks. Deep Autoencoders. Deep Recurrent Networks. Reinforcement learning neural networks. Fuzzy logic, fuzzy learning nad fuzzy systems. Evolutionary and genetic algorithms. Swarm intelligence algorithms. Genetic programming, Socio-cognitive and mimetic algorithms. Applications in pattern recognition and robotics. Neuro-fuzzy systems. Hybrid computational intelligence systems in signal, image and video analysis."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "90",
+                        "credits": "3",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "12",
+                        "credits": "0.4",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "36",
+                        "credits": "1.2",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "12",
+                        "credits": "0.4",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Αξιολόγηση των υποχρεωτικών εργασιών (κώδικας και εκτέλεση εφαρμογής, δοκίμιο, παρουσίαση) 50%, Γραπτή εξέταση στην ύλη του μαθήματος 50%. Όλα τα κριτήρια αξιολόγησης των εργασιών περιγράφονται στις εκφωνήσεις των εργασιών και επεξηγούνται στην αίθουσα. Τα κριτήρια αξιολόγησης του γραπτού επίσης περιγράφονται στις τελευταίες διαλέξεις.",
+                    "en": "Project evaluation (source code, application, paper, presentation) 50%, written exams 50%. The evaluation criteria are explained  in detail with the project announcement. The evaluation criteria for the exams are discussed in the last lectures of the course."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΟΗΜΟΣΥΝΗ, Σ. ΤΖΑΦΕΣΤΑΣ, Σ.ΤΖΑΦΕΣΤΑΣ, 2η Εκδοση, ΑΘΗΝΑ, 2008\r\n2. ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ ΚΑΙ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ, 3η ΕΚΔΟΣΗ, S. Haykin, Παπασωτηρίου, 2010, Αθήνα.",
+                "additional_bibliography_for_study": "ΤΕΧΝΗΤΑ ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ, Κ. ΔΙΑΜΑΝΤΑΡΑΣ, ΚΛΕΙΔΑΡΙΘΜΟΣ, 2007, ΑΘΗΝΑ"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004982"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=7944"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΟΗΜΟΣΥΝΗ, Σ. ΤΖΑΦΕΣΤΑΣ, Σ.ΤΖΑΦΕΣΤΑΣ, 2η Εκδοση, ΑΘΗΝΑ, 2008\r\n2. ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ ΚΑΙ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ, 3η ΕΚΔΟΣΗ, S. Haykin, Παπασωτηρίου, 2010, Αθήνα.",
+            "additional": "ΤΕΧΝΗΤΑ ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ, Κ. ΔΙΑΜΑΝΤΑΡΑΣ, ΚΛΕΙΔΑΡΙΘΜΟΣ, 2007, ΑΘΗΝΑ"
+        }
+    },
+    "winter": false,
+    "period": 8
+}

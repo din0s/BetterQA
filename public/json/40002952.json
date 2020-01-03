@@ -1,0 +1,243 @@
+{
+    "coursecode": "NIS-06-02",
+    "AltKey": "NIS-06-02",
+    "title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΛΟΓΙΚΗ ΚΑΙ ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+    "titleEN": "COMPUTATIONAL LOGIC AND LOGIC PROGRAMMING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155650,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΛΟΓΙΚΗ ΚΑΙ ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+                    "en": "COMPUTATIONAL LOGIC AND LOGIC PROGRAMMING"
+                },
+                "course_code": "NIS-06-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Βασιλειάδης"
+            },
+            "class_info": {
+                "class_title": "ΥΠΟΛΟΓΙΣΤΙΚΗ ΛΟΓΙΚΗ ΚΑΙ ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Βασιλειάδης Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004993"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8162"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές Γνώσεις Προγραμματισμού, Βασικές Γνώσεις Διακριτών Μαθηματικών, Βασικές Γνώσεις Δομών Δεδομένων",
+                    "en": "Basic knowledge of discrete mathematics, Basic knowledge of programming, Basic knowledge of data structures"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνώσεις: Εξοικείωση με τις αρχές της Μαθηματικής Λογικής, Εξοικείωση με την χρήση της Μαθηματικής Λογικής ως Γλώσσας Προγραμματισμού, Κατάρτιση στην Γλώσσα Προγραμματισμού Prolog.\r\nΔεξιότητες: Απόκτηση ικανότητας αναπαράστασης και επίλυσης λογικών εκφράσεων. Απόκτηση ικανότητας προγραμματισμού με την Γλώσσα Προγραμματισμού Prolog.\r\n",
+                "en": "Knowledge: Familiarization with Mathematical Logic principles, Familiarization with using Logic as a Programming Languages, Training on Prolog programming language.\r\nSkills: Representing and solving logical expressions. Programming with the Prolog programming language.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Μαθηματική Λογική (Προτασιακή Λογική, Κανονικές Μορφές, Μηχανισμοί Εξαγωγής Συμπερασμάτων, Αρχή της Ανάλυσης, Κατηγορηματική Λογική, Μεταβλητές και Ποσοδείκτες, Αντικατάσταση και Ενοποίηση). Σχέση Μαθηματικής Λογικής με Λογικό Προγραμματισμό (Μορφή Kowalski, Προτάσεις Horn). \r\nΛογικός Προγραμματισμός (Βασικές έννοιες, Ιστορία, Η γλώσσα Prolog). Σύνταξη λογικών προγραμμάτων (Ερωτήσεις, Κανόνες, Κατηγορήματα, Σύνθετοι όροι). Ταυτοποίηση. Μηχανισμός ελέγχου. Αναδρομικοί Κανόνες. Λίστες. Παράσταση αριθμών (Αριθμητικές πράξεις, Σύγκριση, Μαθηματικές Συναρτήσεις). Χειρισμός συμβολοσειρών. Είσοδος/Έξοδος. Μεταβλητή κλήση. Προσδιορισμός τύπου. Σύνθεση/διάσπαση σύνθετων όρων. Αποκοπή (Επίδραση στο δένδρο υπολογισμού, Χρήση). Άρνηση σαν αποτυχία. Διαχείριση λύσεων. Διαχείριση προγράμματος. Μεθοδολογία Προγραμματισμού. Εφαρμογές Λογικού Προγραμματισμού. \r\n",
+                    "en": "Mathematical Logic (Propositional calculus, normal forms, inference mechanisms, resolution principle, predicate calculus, variables and quantifiers, variable substitution and unification). From Logic to Logic Programming (Kowalski form, Horn clauses).\r\nLogic Programming (Basic concepts, history, Prolog language). Syntax of Logic programs (Queries, Rules, Predicates, Complex Terms). Unification. Execution control mechanism. Recursion. Lists. Number representation (arithmetic operations, comparison, mathematical functions). String handling. Input/Output. Variable Goals. Term type testing. Term construction/decomposition. Cut (effect on the computation tree, usage). Negation as failure. Solution management. Clause management. Programming methodology. Logic Programming Applications. \r\n"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διαφάνειες Powerpoint, Πολυμεσικός Οδηγός Εκμάθησης, Επίδειξη γλώσσας προγραμματισμού Prolog",
+                    "en": "Powerpoint slides, Multimedia Programming guide, Prolog programming language demonstration"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "69",
+                        "credits": "2.3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις σε ποσοστό 75% του τελικού βαθμού, Προγραμματιστικές εργασίες 25%",
+                    "en": "Written exams (75%), Programming Projects (25%)\r\n"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "- ΣΑΚΕΛΛΑΡΙΟΥ, Η., ΒΑΣΙΛΕΙΑΔΗΣ, Ν., ΚΕΦΑΛΑΣ, Π., ΣΤΑΜΑΤΗΣ, Δ., 2016. Τεχνικές Λογικού Προγραμματισμού. [ηλεκτρ. βιβλ.] Αθήνα:Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. Διαθέσιμο στο: http://hdl.handle.net/11419/777\r\n- Μανόλης Μαρακάκης, “Prolog: Προγραμματισμός σε Λογική για Τεχνητή Νοημοσύνη”, ΕΚΔΟΣΕΙΣ ΝΕΩΝ ΤΕΧΝΟΛΟΓΙΩΝ, ISBN: 978-960-6759-98-7, 2014.\r\n- Σημειώσεις-Διαφάνειες διδάσκοντος για το μάθημα. \r\n- Πολυμεσικός οδηγός εκμάθησης Prolog.",
+                "additional_bibliography_for_study": "- Programming in Prolog, W. Clocksin, C. Mellish, Springer-Verlag.\r\n- Prolog Programming for Artificial Intelligence, Ivan Bratko, Addison-Wesley, (2nd or 3rd ed.)."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004993"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8162"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "- ΣΑΚΕΛΛΑΡΙΟΥ, Η., ΒΑΣΙΛΕΙΑΔΗΣ, Ν., ΚΕΦΑΛΑΣ, Π., ΣΤΑΜΑΤΗΣ, Δ., 2016. Τεχνικές Λογικού Προγραμματισμού. [ηλεκτρ. βιβλ.] Αθήνα:Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. Διαθέσιμο στο: http://hdl.handle.net/11419/777\r\n- Μανόλης Μαρακάκης, “Prolog: Προγραμματισμός σε Λογική για Τεχνητή Νοημοσύνη”, ΕΚΔΟΣΕΙΣ ΝΕΩΝ ΤΕΧΝΟΛΟΓΙΩΝ, ISBN: 978-960-6759-98-7, 2014.\r\n- Σημειώσεις-Διαφάνειες διδάσκοντος για το μάθημα. \r\n- Πολυμεσικός οδηγός εκμάθησης Prolog.",
+            "additional": "- Programming in Prolog, W. Clocksin, C. Mellish, Springer-Verlag.\r\n- Prolog Programming for Artificial Intelligence, Ivan Bratko, Addison-Wesley, (2nd or 3rd ed.)."
+        }
+    },
+    "winter": false,
+    "period": 6
+}

@@ -1,0 +1,214 @@
+{
+    "coursecode": "NIS-08-04",
+    "AltKey": "64-NIS-08-04",
+    "title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+    "titleEN": "MACHINE LEARNING",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155610,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+                    "en": "MACHINE LEARNING"
+                },
+                "course_code": "NIS-08-04",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Γρηγόριος Τσουμάκας"
+            },
+            "class_info": {
+                "class_title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Τσουμάκας Γρηγόριος, Βράκας Δημήτριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600138536"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=11553"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-01-05 ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "NCO-02-02 ΠΙΘΑΝΟΤΗΤΕΣ & ΣΤΑΤΙΣΤΙΚΗ"
+                ],
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα γνωρίζουν τι αφορά η επιστημονική περιοχή της μηχανικής μάθησης, καθώς και πως λειτουργούν οι αλγόριθμοι για γραμμικά μοντέλα, δενδρικά μοντέλα, μοντέλα κανόνων, σύνολα κανόνων, ομάδες μοντέλων και ενισχυτική μάθηση. Επιπλέον θα μπορούν να εφαρμόσουν τέτοιους αλγορίθμους σε πραγματικά δεδομένα και εφαρμογές χρησιμοποιώντας τις βιβλιοθήκες scikit-learn και gym της Python.",
+                "en": "Upon successful completion of the course, students will know what is involved in the field of engineering learning, as well as how algorithms for linear models, tree models, rule models, ensembles of models and reinforcement learning work. In addition, they will be able to apply such algorithms to real-world data and applications using Python's scikit-learn and gym libraries."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "13": "Επίδειξη κοινωνικής, επαγγελματικής και ηθικής υπευθυνότητας και ευαισθησίας σε θέματα φύλου",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Αξιολόγηση"
+                ],
+                "Affective Domain": [
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή στη Μηχανική Μάθηση. Γραμμικά Μοντέλα. Δενδρικά Μοντέλα. Μοντέλα Κανόνων. Ομάδες Μοντέλων. Ενισχυτική Μάθηση. ",
+                    "en": "Introduction to Machine Learning. Linear Models. Tree Models. Rule Models. Model Ensembles. Reinforcement Learning."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές",
+                    "4": "Χρήση Τ.Π.Ε. στην Αξιολόγηση των Φοιτητών"
+                },
+                "description": {
+                    "el": "Διαφάνειες, αλληλεπιδραστικά σημειωματάρια με κώδικα και σχόλια, χρήση πλατφόρμας ηλεκτρονικής μάθησης του ΑΠΘ, πρακτικές ασκήσεις και εργασίες",
+                    "en": "Slides, notebooks with code and comments, use of elearning platform of AUTH, practical exercises and assignments"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "69",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Οι φοιτητές θα αξιολογούνται από γραπτές εξετάσεις που θα δίνουν στις εξεταστικές περιόδους του τμήματος και απόδύο εργασίες που θα αφορούν στην υλοποίηση αλγορίθμων μηχανικής μάθησης.",
+                    "en": "The evaluation process will be based on the final written examination and on two projects that will involve the implementation of machine learning algorithms."
+                },
+                "assessment_methods": {
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "",
+                "additional_bibliography_for_study": "- Σημειώσεις μαθήματος\r\n- Machine Learning, Tom Mitchell, McGraw-Hill Education, 1997. \r\n- Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron, O'Reilly Media, 2017."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600138536"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=11553"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "",
+            "additional": "- Σημειώσεις μαθήματος\r\n- Machine Learning, Tom Mitchell, McGraw-Hill Education, 1997. \r\n- Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron, O'Reilly Media, 2017."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

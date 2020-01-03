@@ -1,0 +1,366 @@
+{
+    "coursecode": "NET-07-02",
+    "AltKey": "ΝΕΤ-07-02",
+    "title": "ΕΥΕΛΙΚΤΗ ΜΑΘΗΣΗ",
+    "titleEN": "FLEXIBLE LEARNING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155564,
+    "elearning_url": "https://elearning.auth.gr/course/view.php?id=12333",
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΥΕΛΙΚΤΗ ΜΑΘΗΣΗ",
+                    "en": "FLEXIBLE LEARNING"
+                },
+                "course_code": "NET-07-02",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Διονύσιος Πολίτης"
+            },
+            "class_info": {
+                "class_title": "ΕΥΕΛΙΚΤΗ ΜΑΘΗΣΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Χειμερινή",
+                "instructors": "Πολίτης Διονύσιος, Δημητριάδης Σταύρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο",
+                "2": "Eξ απoστάσεως εκπαίδευση"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121266"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": ""
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "Wiki"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Συνίσταται η παρακολούθηση των μαθημάτων Ἑπικοινωνία Ανθρώπου - Υπολογιστή᾽ και ᾽Συστημάτα Πολυμέσων᾽",
+                    "en": "It is recommended to have a prior knowledge of 'Human Computer Interaction' and 'Multimedia Systems'"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Η ευέλικτη μάθηση δίνει την ευκαιρία σε διδάσκοντες και διδασκόμενους να αποκλίνουν από το παραδοσιακό μαθησιακό περιβάλλον -δηλαδή την αίθουσα διδασκαλίας- και να προσεγγίσουν τη μάθηση σε νέα μαθησιακά περιβάλλοντα με τη βοήθεια της τεχνολογίας.\r\nΟι συνιστώσες στις οποίες επικεντρώνονται οι φοιτητές  και για τις οποίες αποκτούν ειδικευμένες γνώσεις, είναι: \r\n•\tη ελαχιστοποίηση του κόστους\r\n•\tη αξιοποίηση του περιορισμένου διαθέσιμου χρόνου για απόκτηση πληροφοριών και γνώσεων\r\n•\tη επιτακτική ανάγκη για απόκτηση νέων και ποικίλων δεξιοτήτων, αλλά και για αναβάθμιση των ήδη αποκτηθέντων,  και, τέλος\r\n•\tη ανάπτυξη και διαμόρφωση της σύγχρονης εκπαιδευτικής τεχνολογίας.\r\n",
+                "en": "Flexible and mobile learning provides an opportunity for teachers and learners to deviate from the traditional learning environment-that of the classroom-and to approach learning in new environments subsidized with the aid of technology.\r\nThe coordinates on which students focus on for acquiring specialized knowledge, are:\r\n• cost minimization\r\n• exploitation of the limited available time for acquiring information and knowledge\r\n• the need for the acquisition of new skills, but also the need for an upgrade of already certified skills, and finally\r\n• the development and shaping of modern educational technology."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 8",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Η \"ευέλικτη μάθηση\" εξετάζει τους τρόπους με τους οποίους η τεχνολογία του Διαδικτύου και των φορητών συσκευων (mobile devices) μπορεί να περιορίσει ή ακόμα και να εξαλείψει εμπόδια που τίθενται στη μάθηση.\r\nΤο μάθημα εξοικειώνει τον φοιτητή με το αντικείμενο σταδιακά, ξεκινώντας με την παρουσίαση ενός γενικού εννοιολογικού πλαισίου για την ευέλικτη μάθηση, προχωρώντας στα \"κλασσικά\" θέματα της εκπαίδευσης από απόσταση και της τηλεκπαίδευσης (και ειδικότερα της τηλεκατάρτισης), και ολοκληρώνοντας με τα ειδικότερα ζητήματα των προσαρμοστικών εκπαιδευτικών συστημάτων καθώς και των συνεργατικών και εικονικών εκπαιδευτικών περιβαλλόντων του Διαδικτύου. \r\nΤέτοια είναι: e-Learning & m-Learning. Υπηρεσίες τηλεκατάρτισης. Υπηρεσίες επικοινωνίας & συνεργασίας στο Διαδίκτυο (ηλ. ταχυδρομείο, ομάδες συζήτησης, λευκοπίνακες, τηλετάξεις & εικονικές τάξεις, ηχο- & εικονοδιάσκεψη).\r\nΤέλος, παρουσιάζει μια σειρά από συνοπτικούς αλλά συνάμα στοχευμένους οδηγούς χρήσης σύγχρονων εργαλείων ανάπτυξης \r\n(α) δικτυακών τόπων,\r\n(β) ψηφιακού εκπαιδευτικού περιεχομένου, και\r\n(γ) χρήσης φορητών συκευών ως \"πανταχου παρόντων\" ενεργών βοηθημάτων μάθησης.",
+                    "en": "The course for \"flexible learning\" examines ways in which the Internet technology and the widespread use of mobile devices can reduce or even eliminate barriers to learning.\r\nThe course familiarizes the student with the object gradually, commencing with the presentation of a general conceptual framework for flexible learning, progressing to \"classical\" topics of distance education and e-learning (and in particular distance learning), and concludes with particular issues on adaptive educational systems, and collaborative and virtual educational environments of the Internet.\r\nThese subjects are: e-Learning & m-Learning. Distance learning services. Communication services and Internet collaboration (e-mail, newsgroups, interactive whiteboards, virtual classrooms, audio-and videoconferencing).\r\nFinally, it presents a series of brief but yet targeted learning objects focusing on modern development tools for\r\n(a) educational websites,\r\n(b) digital learning material, and\r\n(c) the use of mobile devices as \"ubiquitous\" active learning assistants."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "6": "Πολυμεσικό υλικό",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιούνται τα εργαλεία του VLE MOODLE (http://elearning.auth.gr): -Ηλεκτρονικά Τεστ -Ηλεκτρονική υποβολή και παρουσίαση εργασιών μέσω Journal και Wiki -Συμμετοχική διαδικασία με χρήση Forum του VLE.\r\n\r\nΤο μάθημα εφαρμόζει υβριδικό μοντέλο μάθησης σε ποσοστό 70% - 30%. Το 70% της ύλης παρουσιάζεται με τη μορφή κλασικής διδασκαλίας στο αμφιθέατρο και στο εργαστήριο. Από τους παρακολουθούντες απαιτείται η παρουσίαση βιβλιογραφικών εργασιών (2 τουλάχιστον) και ενός προγραμματιστικού project με γλώσσες και τεχνικές τάχιστης προτυποποίησης. Το 30% της διδασκαλίας γίνεται με ηλεκτρονικά μέσα υποβοήθησης. ",
+                    "en": "The course uses extensively the MOODLE VLE (http://elearning.auth.gr). More specific it implements: -Electronic Tests -electronic submission of dues using Journal technology and Wikis -Collaborative Learning using the Forums of the VLE.\r\n\r\nThis course implements a hybrid learning model in a 70% - 30% analogy. 70% of the material presented applying  classic, ex cathedra teaching. The attendants are asked to present bibliographic cases (at least 2) and a programming project using rapid prototyping techniques. 30% of the teaching is offered by electronic means."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "24",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "2": {
+                    "activity": {
+                        "name": "Σεμινάρια",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "18",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "18",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "7": {
+                    "activity": {
+                        "name": "Πρακτική (Τοποθέτηση)",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "10": {
+                    "activity": {
+                        "name": "Διαδραστική διδασκαλία στο Υπολογιστικό Κέντρο",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "11": {
+                    "activity": {
+                        "name": "Εκπαιδευτικές επισκέψεις και παρακολούθηση συνεδρίων / σεμιναρίων / εκδηλώσεων",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "20",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "4",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Η αξιολόγηση των φοιτητών γίνεται ενδελεχώς ως εξής:\r\nΑ Φάση: Με Διαμορφωτική Αξιολόγηση κατά τη διάρκεια των 12 πρώτων εβδομάδων, που περιλαμβάνει ηλεκτρονικά τεστ και παρουσίαση εργαστηριακών ασκήσεων και project (40% του τελικού βαθμού)\r\nΒ Φάση: Με Συμπερασματική Αξιολόγηση, κατά τις εβδομάδες 13 - 15, που περιλαμβάνει γραπτή εξέταση και δημόσια παρουσίαση του τελικού project. \r\n(60% του τελικού βαθμού)",
+                    "en": "Students are perpetually evaluated as follows:\r\nPhase A: With Formative Evaluation methods during the first 12 weeks of the semester: Electronic tests,  presentation of laboratory exercises and projects. (40% of the final grade)\r\nPhase B: With a concluding Summative Evaluation, during weeks 13-15, which includes a written examination and a public presentation of the final project.\r\n(60% of the final grade)"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Ευέλικτη μάθηση με χρήση τεχνολογιών πληροφορίας και επικοινωνιών, των Στ. Δημητριάδη, Χ. Καραγιαννίδη, Αν. Πομπόρτση, Θρ. Τσιάτσου\r\nΕκδόσεις Τζιόλα, 2007, 330 σελ. ISBN 978-960-418-142-1",
+                "additional_bibliography_for_study": "Designing MLearning: Tapping into the Mobile Revolution for Organizational Performance, Clark Quinn, John Wiley & Sons, 2011, Language: English\r\nISBN-10: 0470604484"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121266"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": ""
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "Wiki"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Ευέλικτη μάθηση με χρήση τεχνολογιών πληροφορίας και επικοινωνιών, των Στ. Δημητριάδη, Χ. Καραγιαννίδη, Αν. Πομπόρτση, Θρ. Τσιάτσου\r\nΕκδόσεις Τζιόλα, 2007, 330 σελ. ISBN 978-960-418-142-1",
+            "additional": "Designing MLearning: Tapping into the Mobile Revolution for Organizational Performance, Clark Quinn, John Wiley & Sons, 2011, Language: English\r\nISBN-10: 0470604484"
+        }
+    },
+    "winter": true,
+    "period": 7
+}

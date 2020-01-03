@@ -1,0 +1,235 @@
+{
+    "coursecode": "NNA-08-05",
+    "AltKey": "NNA-08-05",
+    "title": "ΑΠΟΔΟΣΗ ΠΑΡΑΛΛΗΛΩΝ ΚΑΙ ΚΑΤΑΝΕΜΗΜΕΝΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+    "titleEN": "PERFORMANCE OF PARALLEL AND DISTRIBUTED SYSTEMS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155634,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΠΟΔΟΣΗ ΠΑΡΑΛΛΗΛΩΝ ΚΑΙ ΚΑΤΑΝΕΜΗΜΕΝΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+                    "en": "PERFORMANCE OF PARALLEL AND DISTRIBUTED SYSTEMS"
+                },
+                "course_code": "NNA-08-05",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ελένη Καρατζά"
+            },
+            "class_info": {
+                "class_title": "ΑΠΟΔΟΣΗ ΠΑΡΑΛΛΗΛΩΝ ΚΑΙ ΚΑΤΑΝΕΜΗΜΕΝΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Καρατζά Ελένη, Κονοφάος Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121351"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις υπολογιστικών συστημάτων, πιθανοτήτων και στατιστικής, και προγραμματισμού. Ευχέρεια στη μελέτη κειμένου στα Αγγλικά.",
+                    "en": "Basic knowledge in computer systems, probabilities and statistics, and programming. English language skills for text reading. "
+                }
+            },
+            "learning_outcomes": {
+                "el": "Κατανόηση της έννοιας της αποτίμησης της απόδοσης υπολογιστικών συστημάτων. Εξοικείωση με τεχνικές μέτρησης και εργαλεία και με την ανάλυση μοντέλων δικτύων ουρών. Θεμελίωση υπόβαθρου για τον υπολογισμό της απόδοσης μέσω ανάλυσης μοντέλων δικτύων ουρών συστημάτων υπολογιστών. \r\nΚατανόηση των εννοιών παράλληλης και κατανεμημένης επεξεργασίας. Εξοικείωση με διαφορετικούς τύπους πολυεπεξεργασίας που αφορούν συστήματα πολλαπλών επεξεργαστών με διαφορετικά χαρακτηριστικά. Θεμελίωση υπόβαθρου για την ανάπτυξη παράλληλων και κατανεμημένων εφαρμογών. Δυνατότητα επίλυσης ασκήσεων βάσει της διδαχθείσας θεωρίας.\r\n",
+                "en": "Thorough grasp of computer systems performance evaluation concepts. Acquaintance with measurement techniques and tools and queuing network models analysis. Building the necessary background for performance evaluation via the analysis of queueing network models of computer systems.\r\nThorough grasp of parallel and distributed processing concepts. Acquaintance with different\r\ntypes of multiprocessing that are related with multiprocessor systems with different characteristics.\r\nBuilding the necessary background for the development of parallel and distributed\r\napplications. \r\nPractice in solving exercises based on taught theory. \r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Τεχνικές μέτρησης και εργαλεία. Επιλογή του φόρτου εργασίας. Χαρακτηρισμός του φόρτου εργασίας. Σχεδιασμός της παραγωγικής ικανότητας (Capacity planning). Βαθμολόγηση επιδόσεων. Παρακολούθηση (Monitoring). Παρουσίαση των δεδομένων. Πειραματικοί σχεδιασμοί και ανάλυση δεδομένων. Μοντέλα ουρών. Τύποι στοχαστικών διαδικασιών. Μαρκοβια- νές αλυσίδες (Markov Chains). Η Μ/Μ/1 ουρά. Η Μ/Μ/m ουρά. Ουρές με πεπερασμένη χωρητικότητα. Δίκτυα ουρών. Ανάλυση δικτύων ουρών. Μοντέλα δικτύων ουρών συστημάτων υπολογιστών. Μετρικές απόδοσης. Επιχειρησιακοί νόμοι (Operational laws). Ανάλυση της μέσης τιμής. Προσεγγιστική ανάλυση της μέσης τιμής. Απόδοση του Web.\r\nΕισαγωγή στην παράλληλη και κατανεμημένη επεξεργασία. Γενική περιγραφή συστημάτων παράλληλης και κατανεμημένης επεξεργασίας. Μέτρηση της απόδοσης, Νόμος του Amdahl. Επεξεργασία σε ομάδες επεξεργαστών (Cluster Computing), σε πλέγματα επεξεργαστών (Grid Computing) και σε υπολογιστικά νέφη (Cloud Computing). Χρήση MPI για κατανεμημένη επεξεργασία. Εφαρμογές παράλληλης και κατανεμημένης επεξεργασίας. Αλγόριθμοι κατανομής εργασιών - Χρονοδρομολόγηση εργασιών. \r\n",
+                    "en": "Measurement techniques and tools. Workload selection. Workload characterization. Capacity planning. Benchmarking. Monitoring. Data presentation. Experimental design and data analysis. Queueing models. Types of stochastic processes. Markov Chains. M/M/1 queue. M/M/m queue. Queues with finite buffers. Queueing networks. Analysis of queueing networks. Queueing network models of computer systems. Performance metrics. Operational laws. Mean-Value Analysis (MVA) . Approximate MVA. Web performance.\r\nIntroduction to Parallel and Distributed Processing. General description of parallel and distributed processing systems. Performance evaluation, Amdahl’s Law. Cluster Computing -\r\nGrid Computing – Cloud Computing. Use of MPI for distributed processing. Parallel and distributed processing applications. Algorithms for task assignment -Job Scheduling.\r\n"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρήση υπολογιστή για διδασκαλία. Επικοινωνία του διδάσκοντα με τους φοιτητές μέσω eLearning.",
+                    "en": "Use of computer for teaching. Use of eLearning for communication."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "57",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "8",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις σε ποσοστό 80% του τελικού βαθμού, εργασία (project) 20% (θα υπολογίζεται με την προϋπόθεση το γραπτό της τελικής εξέτασης να έχει αξιολογηθεί με τουλάχιστον 4.5). Η ακριβής διαδικασία ανακοινώνεται στην ιστοσελίδα του μαθήματος.",
+                    "en": "Written exams 80%, project 20% (will be counted only provided that the written exam is graded with at least 4.5). "
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Ηλεκτρ. Βιβλίο Εύδοξος: Ανάλυση Επίδοσης Υπολογιστικών Συστημάτων, Σταφυλοπάτης Ανδρέας Γεώργιος, Σιόλας Γεώργιος https://repository.kallipos.gr/bitstream/11419/6055/1/master-KOY.pdf\r\nΓ. Πάντζιου, Β. Μάμαλης, και Α. Τομαράς, \"Εισαγωγή στον Παράλληλο Υπολογισμό\", Εκδόσεις Νέων Τεχνολογιών, Αθήνα 2013.",
+                "additional_bibliography_for_study": "• Ελένη Καρατζά, \"Απόδοση Υπολογιστικών Συστημάτων\", Σημειώσεις/Διαφάνειες, https://elearning.auth.gr/auth/saml/login.php. β. Επιπρόσθετη βιβλιογραφία • E.D. Lazowska, J. Zahorjan, G. S. Graham, K.C. Sevcik, \"Quantitative System Performance: Computer System Analysis Using Queueing Network Models\", Prentice- Hall, Inc., 1984 (e-book). • Raj Jain, \"The art of Computer Systems Performance Analysis\", J. Wiley and Sons, 1991. • Daniel A. Menasce, Virgilio A. F. Almeida, \"Capacity planning for web performance\", Prentice Hall, 1998. • D. A. Menasce, V. A. F. Almeida, L. W. Dowdy, \"Capacity Planning and Performance modelling, From Mainframes to Client Servers\", Prentice Hall, 1994. • D. A. Menasce, V. A. F. Almeida, L. W. Dowdy, \"Performance by Design: Computer Capacity Planning By Example\", Prentice Hall PTR, 2004. • D.J. Lilja, \"Measuring Computer Performance: A Practitioner's Guide\", Cambridge University Press, 2000. • G. Bolch, S. Greiner, H. De Meer, K.S. Trivedi, \"Queueing Networks and Markov Chains: Modeling and Performance Evaluation with Computer Science Applications\", Wiley-Interscience, 2006. \r\n• Γ. Κ. Παπακωνσταντίνου, Θ. Α. Θεοχάρης, Π. Δ. Τσανάκας, \"Συστήματα Παράλληλης Επεξεργασίας\", Συμμετρία, Αθήνα 1994. • Rajkumar Buyya, \"High Performance Cluster Computing: Programming and Applications\", Vol.II, Prentice Hall, 1999. • B. Wilkinson, and M. Allen, \"Parallel Programming, Techniques and Applications Using Networked Workstations and Parallel Computers\", Prentice Hall, 1999. • A. Grama, A. Gupta, G. Karypis, and V. Kumar, \"Introduction to Parallel Computing\", Second Edition, Person, Addison Wesley, 2003. • F. Cottet et. als., \"Scheduling in Real-Time Systems\", Wiley, 2002. • H. Jordan and G. Alaghband, \"Fundamentals of Parallel Processing\", Prentice Hall, 2003. • Ian Foster, \"Designing and Building Parallel Programs\", Addison-Wesley 1994 - (ebook). • Norm Matloff, \"Programming on Parallel Machines, GPU, Multicore, Clusters and More\" - (e-book). Επιπρόσθετα ερευνητικά άρθρα."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121351"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Ηλεκτρ. Βιβλίο Εύδοξος: Ανάλυση Επίδοσης Υπολογιστικών Συστημάτων, Σταφυλοπάτης Ανδρέας Γεώργιος, Σιόλας Γεώργιος https://repository.kallipos.gr/bitstream/11419/6055/1/master-KOY.pdf\r\nΓ. Πάντζιου, Β. Μάμαλης, και Α. Τομαράς, \"Εισαγωγή στον Παράλληλο Υπολογισμό\", Εκδόσεις Νέων Τεχνολογιών, Αθήνα 2013.",
+            "additional": "• Ελένη Καρατζά, \"Απόδοση Υπολογιστικών Συστημάτων\", Σημειώσεις/Διαφάνειες, https://elearning.auth.gr/auth/saml/login.php. β. Επιπρόσθετη βιβλιογραφία • E.D. Lazowska, J. Zahorjan, G. S. Graham, K.C. Sevcik, \"Quantitative System Performance: Computer System Analysis Using Queueing Network Models\", Prentice- Hall, Inc., 1984 (e-book). • Raj Jain, \"The art of Computer Systems Performance Analysis\", J. Wiley and Sons, 1991. • Daniel A. Menasce, Virgilio A. F. Almeida, \"Capacity planning for web performance\", Prentice Hall, 1998. • D. A. Menasce, V. A. F. Almeida, L. W. Dowdy, \"Capacity Planning and Performance modelling, From Mainframes to Client Servers\", Prentice Hall, 1994. • D. A. Menasce, V. A. F. Almeida, L. W. Dowdy, \"Performance by Design: Computer Capacity Planning By Example\", Prentice Hall PTR, 2004. • D.J. Lilja, \"Measuring Computer Performance: A Practitioner's Guide\", Cambridge University Press, 2000. • G. Bolch, S. Greiner, H. De Meer, K.S. Trivedi, \"Queueing Networks and Markov Chains: Modeling and Performance Evaluation with Computer Science Applications\", Wiley-Interscience, 2006. \r\n• Γ. Κ. Παπακωνσταντίνου, Θ. Α. Θεοχάρης, Π. Δ. Τσανάκας, \"Συστήματα Παράλληλης Επεξεργασίας\", Συμμετρία, Αθήνα 1994. • Rajkumar Buyya, \"High Performance Cluster Computing: Programming and Applications\", Vol.II, Prentice Hall, 1999. • B. Wilkinson, and M. Allen, \"Parallel Programming, Techniques and Applications Using Networked Workstations and Parallel Computers\", Prentice Hall, 1999. • A. Grama, A. Gupta, G. Karypis, and V. Kumar, \"Introduction to Parallel Computing\", Second Edition, Person, Addison Wesley, 2003. • F. Cottet et. als., \"Scheduling in Real-Time Systems\", Wiley, 2002. • H. Jordan and G. Alaghband, \"Fundamentals of Parallel Processing\", Prentice Hall, 2003. • Ian Foster, \"Designing and Building Parallel Programs\", Addison-Wesley 1994 - (ebook). • Norm Matloff, \"Programming on Parallel Machines, GPU, Multicore, Clusters and More\" - (e-book). Επιπρόσθετα ερευνητικά άρθρα."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

@@ -1,0 +1,221 @@
+{
+    "coursecode": "NIS-08-02",
+    "AltKey": "NIS-08-02",
+    "title": "ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ",
+    "titleEN": "OPERATIONAL RESEARCH & BUSINESS INTELLIGENCE",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155606,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ",
+                    "en": "OPERATIONAL RESEARCH & BUSINESS INTELLIGENCE"
+                },
+                "course_code": "NIS-08-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ανεστης Φαχαντιδης"
+            },
+            "class_info": {
+                "class_title": "ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΕΥΦΥΪΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Αγγελής Ελευθέριος, Βλαχάβας Ιωάννης, Αγγελής Ελευθέριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": [],
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600005005"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις στατιστικής και πιθανοτήτων.",
+                    "en": "Fundamental knowledge of probabilities and statistics"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Προχωρημένες γνώσεις επιχειρησιακής έρευνας και στατιστικής και δυνατότητα εφαρμογής σε πραγματικά προβλήματα επιχειρήσεων",
+                "en": "Advanced knowledge of operations research and statistics and applicability to real business problems"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Πολύπλοκα προβλήματα σχεδιασμού και διοίκησης στις επιχειρήσεις. Πολλαπλότητα λύσεων, περιορισμοί, πολλαπλά κριτήρια, δυναμικά περιβάλλοντα. Παραδείγματα πολύπλοκων προβλημάτων διοίκησης στις επιχειρήσεις.\r\nΚλασικές μέθοδοι επιχειρησιακής έρευνας: Μαθηματική μοντελοποίηση προβλημάτων.  Γραμμικός προγραμματισμός, προβλήματα μεταφοράς, ανάθεση εργασιών, προβλήματα στη γραμμή παραγωγής, ανάλυση δικτύων (ντετερμινιστικών και στοχαστικών) στη διοίκηση έργων. \r\nΣτατιστικές μέθοδοι: Διερευνητική ανάλυση δεδομένων και των σχέσεών τους. Στατιστικές μέθοδοι ελέγχου ποιότητας γραμμής παραγωγής. Μοντελοποίηση και αξιολόγηση της απόδοσης επιχειρήσεων με Περιβάλλουσα Ανάλυση Δεδομένων (Data Envelopment Analysis –DEA).\r\nΒελτιστοποίηση: Αλγόριθμοι βελτιστοποίησης με έμφαση στις στοχαστικές τεχνικές (π.χ. simulated annealing) με εφαρμογή σε επιχειρηματικά/επιχειρησιακά προβλήματα (προβλήματα διαχείρισης αποθήκης, προβλήματα μεταφοράς, χρονοπρογραμματισμός κλπ).\r\nΜελέτες περιπτώσεων από επιχειρήσεις με τεχνικές περιγραφής και ανάλυσης μεγάλου όγκου δεδομένων: Ομαδοποίηση πελατών βάσει αγοραστικών συνηθειών, παραγωγή εξατομικευμένων συστάσεων αγοράς προϊόντων, ανακάλυψη συσχετίσεων μεταξύ των προϊόντων, πρόβλεψη πωλήσεων, στοχευμένη διαφήμιση, επενδυτικές στρατηγικές, ανακάλυψη απάτης κλπ. \r\nΛογισμικό (Lindo, R, PMML κλπ) με έμφαση στο ελεύθερο λογισμικό ανοιχτού κώδικα. . Εφαρμογή σε μελέτες περιπτώσεων.\r\n",
+                    "en": "Complex problems in management and business. Multiplicity of solutions, constraints, multiple criteria, dynamic environments. Examples of complex management problems in business.\r\nClassical methods of operations research: Mathematical modeling. Linear programming, transportation problems, assignment of works, problems in production lines, network analysis (deterministic and stochastic) in project management.\r\nStatistical methods: Exploratory data analysis. Statistical methods for quality control. Modeling and performance evaluation business with Data Envelopment Analysis (Data Envelopment Analysis-DEA).\r\nOptimization: optimization algorithms with a focus on probabilistic techniques (eg simulated annealing) with application to business/operational problems (inventory problems, transportation problems , scheduling , etc.).\r\nCase studies from companies with technical description and analysis of large amounts of data: Grouping customers based on buying habits, producing personalized recommendations, discovering correlations between products, sales forecasting , targeted advertising, investment strategies, discovery of fraud etc.\r\nSoftware (Lindo, R, PMML , etc.) with emphasis on free open source software. Case studies."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "Λογισμικό",
+                    "en": "Software"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Ασκήσεις, πρόοδοι και τελικές εξετάσεις",
+                    "en": "Homeworks, midterm exams and final exams"
+                },
+                "assessment_methods": {
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Επιχειρησιακή έρευνα, μεθοδολογία, εφαρμογές και προβλήματα, πληροφοριακά συστήματα διοίκησης. Κώστογλου Βασίλειος. ΤΖΙΟΛΑ\r\nΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ, ΕΦΑΡΜΟΓΕΣ ΣΤΗ ΣΗΜΕΡΙΝΗ ΕΠΙΧΕΙΡΗΣΗ. ΠΑΝΤΕΛΗΣ ΥΨΗΛΑΝΤΗΣ. ΠΡΟΠΟΜΠΟΣ\r\nSCHAUM'S ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ. RICHARD BRONSON, GOVINDASAMI NAADIMUTHU,\tΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ",
+                "additional_bibliography_for_study": "Michalewicz, Z. et al. Adaptive business intelligence. Springer, 2006.\r\nCarlo Vercellis, Business Intelligence: Data Mining and Optimization for Decision Making, Wiley, 2009."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600005005"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Επιχειρησιακή έρευνα, μεθοδολογία, εφαρμογές και προβλήματα, πληροφοριακά συστήματα διοίκησης. Κώστογλου Βασίλειος. ΤΖΙΟΛΑ\r\nΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ, ΕΦΑΡΜΟΓΕΣ ΣΤΗ ΣΗΜΕΡΙΝΗ ΕΠΙΧΕΙΡΗΣΗ. ΠΑΝΤΕΛΗΣ ΥΨΗΛΑΝΤΗΣ. ΠΡΟΠΟΜΠΟΣ\r\nSCHAUM'S ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ. RICHARD BRONSON, GOVINDASAMI NAADIMUTHU,\tΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ",
+            "additional": "Michalewicz, Z. et al. Adaptive business intelligence. Springer, 2006.\r\nCarlo Vercellis, Business Intelligence: Data Mining and Optimization for Decision Making, Wiley, 2009."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

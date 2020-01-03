@@ -1,0 +1,315 @@
+{
+    "coursecode": "NCO-05-04",
+    "AltKey": "NCO-05-04",
+    "title": "ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ",
+    "titleEN": "OPERATING SYSTEMS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155566,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ",
+                    "en": "OPERATING SYSTEMS"
+                },
+                "course_code": "NCO-05-04",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Αθηνά Βακάλη"
+            },
+            "class_info": {
+                "class_title": "ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Βακάλη Αθηνά"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004889"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/el/studies/undergraduate/courses"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "http://elearning.auth.gr"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": [
+                    "NCO-01-05 ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "NCO-02-03 ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ",
+                    "NCO-03-05 ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ",
+                    "NCO-04-03 ΑΛΓΟΡΙΘΜΟΙ"
+                ],
+                "general_prerequisites": {
+                    "el": "Καλό επίπεδο αγγλικών, εμπειρία στη χρήση λειτουργικών συστημάτων, προχωρημένο\r\nεπίπεδο προγραμματισμού σε C/C++.",
+                    "en": "Good level in english language, experience in using operating systems, advanced programming level in C/C++."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Οι φοιτητές αναμένεται ότι στα πλαίσια του μαθήματος θα γίνουν ικανοί στο :\r\n• Να κατανοήσουν τα βασικά χαρακτηριστικά των λειτουργικών συστημάτων και να κατανοήσουν το ρόλο τους στα σημερινά υπολογιστικά περιβάλλοντα\r\n• Να μάθουν διάφορους τρόπους αξιοποίησης δομών λειτουργικών συστημάτων\r\n• Να εξασκηθούν σε σύγχρονα πραγματικά λειτουργικά συστήματα με εργασίες\r\n• Να ευαισθητοποιηθούν σε μεθοδολογικά και πρακτικά ζητήματα μέσω εργασιών σε ομάδες\r\n• Να εξασκηθούν στην ανάλυση και την ερμηνεία αποτελεσμάτων επίδοσης λειτουργικών συστημάτων ",
+                "en": "The students are expected that under this course they will become able to :\r\n• understand the basic characteristics of operating systems and recognize their role in todays computer systems \r\n• learn various ways to exploit operating system structures \r\n• practice with todays real operating systems in their projects \r\n• to practice and become familiar witj projects which require team work\r\n• to practise in analysis and interpretation of operating systems performance results "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικές έννοιες Λειτουργικών Συστημάτων. Δομή και αρχές σχεδιασμού ενός Λειτουργικού Συστήματος. Δομή, αναπαράσταση και διαχείριση διεργασιών.\r\nΔρομολόγηση και συγχρονισμός διεργασιών. Εντοπισμός και πρόληψη αδιεξόδων. Διαχείριση κύριας και δευτερεύουσας μνήμης. Αρχές συστημάτων αρχείων. Επισκόπηση των δημοφιλέστερων Λειτουργικών Συστημάτων (πχ Unix,\r\nLinux, Windows). Παραδείγματα σύγχρονων λειτουργικών συστημάτων (πχ κινητών συσκευών).",
+                    "en": "Basic concepts in operating systems. Operating system structure and design principles. Structue, representation and process management. Process scheduling and synchronization. Deadlocks detection and prevention. Main and secondary memory management. File System principles. Popular Operating systems overview (such as Unix, Linux, Windows). Examples of contemporary operating systems (such as in mobile devices). "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές",
+                    "4": "Χρήση Τ.Π.Ε. στην Αξιολόγηση των Φοιτητών"
+                },
+                "description": {
+                    "el": "ιστοσελίδα, επικοινωνία με ηλεκτρονικό ταχυδρομείο, αξιοποίηση ηλεκτρονικής πλατφόρμας (κυρίως blackboard)",
+                    "en": "webpage, email communication, exploit electronic platforms (mainly via blackboard)"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "2": {
+                    "activity": {
+                        "name": "Σεμινάρια",
+                        "hours_of_instruction": "",
+                        "workload": "12",
+                        "credits": "0.4",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "35",
+                        "credits": "1.167",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "9",
+                        "credits": "0.3",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "9",
+                        "credits": "0.3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "2-3 εργασίες: 35% της βαθμολογίας (θα υπολογίζονται με την προϋπόθεση το γραπτό της\r\nτελικής εξέτασης να έχει αξιολογηθεί με τουλάχιστον 4.5/10)\r\n\r\nΠροαιρετική εργασία: 10% της βαθμολογίας\r\n\r\nΓραπτές Εξετάσεις: 65% της βαθμολογίας ως εξής\r\nτεστ/Πρόοδος : 20 % και Τελική εξέταση : 45%",
+                    "en": "2-3 projects : 35% of overall grade (will be accounted only if the final written exam is evaluated with grade 4.5/10)\r\n\r\noptional projects: 10% of overall grade\r\n\r\nWritten exams: 65% of overall grade\r\nquizzes or midterm :20 and final written exam : 45%"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "-- Λειτουργικά Συστήματα Αρχές Σχεδίασης (6η έκδοση)W. Stallings ΕΚΔΟΣΕΙΣ\r\nΤΖΙΟΛΑ, 2009, ΘΕΣΣΑΛΟΝΙΚΗ\r\n\r\n-- Λειτουργικά Συστήματα, Silberschatz, Galvin, Gagne, ΕΚΔΟΣΕΙΣ ΙΩΝ, 2007,\r\nΑΘΗΝΑ",
+                "additional_bibliography_for_study": "Α. S. Tanenbaum, \"Σύγχρονα Λειτουργικά Συστήματα\" Τόμος Α', Εκδόσεις,\r\nΠαπασωτηρίου.\r\n H. M. Deitel, \"Operating Systems\", 2nd edition, Addison-Wesley Publishing Company\r\n Alan C. Shaw, \"The logical design of operating systems \", Englewood Cliffs, N.J.,\r\nΤμήμα Πληροφορικής Οδηγός Σπουδών\r\nΑριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης 97\r\nPrentice-Hall\r\n Raymond W. Turner, \"Operating systems : design and implementation\", New\r\nYork: Macmillan Publ.\r\n Janson, Philippe, Operating systems : structures and mechanisms, Academic Press.\r\n Lane, Malcolm G., A practical approach to operating systems,Kent Pub. Co.\r\n\r\nΕργασίες και ιστότοποι για υποστήριξη αντικειμένου νέων τεχνολογιών (ενδεικτικά):\r\n‐ Wubi Ubuntu Windows installer ubuntu 10.04 (ή 10.10 όταν είναι\r\nδιαθέσιμο) : http://wubi-installer.org\r\n‐ VirtualBox 3.2 + Ubuntu 10.10: http://www.virtualbox.org/\r\n‐ Ubuntu 10.10 http://www.ubuntu.com/\r\n‐ Λειτουργικό Σύστημα Windows : microsoft.com"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004889"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/el/studies/undergraduate/courses"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "http://elearning.auth.gr"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "-- Λειτουργικά Συστήματα Αρχές Σχεδίασης (6η έκδοση)W. Stallings ΕΚΔΟΣΕΙΣ\r\nΤΖΙΟΛΑ, 2009, ΘΕΣΣΑΛΟΝΙΚΗ\r\n\r\n-- Λειτουργικά Συστήματα, Silberschatz, Galvin, Gagne, ΕΚΔΟΣΕΙΣ ΙΩΝ, 2007,\r\nΑΘΗΝΑ",
+            "additional": "Α. S. Tanenbaum, \"Σύγχρονα Λειτουργικά Συστήματα\" Τόμος Α', Εκδόσεις,\r\nΠαπασωτηρίου.\r\n H. M. Deitel, \"Operating Systems\", 2nd edition, Addison-Wesley Publishing Company\r\n Alan C. Shaw, \"The logical design of operating systems \", Englewood Cliffs, N.J.,\r\nΤμήμα Πληροφορικής Οδηγός Σπουδών\r\nΑριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης 97\r\nPrentice-Hall\r\n Raymond W. Turner, \"Operating systems : design and implementation\", New\r\nYork: Macmillan Publ.\r\n Janson, Philippe, Operating systems : structures and mechanisms, Academic Press.\r\n Lane, Malcolm G., A practical approach to operating systems,Kent Pub. Co.\r\n\r\nΕργασίες και ιστότοποι για υποστήριξη αντικειμένου νέων τεχνολογιών (ενδεικτικά):\r\n‐ Wubi Ubuntu Windows installer ubuntu 10.04 (ή 10.10 όταν είναι\r\nδιαθέσιμο) : http://wubi-installer.org\r\n‐ VirtualBox 3.2 + Ubuntu 10.10: http://www.virtualbox.org/\r\n‐ Ubuntu 10.10 http://www.ubuntu.com/\r\n‐ Λειτουργικό Σύστημα Windows : microsoft.com"
+        }
+    },
+    "winter": true,
+    "period": 5
+}

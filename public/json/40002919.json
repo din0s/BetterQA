@@ -1,0 +1,235 @@
+{
+    "coursecode": "NNA-07-02",
+    "AltKey": "NNA-07-02",
+    "title": "ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ ΥΠΟΛΟΓΙΣΤΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+    "titleEN": "MODELING & SIMULATION OF COMPUTER SYSTEMS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155561,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ ΥΠΟΛΟΓΙΣΤΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+                    "en": "MODELING & SIMULATION OF COMPUTER SYSTEMS"
+                },
+                "course_code": "NNA-07-02",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Ελένη Καρατζά"
+            },
+            "class_info": {
+                "class_title": "ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΚΑΙ ΠΡΟΣΟΜΟΙΩΣΗ ΥΠΟΛΟΓΙΣΤΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+                "academic_year": "2019 – 2020",
+                "class_period": "Χειμερινή",
+                "instructors": "Καρατζά Ελένη, Νικοπολιτίδης Πέτρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600154443"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/auth/saml/login.php"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις προγραμματισμού, πιθανοτήτων και στατιστικής.\r\nΕυχέρεια στη μελέτη κειμένου στα Αγγλικά.",
+                    "en": "Basic knowledge of programming, probabilities and statistics.\r\nEnglish language skills for text reading. "
+                }
+            },
+            "learning_outcomes": {
+                "el": "Κατανόηση των εννοιών της μοντελοποίησης και της προσομοίωσης. Εξοικείωση με πακέτα\r\nπροσομοίωσης. Θεμελίωση υπόβαθρου για την μοντελοποίηση συστημάτων. Ανάπτυξη προ-\r\nσομοιωτών και χρήση πακέτων προσομοίωσης. Δυνατότητα επίλυσης ασκήσεων βάσει της\r\nδιδαχθείσας θεωρίας.",
+                "en": "Thorough grasp of modelling and simulation concepts. Acquaintance with simulation packets.\r\nBuilding the necessary background for systems modeling. Development of simulators and\r\nuse of simulation packets. Practice in solving exercises based on taught theory."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικές αρχές μοντελοποίησης και προσομοίωσης. Συστήματα, μοντέλα και \r\nπροσομοίωση.\r\nΕίδη προσομοίωσης. Προσομοίωση διακριτών γεγονότων. Μοντελοποίηση \r\nσυστήματος ουρών. Μοντελοποίηση σύνθετων συστημάτων. Λογισμικό και \r\nεργαλεία προσομοίωσης. Η γλώσσα GPSS/H. Το πακέτο προσομοίωσης Simul8. Επιλογή κατανομών εισόδου.\r\n Δημιουργία τυχαίων αριθμών και τυχαίων παρατηρήσεων. Τεχνικές \r\nκατασκευής έγκυρων και αξιόπιστων μοντέλων προσομοίωσης. Ανάλυση \r\nδεδομένων εξόδου. Παράλληλη και κατανεμημένη\r\nπροσομοίωση. Νέες προσεγγίσεις μοντελοποίησης και προσομοίωσης - \r\nΕφαρμογές.",
+                    "en": "Basic Simulation Modelling. Systems, models and simulation. Simulation types. Discrete\r\nevent simulation. Queueing system simulation. Modeling complex systems. Simulation software\r\nand tools. The GPSS/H language. The simulation packet Simul8. Selecting input probability\r\ndistributions. Generating random numbers and random variates. Techniques for building\r\nvalid and credible simulation models. Output data analysis. Parallel and distributed simulation.\r\nNew approaches in modeling and simulation - Applications."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρήση υπολογιστή για διδασκαλία\r\nΕπικοινωνία του διδάσκοντα με τους φοιτητές μέσω eLearning.",
+                    "en": "Use of computer for teaching.\r\nUse of eLearning for communication."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "57",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "21",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις σε ποσοστό 80% του τελικού βαθμού, προγραμματιστική εργασία προσομοίωσης (project) 20% (θα υπολογίζεται με την προϋπόθεση το γραπτό της τελικής εξέτασης να έχει αξιολογηθεί με τουλάχιστον 4.5) .",
+                    "en": "Written exams 80%, project (simulation program) 20% (will be counted only provided that the written exam test is graded with at least 4.5).\r\n"
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "• Μ. Ρουμελιώτης, Σ. Σουραβλάς, \"Τεχνικές Προσομοίωσης\", Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2011.\r\n\r\n • Μ. Σφακιανάκης, \"Προσομοίωση και Εφαρμογές\", Εκδόσεις Πατάκη, Αθήνα 2001.",
+                "additional_bibliography_for_study": "Ελένη Καρατζά, Διαφάνειες μαθημάτων, https://elearning.auth.gr/auth/saml/login.php.\r\nAverill M. Law, W. David Kelton, \"Simulation modeling and Analysis\", McGraw-\r\nHill Higher Education, 2001.\r\n Jerry Banks, John S. Carson II, John Ngo Sy, \"Getting Started with GPSS/H\", Wolverine\r\nSoftware Corp., Annandale Va, 1995.\r\n Jerry Banks, Barry Nelson, John Carson, \"Discrete-Event System Simulation\", Prentice\r\nHall, 1999.\r\nStewart Robinson, \"Simulation, The Practice of Model Development and Use\", Wiley, 2007.\r\nΕπιπρόσθετα ερευνητικά άρθρα."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600154443"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/auth/saml/login.php"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "• Μ. Ρουμελιώτης, Σ. Σουραβλάς, \"Τεχνικές Προσομοίωσης\", Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2011.\r\n\r\n • Μ. Σφακιανάκης, \"Προσομοίωση και Εφαρμογές\", Εκδόσεις Πατάκη, Αθήνα 2001.",
+            "additional": "Ελένη Καρατζά, Διαφάνειες μαθημάτων, https://elearning.auth.gr/auth/saml/login.php.\r\nAverill M. Law, W. David Kelton, \"Simulation modeling and Analysis\", McGraw-\r\nHill Higher Education, 2001.\r\n Jerry Banks, John S. Carson II, John Ngo Sy, \"Getting Started with GPSS/H\", Wolverine\r\nSoftware Corp., Annandale Va, 1995.\r\n Jerry Banks, Barry Nelson, John Carson, \"Discrete-Event System Simulation\", Prentice\r\nHall, 1999.\r\nStewart Robinson, \"Simulation, The Practice of Model Development and Use\", Wiley, 2007.\r\nΕπιπρόσθετα ερευνητικά άρθρα."
+        }
+    },
+    "winter": true,
+    "period": 7
+}

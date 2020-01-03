@@ -1,0 +1,239 @@
+{
+    "coursecode": "NCO-05-01",
+    "AltKey": "NCO-05-01",
+    "title": "ΣΗΜΑΤΑ ΚΑΙ ΣΥΣΤΗΜΑΤΑ",
+    "titleEN": "SIGNALS AND SYSTEMS",
+    "units": 6,
+    "ects": 7,
+    "classID": 600155632,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΣΗΜΑΤΑ ΚΑΙ ΣΥΣΤΗΜΑΤΑ",
+                    "en": "SIGNALS AND SYSTEMS"
+                },
+                "course_code": "NCO-05-01",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Ιωάννης Πήτας"
+            },
+            "class_info": {
+                "class_title": "ΣΗΜΑΤΑ ΚΑΙ ΣΥΣΤΗΜΑΤΑ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Χειμερινή",
+                "instructors": "Πήτας Ιωάννης, Κοτρόπουλος Κωνσταντίνος, Λάσκαρης Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121206"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8114"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προηγούμενη έκθεση σε Γραμμική Άλγεβρα, Λογισμό μιας Μεταβλητής, Μιγαδική Ανάλυση και Διαφορικές Εξισώσεις βοηθούν στη γρηγορότερη αφομοίωση των εννοιών.",
+                    "en": "Prior exposition to linear algebra, calculus of functions of one independent real variable, complex analysis, and differential equations can facilitate the faster grasping of the concepts introduced."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί:  Κατανόηση της έννοιας του σήματος ως φορέα πληροφορίας. Εξοικείωση με τη θεωρία των Γραμμικών Συστημάτων. Ενιαία συγκριτική θεώρηση των σημάτων και συστημάτων συνεχούς και διακριτού χρόνου. Γνωριμία με τη συχνότητα ως λανθάνουσας πληροφορίας που ενυπάρχει στα σήματα. Αντιμετώπιση των μετασχηματισμών των σημάτων διακριτού χρόνου ως αλγορίθμων των αντιστοίχων συνεχών σημάτων.\r\nΔεξιότητες: Όξυνση αναλυτικών δεξιοτήτων. Θεμελίωση υποβάθρου για την μετάβαση από την ανάλυση στη σχεδίαση συστημάτων, αλλά και τη σπουδή της επεξεργασίας εικόνων, ομιλίας, ήχου και βιοϊατρικών σημάτων. Προγραμματισμός εφαρμογών σε περιβάλλον MATLAB για επεξεργασία ομιλίας και κωδικοποίηση ήχου.",
+                "en": "Cognitive: Thorough grasp of signals as information bearing carriers. Acquaintance with linear system theory; Unified and comparative treatment of continuous-time and discrete-time signals and systems; Introduce the frequency content of a signal as latent information inherent in its time-domain representation. Treatment of discrete-time signal transforms as algorithms of their continuous-time counterparts.\r\nSkills: Promoting analytic skills; Building the necessary theoretical foundation for the transition from system analysis to system design and proceeding to advanced studies in image processing, speech and audio processing, biomedical signal processing. Programming speech processing and audio coding applications in MATLAB."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Σήμα και σύστημα. Γραμμικά χρονοαμετάβλητα συστήματα. Μετασχηματισμός Fourier για σήματα και συστήματα συνεχούς χρόνου. Δειγματοληψία.  Μετασχηματισμός-Ζ. Αναπαράσταση περιοδικών σημάτων διακριτού χρόνου με σειρά Fourier. Μετασχηματισμός Fourier διακριτού χρόνου.  Διακριτός μετασχηματισμός Fourier. Προγραμματισμός σε MATLAB αλγορίθμων επεξεργασίας ομιλίας σε κινητά τηλέφωνα και κωδικοποίησης ήχου σε MP3 players.",
+                    "en": "Signals and systems. Linear time-invariant systems. Fourier transform for continuous-time signals and systems. Sampling. The z-transform.  Fourier series representation of discrete-time periodic signals. The discrete-time Fourier transform. The discrete Fourier transform. Programming in MATLAB algorithms for speech processing in cellular phones and audio coding in MP3 players."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διαφάνεις και MATLAB demos",
+                    "en": "Slides and MATLAB demos"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "75",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "60",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "α.1 Προσφέρονται 6 εργαστηριακές ασκήσεις, η παρακολούθηση των οποίων είναι υποχρεωτική. Η  απόδοση των φοιτητών στις εργαστηριακές ασκήσεις συμβάλλει ως 3 μονάδες στην τελική τους αξιολόγηση.\r\nα.2 Οργανώνεται μια ενδιάμεση εξέταση περί την 7η εβδομάδα, η συμμετοχή στην οποία είναι προαιρετική. Η ενδιάμεση εξέταση συμβάλλει ως 3.5 μονάδες στην τελική αξιολόγηση των φοιτητών.\r\nα.3 Για να επιβραβευτεί η συνέπεια των επιμελών φοιτητών, αλλά και να ενθαρρυνθεί η παρακολούθηση των θεωρητικών διαλέξεων, διοργανώνονται δεκάλεπτες εξετάσεις σε  διαλέξεις που επιλέγει ο διδάσκων χωρίς προειδοποίηση. Η εξέταση αφορά θέμα που αναλύεται στην τρέχουσα διάλεξη. Προσφέρονται επίσης προαιρετικές εργασίες. Η συμμετοχή στις σύντομες εξετάσεις και στις προαιρετικές εργασίες προσφέρει ως 2 επιπρόσθετες μονάδες.\r\nα.4 Οι τελικές εξετάσεις Ιανουαρίου και οι επαναληπτικές Σεπτεμβρίου καλύπτουν όλη την ύλη και συμβάλλουν ως 7 μονάδες στην τελική αξιολόγηση. Είναι χωρισμένες σε δύο ισάξια μέρη. Το πρώτο μέρος καλύπτει την ύλη της ενδιάμεσης εξέτασης, ενώ το δεύτερο μέρος καλύπτει την υπόλοιπη ύλη. Όσοι φοιτητές συμμετείχαν στην ενδιάμεση εξέταση μπορούν να επιλέξουν να εξεταστούν στο δεύτερο μέρος ή εφόλης της ύλης.\r\nΟι φοιτητές προάγονται, εφόσον ο τελικός βαθμός είναι μεγαλύτερος ή ίσος του 5.\r\n",
+                    "en": "a.1 Six lab exercises are offered in the course. The attendance of the lab exercises is compulsory. Students' performance in the lab exercises contributes up to 3 grades in their grading.\r\na.2 A mid-term exam is organized around the 7th semester week. Students' participation in the mid-term exam is optional. Students' papers in the mid-term exam contribute up to 3.5 grades in their grading. \r\na.3 To reward the hard-working students and to motivate lecture attendance, ten-min tests are conducted without prior notice during the semester. The tests aim at assessing if the topics discussed in the class are made clear to the students. No preparation is needed. In addition, optional homework projects are assigned to interested students. Students' performance in the tests and projects contributes up to 2 bonus grades.\r\na.4  The final exams during January and September cover all topics taught. Students' paper rating contributes up to 7 grades in their grading. The papers are divided into two equal parts. The first part covers the topics taught up to the mid-term exam and the second one the remaining topics. Students, who participated in the mid-term exams, may choose to be examined in either the second part of the paper or the full paper.\r\nThe students are promoted if their final grade is greater than or equal to 5.\r\n"
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Θεοδωρίδης Σ., Μπερμπερίδης Κ., Κοφίδης Λ. «Εισαγωγή στη Θεωρία Σημάτων & Συστημάτων», Εκδόσεις Τυποθήτω-Δαρδανός, Αθήνα, 2003.\r\nOppenheim A.V., Wilsky A. S., Nawab S. H. (μτφ.) «Σήματα και Συστήματα», Εκδόσεις Φουντάς, Αθήνα 2011.",
+                "additional_bibliography_for_study": "J. McClellan, R. W. Schafer, and M.  A. Yoder, Signal Processing First. Upper Saddle River, N.J.: Pearson Education Prentice Hall, 2003.\r\nH. P. Hsu, Signals and Systems. New York, N.Y.: Schaum's Outlines, McGraw-Hill, 1995.\r\nC. L. Phillips, J. M. Parr, and E. A. Riskin, Signals, Systems, and Transforms, 4/e. Upper Saddle River, N.J.: Pearson Education, 2008.\r\nE. Kudeki and D. C. Munson, Jr., Analog Signals and Systems. Upper Saddle River, N.J.: Pearson Education, 2009.\r\nJ. Proakis and D. Manolakis, Digital Signal Processing, 3/e. Englewood Cliffs, N.J.: Prentice Hall, 1996.\r\nS. K. Mitra, Digital Signal Processing. A Computer-based Approach}, 2/e. Boston, MA: McGraw-Hill International, 2002.\r\nThe student edition of MATLAB. The Mathworks \r\nC. S. Burrus, J. H. McClellan, A. V. Oppenheim, T. W. Parks, R. W. Schafer, and H. W. Schuessler, Computer-Based Exercises for Signal Processing. Englewood Cliffs, N.J.: Prentice-Hall, 1994.\r\nJ. R. Buck, M. M. Daniel, and A. C. Singer, Computer Explorations in Signals and Systems Using MATLAB. Upper Saddle River, N.J.: Pearson Education, 1997.}\r\nJ. G. Proakis and V. K. Ingle, Digital Signal Processing. Upper Saddle River, N.J.: Pearson Education, 2004.\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (πρόσβαση στο e-book μέσω του www.lib.auth.gr)"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121206"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8114"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Θεοδωρίδης Σ., Μπερμπερίδης Κ., Κοφίδης Λ. «Εισαγωγή στη Θεωρία Σημάτων & Συστημάτων», Εκδόσεις Τυποθήτω-Δαρδανός, Αθήνα, 2003.\r\nOppenheim A.V., Wilsky A. S., Nawab S. H. (μτφ.) «Σήματα και Συστήματα», Εκδόσεις Φουντάς, Αθήνα 2011.",
+            "additional": "J. McClellan, R. W. Schafer, and M.  A. Yoder, Signal Processing First. Upper Saddle River, N.J.: Pearson Education Prentice Hall, 2003.\r\nH. P. Hsu, Signals and Systems. New York, N.Y.: Schaum's Outlines, McGraw-Hill, 1995.\r\nC. L. Phillips, J. M. Parr, and E. A. Riskin, Signals, Systems, and Transforms, 4/e. Upper Saddle River, N.J.: Pearson Education, 2008.\r\nE. Kudeki and D. C. Munson, Jr., Analog Signals and Systems. Upper Saddle River, N.J.: Pearson Education, 2009.\r\nJ. Proakis and D. Manolakis, Digital Signal Processing, 3/e. Englewood Cliffs, N.J.: Prentice Hall, 1996.\r\nS. K. Mitra, Digital Signal Processing. A Computer-based Approach}, 2/e. Boston, MA: McGraw-Hill International, 2002.\r\nThe student edition of MATLAB. The Mathworks \r\nC. S. Burrus, J. H. McClellan, A. V. Oppenheim, T. W. Parks, R. W. Schafer, and H. W. Schuessler, Computer-Based Exercises for Signal Processing. Englewood Cliffs, N.J.: Prentice-Hall, 1994.\r\nJ. R. Buck, M. M. Daniel, and A. C. Singer, Computer Explorations in Signals and Systems Using MATLAB. Upper Saddle River, N.J.: Pearson Education, 1997.}\r\nJ. G. Proakis and V. K. Ingle, Digital Signal Processing. Upper Saddle River, N.J.: Pearson Education, 2004.\r\nT. Dutoit and F. Marques, Applied Signal Processing. A MATLAB-Based Proof of Concept. New York, N.Y.: Springer, 2009 (πρόσβαση στο e-book μέσω του www.lib.auth.gr)"
+        }
+    },
+    "winter": true,
+    "period": 5
+}

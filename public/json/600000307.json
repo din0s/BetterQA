@@ -1,0 +1,217 @@
+{
+    "coursecode": "NNA-06-05",
+    "AltKey": "NAA-06-05",
+    "title": "ΣΥΣΤΗΜΑΤΑ ΟΠΤΙΚΩΝ ΕΠΙΚΟΙΝΩΝΙΩΝ",
+    "titleEN": "OPTICAL COMMUNICATION SYSTEMS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155619,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΣΥΣΤΗΜΑΤΑ ΟΠΤΙΚΩΝ ΕΠΙΚΟΙΝΩΝΙΩΝ",
+                    "en": "OPTICAL COMMUNICATION SYSTEMS"
+                },
+                "course_code": "NNA-06-05",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Αμαλία Μήλιου"
+            },
+            "class_info": {
+                "class_title": "ΣΥΣΤΗΜΑΤΑ ΟΠΤΙΚΩΝ ΕΠΙΚΟΙΝΩΝΙΩΝ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Μήλιου Αμαλία, Πλέρος Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121271"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνώσεις: Κατάρτιση των φοιτητών σε βασικές γνώσεις συστημάτων οπτικών επικοινωνιών. χρήση του εργαλέιου SIULINK. \r\nΔεξιότητες: Αναγνώριση συστημάτων οπτικών επικοινωνιών ανάλογα με τις ανάγκες της εκάστοτε εφαρμογής. Χρήση του εργαλείου SIMULINK για την αξιολόγηση της επίδοσης των οπτικών συστημάτων, Αναζήτηση βιβλιογραφικών πληροφοριών. Ομαδικές εργασίες εξάσκησης.\r\n",
+                "en": "Knowledge: The students will acquire a basic knowledge of optical communication systems. Usage of SIMULINK.\r\nSkills: The student will be familiar with an optical communication system. Using SIMULINK they will assess the performance of an optical system. Search of bibliographic information. Collaborating training tasks.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "12": "Σεβασμός στο φυσικό περιβάλλον",
+                "13": "Επίδειξη κοινωνικής, επαγγελματικής και ηθικής υπευθυνότητας και ευαισθησίας σε θέματα φύλου",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": [],
+            "levels_of_intended_learning_outcomes": [],
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Θεωρία: Βασικές έννοιες αναλογικών-ψηφιακών σημάτων, διαμόρφωση ΟΝ/OFF, διαμόρφωση φάσης, δειγματοληψία, NRZ-RZ δεδομένα, ρυθμός μετάδοσης, εξήγηση σημασίας FOURIER (ΧΩΡΙΣ ΜΑΘΗΜΑΤΙΚΑ), τεχνικές οπτικής πολυπλεξίας (WDM-TDM). Βασικές έννοιες κύματος (πλάτος+φάση), συμβολή, περίθλαση, ταχύτητα ομάδας, ταχύτητα φάσης, δείκτης διάθλασης. Οπτική ίνα και εξασθένηση, μονάδες Db-dBm. Διασπορά, ασκήσεις εξασθένησης & διασποράς. Παθητικές διατάξεις (ΦΙΛΤΡΑ-COUPLERS-SPLITTERS-MUX-DEMUX-OPTICAL ADD/DROP MULTIPLEXERS, RECONFIGURABLE OPTICAL ADD/DROP MULTIPLEXERS). Σύγχρονα οπτικά δίκτυα PON (GPON-XGPON-NGPON-WDMPON-TDMPON-TWDMPON) και διατάξεις, πρωτόκολλα και λειτουργία ενός οπτικού δικτύου PON.\r\n\r\nΕργαστήριο: Εισαγωγή στο εργαλείο SIMULINK. Με χρήση του SIMULINK θα γίνουν οι παρακάτω ασκήσεις: (i) χαρακτηριστικά χρονου και φάσματος σε παλμούς τύπου Gauss και σε τετραγωνικούς παλμούς, αντίστροφη σχέση χρόνου-φάσματος, (ii) Περιοδικά σήματα στο χρόνο και στο φάσμα, σήματα με 2 περιόδους, ψευδοτυχαίες ακολουθίες δεδομένων, υπολογισμός ενέργειας του σήματος στο χρόνο και στο φάσμα. (iii) Iνα με απώλειες, μετρήσεις για διαφορετικά μήκη ίνας και για διαφορετικούς συντελεστές απωλειών σε ίνες SMF και ΝΖ-DSF, εξοικείωση με μονάδες dΒ-dΒm. (iv) Φάση οπτικών σημάτων (σχέση φάσης-χρόνου), ασκήσεις διασποράς με τη σχέση Δτ=DLΔλ. (v) Διασπορά σε παλμό GAUSS, θεωρία για παλμό GAUSS, chirp, transform limited pulses. (vi) παραδείγματα διασποράς για παλμό GAUSS χωρίς αρχικό chirp, συσχέτιση αποτελεσμάτων με τον τύπο Δτ=DLΔλ, καμπύλες διεύρυνσης παλμού. (vii) παραδείγματα διασποράς για παλμό με αρχικό chirp σε διαφορετικά συστήματα μετάδοσης ινών, (viii) πλήρης αναίρεση διασποράς με ίνες SMF+DCF, (ix) μη πλήρης αντιστάθμιση διασποράς σε συστήματα δυο ινών SMF+NZ-DSF,  (x) σχεδιασμός ενός οπτικού δικτύου πρόσβασης PON.\r\n",
+                    "en": "Theory: Basic analog-digital signal concepts, configuration ON / OFF, phase modulation, sampling, NRZ-RZ data transmission rate, explanationof the importance of FOURIER (WITHOUT MATHEMATICS), optical multiplexing techniques (WDM-TDM). Basic wave concepts (amplitude + phase), interference, diffraction, group velocity, phase velocity, refractive index. Optical fiber and attenuation, Db-dBm units. Dispersion, attenuation and dispersion exercises. Passive devices (filters-COUPLERS-SPLITTERS-MUX-DEMUX-OPTICAL ADD / DROP MULTIPLEXERS, RECONFIGURABLE OPTICAL ADD / DROP MULTIPLEXERS). Modern optical  PON (GPON-XGPON-NGPON-WDMPON-TDMPON-TWDMPON) and devices, protocols and operation of an optical  PON.\r\n\r\nLab: Introduction to SIMULINK, download a version of matlab in pc of caclab. Using SIMULINK the student will perform the following exercises: (i) GAUSS and Square Pulse, time + spectrum, for various Dt and Df, inverse relationship between time-spectrum, (ii) periodic signal in time and spectrum, signals with two periods, pseudorandom bit sequences, calculation of the signal energy in time and spectrum. (iii) Optical fiber losses, measurements of different fiber lengths and different loss factors (SMF& NZ-DSF), peak power measurements at the output, average power at the output, spectrum observation, familiarization with units dB-dBm. (iv) phase of optical signals (phase-time relation), dispersion theory, dispersion exercises. (v) Dispersion in gaussian  pulse, theory of gaussian  pulse, chirp, transform limited pulse. (vi) Examples for gaussian pulse dispersion without initial chirp, expanded pulse curves. (vii) examples for dispersive pulses with initial chirp, (viii) complete dispersion compensation using SMF + DCF. (ix) non-complete dispersion compensation using SMF + NZ-DSF fibers, (x) design of a Passive Optical Network (PON) for access."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "H/Y και λογισμικό για εργαστηριακές ασκήσεις και laptop και προβολικό για τη διδασκαλία του μαθήματος. Web σελίδα με υλικό μαθήματος.",
+                    "en": "Use of a computer and software for lab exercises and laptop/projector for teaching purposes. Web page with lesson contents."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "24",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "28",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "50",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "18",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Τελική γραπτή εξέταση θα μετράει για το 70% του βαθμού ενώ ένα project θα μετρήσει για 30%.",
+                    "en": "A Final written examination contributes 70% of the course grade while an project will contribute 30% of the grade. "
+                },
+                "assessment_methods": {
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "ΣΥΣΤΗΜΑΤΑ ΕΠΙΚΟΙΝΩΝΙΩΝ ΜΕ ΟΠΤΙΚΕΣ ΙΝΕΣ (Μεταφρασμένο), G. P. Agrawal, ΤΖΙΟΛΑΣ, 2001 Θεσσαλονίκη.",
+                "additional_bibliography_for_study": "ΔΙΚΤΥΑ ΟΠΤΙΚΩΝ ΙΝΩΝ (Μεταφρασμένο), Green, P., ΠΑΠΑΣΩΤΗΡΙΟΥ, 1994, Αθήνα"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121271"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "ΣΥΣΤΗΜΑΤΑ ΕΠΙΚΟΙΝΩΝΙΩΝ ΜΕ ΟΠΤΙΚΕΣ ΙΝΕΣ (Μεταφρασμένο), G. P. Agrawal, ΤΖΙΟΛΑΣ, 2001 Θεσσαλονίκη.",
+            "additional": "ΔΙΚΤΥΑ ΟΠΤΙΚΩΝ ΙΝΩΝ (Μεταφρασμένο), Green, P., ΠΑΠΑΣΩΤΗΡΙΟΥ, 1994, Αθήνα"
+        }
+    },
+    "winter": false,
+    "period": 6
+}

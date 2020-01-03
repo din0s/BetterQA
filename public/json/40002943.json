@@ -1,0 +1,210 @@
+{
+    "coursecode": "NNA-08-03",
+    "AltKey": "ΝΝΑ-08-03",
+    "title": "ΘΕΩΡΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΚΩΔΙΚΟΠΟΙΗΣΗ",
+    "titleEN": "INFORMATION THEORY AND CODING",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155631,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΘΕΩΡΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΚΩΔΙΚΟΠΟΙΗΣΗ",
+                    "en": "INFORMATION THEORY AND CODING"
+                },
+                "course_code": "NNA-08-03",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Πλέρος"
+            },
+            "class_info": {
+                "class_title": "ΘΕΩΡΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΚΩΔΙΚΟΠΟΙΗΣΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Πλέρος Νικόλαος, Δραζιώτης Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121357"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8128"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr/"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "βασικές έννοιες σημάτων, βασικές έννοιες πιθανοτήτων",
+                    "en": "basic knowledge on signal theory, basic knowledge on probabilities"
+                }
+            },
+            "learning_outcomes": {
+                "el": "εξοικείωση με το αντικείμενο της θεωρίας πληροφορίας και κωδικοποίησης, συσχέτιση της θεωρίας με πρακτικά σύγχρονα παραδείγματα",
+                "en": "amiliarization with the topics of information theory and coding, correlation of information theory objectives with current practical communication and coding examples, training on theoretical channel analysis, training on basic coding practices"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "5": "Αυτόνομη εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Πληροφορία – εντροπία (εντροπία, συνδετική εντροπία, υπό συνθήκη εντροπία, επεκτάσεις πηγής πληροφορίας, πηγή πληροφορίας με μνήμη, αναλογική πηγή πληροφορίας), χωρητικότητα διαύλου πληροφορίας (δίαυλος πληροφορίας, διαπληροφορία – χωρητικότητα, δίαυλος πληροφορίας χωρίς απώλειες, ιδανικός δίαυλος πληροφορίας, ομοιόμορφος δίαυλος πληροφορίας, δυαδικός συμμετρικός δίαυλος πληροφορίας, Σ-δίαυλος πληροφορίας, αλυσιδωτή σύνδεση διαύλων πληροφορίας), κωδικοποίηση σε αθόρυβο περιβάλλον (ορολογία και ταξινόμηση κωδίκων, θεώρημα του Kraft, πρώτο θεώρημα Shannon, απλοί κώδικες (Shannon, Shannon-Fano, Huffmann, δενδροδιάγραμμα απόφασης). Κωδικοποίηση σε θορυβικό περιβάλλον (κριτήρια αποκωδικοποίησης, φράγμα Fano, δεύτερο θεώρημα Shannon, αποκάλυψη σφαλμάτων, διόρθωση σφαλμάτων, κώδικας Hamming). Αλγεβρική κωδικοποίηση (κώδικες ομάδας, κώδικες Hamming, BCH, Golay, υλοποίηση κυκλικών κωδίκων, συνελικτικοί κώδικες).",
+                    "en": "Information – entropy (entropy, joint entropy, conditional entropy, memory and memoryless information sources), channel capacity (information channels, mutual information and capacity, lossless channels, uniform information channel, binary symmetric channel, binary erasure channel), coding in noiseless communications (Kraft inequality, Shannon’s theorem, typical codes (Shannon, Shannon-Fano, Huffmann, binary coding trees). Coding in noisy communications (decoding criteria, Fano’s limit, Shannon’s second theorem, Hamming code). Arithmetic coding, algebraic coding."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "71",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "40",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "ΓΡΑΠΤΕΣ ΕΞΕΤΑΣΕΙΣ (70%) ΚΑΙ ΣΕΙΡΕΣ ΑΣΚΗΣΕΩΝ (30%)",
+                    "en": "Written Exams (70%) and Problem Sets (30%)"
+                },
+                "assessment_methods": {
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "ΘΕΩΡΙΑ ΠΛΗΡΟΦΟΡΙΩΝ - ΚΩΔΙΚΕΣ, ΒΟΥΚΑΛΗΣ ΔΗΜΗΤΡΙΟΣ, ΙΩΝ, ΑΘΗΝΑ, 1994",
+                "additional_bibliography_for_study": "ΣΗΜΕΙΩΣΕΙΣ ΔΙΔΑΣΚΟΝΤΑ"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121357"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8128"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr/"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "ΘΕΩΡΙΑ ΠΛΗΡΟΦΟΡΙΩΝ - ΚΩΔΙΚΕΣ, ΒΟΥΚΑΛΗΣ ΔΗΜΗΤΡΙΟΣ, ΙΩΝ, ΑΘΗΝΑ, 1994",
+            "additional": "ΣΗΜΕΙΩΣΕΙΣ ΔΙΔΑΣΚΟΝΤΑ"
+        }
+    },
+    "winter": false,
+    "period": 8
+}

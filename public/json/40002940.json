@@ -1,0 +1,284 @@
+{
+    "coursecode": "NCO-04-04",
+    "AltKey": "NCO-04-04",
+    "title": "ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ",
+    "titleEN": "HUMAN-COMPUTER INTERACTION",
+    "units": 4,
+    "ects": 5.5,
+    "classID": 600155614,
+    "elearning_url": "https://elearning.auth.gr/course/view.php?id=6583",
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ",
+                    "en": "HUMAN-COMPUTER INTERACTION"
+                },
+                "course_code": "NCO-04-04",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Χρήστος Κατσάνος"
+            },
+            "class_info": {
+                "class_title": "ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Δημητριάδης Σταύρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004968"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6583"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις Python",
+                    "en": "Python programming basic knowledge. "
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί:\r\nΗ θεωρητική θεμελίωση και η πρακτική εξάσκηση στη χρήση τεχνολογικά υποστηριζόμενων\r\nπεριβαλλόντων διάδρασης με υπολογιστή.\r\nΔεξιότητες:\r\nΟι φοιτητές εξασκούνται στη σχεδίαση βέλτιστων διεπαφών επικοινωνίας με τα διάφορα υ-\r\nπολογιστικά συστήματα. Επίσης μαθαίνουν τη δημιουργία βασικών διεπαφών GUI με χρήση της βιβλιοθήκης python/tkinter.  ",
+                "en": "Cognitive:\r\nThe course aims to present the theoretical foundations and the techniques currently practiced\r\nfor advanced interaction with computer systems.\r\nSkills:\r\nThe Design and Implementation of functional User Interfaces. Students also learn how to build GUI interfaces using the python/tkinter library. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Θεωρία:\r\n- Εισαγωγή στην έννοια της ευχρηστίας: μοντέλο Nielsen για την ευχρηστία. \r\n- Ευκολία εκμάθησης (learnability): Ανθρώπινη μνήμη, Τύποι διάδρασης, Μοντέλο συστήματος, διεπαφής & χρήστη, Αρχές σχεδίασης για την ευκολία εκμάθησης. \r\n- Ορατότητα (Visibility): Ορατές ενέργειες, Ορατή κατάσταση, Ορατή ανάδραση, Θεωρία ιχνηλασίας πληροφοριών. \r\n- Αποδοτικότητα (Efficiency): Μοντέλο επεξεργασίας Πληροφορίας, Νόμοι Hick-Hyman, Fitts, Accot-Zhai. Τεχνικές σχεδίασης για ΑΠοδοτικότητα, Προγνωστική αξιολόγηση με το Μοντέλο KLM (Keystroke Level Model)\r\n- Σφάλματα: Τύποι σφαλμάτων, Αρχές σχεδίασης για την πρόληψη και περιορισμό σφαλμάτων.\r\n- Σχεδίαση Διεπαφής: Χρηστοκεντρική σχεδίαση, Σειροειδές μοντέλο επαναληπτικής σχεδίασης \r\n- Ανάλυση: Ανάλυση απαιτήσεων, χρηστών (personas), εργασιών & πεδίου\r\n- Τεχνικές Σχεδίασης: Σχέδια, Σενάρια, Εικονογράφηση\r\n- Πρότυπα (μοτίβα)(patterns) σχεδίασης - Widgets - Σχεδίαση για Απλότητα\r\n- Αξιολόγηση διεπαφής: Αξιολόγηση Ειδικών, Εργαστήρια Ευχρηστίας, Ερωτηματολόγια Χρηστών, Έλεγχοι Αποδοχής, Αξιολόγηση Ενεργού Χρήσης  \r\n\r\nΤεχνολογίες\r\n- Εργαλεία Mockup: Moqups, Lumzy, Invision\r\n- Προγραμματισμός GUI: Τεχνικές με τη Βιβλιοθήκη Python/Tkinter\r\n \r\n",
+                    "en": "Theory:\r\n- Nielsen model for Usability. \r\n- Learnability: Human memory, Interaction styles, System/interface/user model, Design principles for learnability.\r\n- Visibility: Design for visible actions/state/feedback. Information scent theory.\r\n- Efficiency: Human Information Processing Model, Laws: Hick-Hyman, Fitts, Accot-Zhai. Design for Efficiency, Predictive evaluation with Keystroke Level Model.\r\n- Errors: Error types. Design for avoiding errors, Undo.\r\n- User Interface Design: User-centered design, Spiral model of iterative design. \r\n- Analysis: Requirements analysis, User analysis (personas), Task & Field analysis \r\n- Design techniques: Sketches, Scenarios, Storyboarding\r\n- Design Patterns & Widgets. Design for Simplicity\r\n- User Interface Evaluation Methods: Expert-based evaluation, Usability Labs, User Questionnaires, Acceptance level Evaluation, Evaluation during Active Use\r\n\r\nTechnologies\r\n- Mockup tools: Moqups, Lumzy, Invision\r\n- GUI Programming with Python/Tkinter"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "4": "Podcast",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Συνεχής και εκτεταμένη: \r\n- Διδασκαλία: χρήση ηλεκτρονικών διαφανειών, ιστοσελίδων διαδικτύου (ως περιπτώσεων μελέτης και ανάλυσης) \r\n- Γίνεται χρήση ιστοχώρου για την επικοινωνία και διαμοίραση μαθησιακού υλικού\r\n- Χρήση εργαλείων ανάπτυξης εφαρμογών πολυμέσων και διαδικτύου\r\n- Χρήση εργαλείων web 2.0 για το συντονισμό/υποστήριξη της εργασίας της κάθε ομάδας",
+                    "en": "Continuous and extended: \r\n- Teaching: use of e-slides and web resources (commercial web sites in case studies) \r\n- Use of course web site to communicate with students and disseminate learning material \r\n- Use of authoring/programming tools (multimedia and web-based) to develop software prototypes\r\n- Use of Web 2.0 communication tools to support groupwork "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "15",
+                        "credits": "0.5",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "(1) Γραπτή εξέταση\r\n(2) Programming Project: Ανάπτυξη κώδικα για τη δημιουργία GUI \r\n(3) Συγγραφή 2 εργασιών ",
+                    "en": "(1) Written exams\r\n(2) Programming Project: Coding for GUI development  \r\n(3) 2 written assignments "
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "* Αβούρης Ν. «Εισαγωγή στην Επικοινωνία Ανθρώπου – Υπολογιστή», Εκδόσεις yίαυλος,\r\nΑθήνα, 2006\r\n• Σχεδίαση Διεπαφής Χρήστη, Ben Shneiderman, C. Plaisant, Εκδόσεις: Α. Τζιόλα, Θεσσαλονίκη, Έκδοση: 5η έκδ./2010, Κωδικός Βιβλίου στον Εύδοξο: 18548663",
+                "additional_bibliography_for_study": "Διαφάνειες μαθήματος, Διδακτικά βοηθήματα (tutorials) για τον προγραμματισμό GUI"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004968"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6583"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "* Αβούρης Ν. «Εισαγωγή στην Επικοινωνία Ανθρώπου – Υπολογιστή», Εκδόσεις yίαυλος,\r\nΑθήνα, 2006\r\n• Σχεδίαση Διεπαφής Χρήστη, Ben Shneiderman, C. Plaisant, Εκδόσεις: Α. Τζιόλα, Θεσσαλονίκη, Έκδοση: 5η έκδ./2010, Κωδικός Βιβλίου στον Εύδοξο: 18548663",
+            "additional": "Διαφάνειες μαθήματος, Διδακτικά βοηθήματα (tutorials) για τον προγραμματισμό GUI"
+        }
+    },
+    "winter": false,
+    "period": 4
+}

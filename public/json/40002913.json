@@ -1,0 +1,199 @@
+{
+    "coursecode": "NCO-02-01",
+    "AltKey": "NCO-02-01",
+    "title": "ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ ΙΙ",
+    "titleEN": "MATHEMATICAL ANALYSIS II",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155622,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ ΙΙ",
+                    "en": "MATHEMATICAL ANALYSIS II"
+                },
+                "course_code": "NCO-02-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Τσίτσας"
+            },
+            "class_info": {
+                "class_title": "ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ ΙΙ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Δραζιώτης Κωνσταντίνος, Τσίτσας Νικόλαος, Δραζιώτης Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004955"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/course-info.php?id=7"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6561"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Ο στόχος του μαθήματος είναι να αποκτήσουν οι φοιτητές βασικές γνώσεις Μαθηματικής Ανάλυσης οι οποίες αξιοποιούνται σε όλους τους κλάδους της Πληροφορικής.",
+                "en": "Basic knowledge of Mathematical Analysis which is required in computer science."
+            },
+            "general_competences": {
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "-- Αλγεβρική και γεωμετρική μελέτη του επιπέδου και του χώρου. Διανύσματα, εξισώσεις ευθειών και επιπέδων στο χώρο.\r\n-- Πραγματικές συναρτήσεις δύο ή τριών μεταβλητών, μερική παράγωγος και εφαρμογές (κλίση συνάρτησης, βέλτιστες προσεγγίσεις, υπολογισμός σφαλμάτων και ασυμπτωτικά αναπτύγματα)\r\n-- Ελεύθερα και δεσμευμένα ακρότατα συναρτήσεων πολλών μεταβλητών, θεωρία Lagrange και εφαρμογές σε προβλήματα βελτιστοποίησης στην επιστήμη της Πληροφορικής (π.χ. υπολογισμός μέγιστης εντροπίας κατά Shannon)\r\n-- Διπλά και επικαμπύλια ολοκληρώματα με εφαρμογές (στοιχειώδης συνοπτική περιγραφή)\r\n",
+                    "en": "-- Algebraic and geometric study of the plane and the space. Vectors, equations of lines and planes.\r\n-- Functions of two or three variables.  Partial derivatives and applications (gradient, optimization problems, series). \r\n-- Maximum and Minimum Values. Lagrange Multipliers. Applications in computer science (e.g. maximization of Shannon Entropy).\r\n-- Double and line Integrals with applications (simplified introduction)."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "65",
+                        "credits": "2.167",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Το μάθημα έχει δύο γραπτές προόδους οι οποίες είναι απαλλακτικές για την εξέταση του μαθήματος.",
+                    "en": "The course has two tests. In order to pass the course the student has to achieve at least 5 in each one of the two tests."
+                },
+                "assessment_methods": {
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. \"ΕΦΑΡΜΟΣΜΕΝΟΣ ΔΙΑΝΥΣΜΑΤΙΚΟΣ ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ\"\tΛ.Ν. ΤΣΙΤΣΑΣ\tΕΚΔΟΣΕΙΣ ΣΥΜΜΕΤΡΙΑ\t2003\tΑΘΗΝΑ\t45391\r\n\r\n2. \"ΑΝΑΛΥΣΗ ΙΙ: ΣΥΝΑΡΤΗΣΕΙΣ ΠΟΛΛΩΝ ΜΕΤΑΒΛΗΤΩΝ\"\tΝ.ΚΑΔΙΑΝΑΚΗΣ       Σ.ΚΑΡΑΝΑΣΙΟΣ,   Α.ΦΕΛΛΟΥΡΗΣ\tΝ.ΚΑΔΙΑΝΑΚΗΣ       Σ.ΚΑΡΑΝΑΣΙΟΣ,   Α.ΦΕΛΛΟΥΡΗΣ\t2009\t \t6779\r\n\r\n3. \"ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ -ΤΟΜΟΣ ΙI\"\tFINNEY R.L.-WEIR M.D.-GIORDANO F.R.\tΙΤΕ ΠΑΝΕΠ/ΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ\t2009\tΗΡΑΚΛΕΙΟ\t184",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004955"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/course-info.php?id=7"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6561"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. \"ΕΦΑΡΜΟΣΜΕΝΟΣ ΔΙΑΝΥΣΜΑΤΙΚΟΣ ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ\"\tΛ.Ν. ΤΣΙΤΣΑΣ\tΕΚΔΟΣΕΙΣ ΣΥΜΜΕΤΡΙΑ\t2003\tΑΘΗΝΑ\t45391\r\n\r\n2. \"ΑΝΑΛΥΣΗ ΙΙ: ΣΥΝΑΡΤΗΣΕΙΣ ΠΟΛΛΩΝ ΜΕΤΑΒΛΗΤΩΝ\"\tΝ.ΚΑΔΙΑΝΑΚΗΣ       Σ.ΚΑΡΑΝΑΣΙΟΣ,   Α.ΦΕΛΛΟΥΡΗΣ\tΝ.ΚΑΔΙΑΝΑΚΗΣ       Σ.ΚΑΡΑΝΑΣΙΟΣ,   Α.ΦΕΛΛΟΥΡΗΣ\t2009\t \t6779\r\n\r\n3. \"ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ -ΤΟΜΟΣ ΙI\"\tFINNEY R.L.-WEIR M.D.-GIORDANO F.R.\tΙΤΕ ΠΑΝΕΠ/ΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ\t2009\tΗΡΑΚΛΕΙΟ\t184",
+            "additional": ""
+        }
+    },
+    "winter": false,
+    "period": 2
+}

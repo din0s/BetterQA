@@ -1,0 +1,207 @@
+{
+    "coursecode": "NGE-06-02",
+    "AltKey": "NGE-06-02",
+    "title": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
+    "titleEN": "OPTIMIZATION",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155641,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
+                    "en": "OPTIMIZATION"
+                },
+                "course_code": "NGE-06-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Τσίτσας"
+            },
+            "class_info": {
+                "class_title": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Τσίτσας Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121313"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6564"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνώση μεθοδολογιών και τεχνικών Βελτιστοποίησης και χρήση τους σε εφαρμογές στην επιστήμη της Πληροφορικής",
+                "en": "Knowledge of methodologies and techniques in Optimization and using them in applications of Computer Science"
+            },
+            "general_competences": {
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "-- Εισαγωγή και κίνητρα μελέτης με παραδείγματα και εφαρμογές.\r\n\r\n-- Βασικές έννοιες. Τοπικά και γενικά ακρότατα συναρτήσεων. Κυρτότητα. Αναγκαίες συνθήκες 1ης και 2ας τάξεως, ικανές συνθήκες ελαχίστου για προβλήματα ελαχιστοποίησης. Αλγόριθμοι βελτιστοποίησης, θεωρήματα και ταχύτητα συγκλίσεως.\r\n\r\n-- Βελτιστοποίηση μη-γραμμικών προβλημάτων χωρίς και με περιορισμούς.\r\n\r\n--Εφαρμογές και υλοποιήσεις με μαθηματικό λογισμικό",
+                    "en": "-- Introduction and motivation with examples and applications\r\n\r\n-- Basic notions. Optimization algorithms, theorems and rate of convergence\r\n\r\n-- Optimization of non-linear problems with and without constraints\r\n\r\n-- Implementations with mathematical software"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Μέσω σελίδας του μαθήματος στο elearning",
+                    "en": "There is a web page for the course in elearning"
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "48",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Στο μάθημα γίνονται δύο γραπτές πρόοδοι οι οποίες είναι απαλλακτικές για τους φοιτητές που θα έχουν βαθμολογία μεγαλύτερη του 5 σε κάθε μία από τις προόδους. Επίσης, ανατίθενται εργασίες (projects) με bonus στο συνολικό βαθμό από 0 έως 2 μονάδες ανάλογα με την ποιότητά τους.",
+                    "en": "There will be two tests and the students can pass the course if they have grade greater than 5 in each one of these tests. Also, projects will be assigned with bonus on the final grade from 0 to 2 points (depending on the quality each project)."
+                },
+                "assessment_methods": {
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Μη γραμμικές μέθοδοι βελτιστοποίησης\tΜεθοδολογία και αλγόριθμοι, Βασιλείου Παναγιώτης - Χρήστος, Γεωργίου Αθανάσιος, 960-431-248-0, Ζήτη\t1993, 1η έκδ., 11113.\r\n\r\n2. Τεχνικές βελτιστοποίησης, Ροβιθάκης Γεώργιος Α., 978-960-418-141-4, Τζιόλα 2007, 1η εκδ., 18549025.",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121313"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6564"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Μη γραμμικές μέθοδοι βελτιστοποίησης\tΜεθοδολογία και αλγόριθμοι, Βασιλείου Παναγιώτης - Χρήστος, Γεωργίου Αθανάσιος, 960-431-248-0, Ζήτη\t1993, 1η έκδ., 11113.\r\n\r\n2. Τεχνικές βελτιστοποίησης, Ροβιθάκης Γεώργιος Α., 978-960-418-141-4, Τζιόλα 2007, 1η εκδ., 18549025.",
+            "additional": ""
+        }
+    },
+    "winter": false,
+    "period": 6
+}

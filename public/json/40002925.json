@@ -1,0 +1,247 @@
+{
+    "coursecode": "NNA-07-05",
+    "AltKey": "NNA-07-05",
+    "title": "ΜΙΚΡΟΗΛΕΚΤΡΟΝΙΚΗ",
+    "titleEN": "MICROELECTRONICS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155554,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΜΙΚΡΟΗΛΕΚΤΡΟΝΙΚΗ",
+                    "en": "MICROELECTRONICS"
+                },
+                "course_code": "NNA-07-05",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Νικόλαος Κονοφάος"
+            },
+            "class_info": {
+                "class_title": "ΜΙΚΡΟΗΛΕΚΤΡΟΝΙΚΗ",
+                "academic_year": "2013 – 2014",
+                "class_period": "Χειμερινή",
+                "instructors": "Κονοφάος Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "2": "Γενικών Γνώσεων",
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/40049937"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=136"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα: \r\n1. Κατανοούν την δομή και λειτουργία βασικών κυκλωμάτων επεξεργασίας και μνήμης ενός Η/Υ.\r\n2. Μπορούν να σχεδιάσουν σε επίπεδο τρανζίστορ βασικά κυκλώματα που υπάρχουν σε έναν Η/Υ.\r\n3. Μπορούν να προγραμματίζουν σε ειδική γλώσσα και περιβάλλον σχεδίασης κυκλωμάτων (SPICE) και να ελέγχουν το αποτέλεσμα.\r\n4. Γνωρίζουν την τεχνολογία κατασκευής των σύγχρονων μικροηλεκτρονικών κυκλωμάτων και να παρακολουθούν τις εξελίξεις στην πρόοδο της τεχνολογίας αυτής.  \r\n",
+                "en": "After the competion of the course, the students will:\r\n1. Understand the structure and operation of the basic computer processing and memory circuits.\r\n2. Be able to design at transistor level basic circuits existing inside a computer.\r\n3. Be able to use the SPICE programming language and environment and test the outcome.\r\n4. understand the manufactoring technology of the modern microelectronic circuits and follow the progress of this technology. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Αρχές λειτουργίας διατάξεων ημιαγωγών και θεωρία λειτουργίας τρανζίστορ επαφής πεδίου (MOFSET). Διατάξεις CMOS, χαρακτηριστικά αντιστροφέα CMOS. Αρχές μικροηλεκτρονικής τεχνολογίας διατάξεων και συστημάτων VLSI με τεχνολογία CMOS, φυσική σχεδίαση ολοκληρωμένων κυκλωμάτων CMOS VLSI. Βασικά κυκλώματα: Σχεδίαση, τεχνολογία σε επίπεδο τρανζίστορ, επιδόσεις. Στοιχεία μνημών (ROM, DRAM, SRAM). Σχεδίαση κυκλωμάτων με το SPICE.",
+                    "en": "Basic semiconductor devices principles and MOSFET operation theory. CMOS devices and CMOS inverter characteristics. Principles of microelectronic device technology and CMOS VLSI design. Basic circuits: Design and technology at transistor level, performance. Memory devices and circuits (ROM, DRAM, SRAM). Circuit design using SPICE."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "40",
+                        "workload": "",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "12",
+                        "workload": "",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Βιβλίο [18549059]: Ηλεκτρονικές Διατάξεις & Θεωρία Κυκλωμάτων, 10η Έκδοση, Boylestad R. , Nashelsky L. \r\n2. Βιβλίο [32997430]: Μικροηλεκτρονική, 4η Έκδοση , Jaeger Richard - Blalock Travis \r\n3. Βιβλίο [18548944]: Σχεδίαση Ψηφιακών Συστημάτων με τη Γλώσσα VHDL, Brown, Vranesic",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/40049937"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=136"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Βιβλίο [18549059]: Ηλεκτρονικές Διατάξεις & Θεωρία Κυκλωμάτων, 10η Έκδοση, Boylestad R. , Nashelsky L. \r\n2. Βιβλίο [32997430]: Μικροηλεκτρονική, 4η Έκδοση , Jaeger Richard - Blalock Travis \r\n3. Βιβλίο [18548944]: Σχεδίαση Ψηφιακών Συστημάτων με τη Γλώσσα VHDL, Brown, Vranesic",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 7
+}

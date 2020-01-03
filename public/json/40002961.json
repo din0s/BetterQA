@@ -1,0 +1,213 @@
+{
+    "coursecode": "NDM-06-01",
+    "AltKey": "NDM-06-01",
+    "title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΣΗΜΑΤΟΣ",
+    "titleEN": "DIGITAL SIGNAL PROCESSING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155618,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΣΗΜΑΤΟΣ",
+                    "en": "DIGITAL SIGNAL PROCESSING"
+                },
+                "course_code": "NDM-06-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Λάσκαρης"
+            },
+            "class_info": {
+                "class_title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΣΗΜΑΤΟΣ",
+                "academic_year": "2018 – 2019",
+                "class_period": "Εαρινή",
+                "instructors": "Λάσκαρης Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600121300"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": ""
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Προηγούμενη έκθεση σε Γραμμική Άλγεβρα, Λογισμό μιας μεταβλητής, Μιγαδική Ανάλυση και θεωρία Γραμμικών Συστημάτων",
+                    "en": "Prior exposition to linear algebra, calculus of functions of one independent real variable, complex analysis and theory of linear systems"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Εξοικείωση με τις θεμελιώδεις αρχές της ψηφιακής επεξεργασίας σήματος. Παράσταση σημάτων με μαθηματικά μοντέλα και σχεδιασμός συστημάτων διακριτού χρόνου για την επεξεργασία τους. Πρακτική εξάσκηση με χρήση MATLAB.\r\nΣχεδιασμός Ψηφιακών Φίλτρων. Γραμμικές τεχνικές ψηφιακής επεξεργασίας για την αναμόρφωση, το μετασχηματισμό και το χειρισμό του φάσματος συχνοτήτων των σημάτων ενδιαφέροντος. Ευχέρεια στην προσαρμογή των σχετικών τεχνικών για σήματα από ρεαλιστικές εφαρμογές (π.χ. ανάλυση βιοσημάτων). \r\n",
+                "en": "Cognitive: Understanding the basic principles of digital signal processing. Acquaintance with the mathematical modelling of digital signals and the design of discrete-time systems. Practice using MATLAB.\r\nSkills: Digital filter design. Linear techniques for reforming a signals of interest and performing transformations of its spectrum. Ability to adapt the presented techniques to signals from realistic applications (e.g. biosignals) \r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "5": "Αυτόνομη εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 6",
+                "Skills": "Επίπεδο 6"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Δειγματοληψία και Ανακατασκευή Σημάτων. Παραθύρωση. Διακριτός μετασχηματισμός Fourier. Ταχύς μετασχηματισμός Fourier. Σχεδίαση FIR φίλτρων. Σχεδίαση IIR φίλτρων. Υλοποιήσεις ψηφιακών φίλτρων. Ειδικές κατηγορίες Ψηφιακών Φίλτρων. Τεχνικές Εκτίμησης Συχνοτικού Περιεχομένου. Εισαγωγή στο Μετασχηματισμό κυματιδίου. Προγραμματιστικές ασκήσεις σε περιβάλλον MATLAB.",
+                    "en": "Sampling and reconstruction of signals. Windowing. Discrete Fourier transform. Fast Fourier transform.FIR filter design. IIR filter design. Digital filter implementations. Special types of digital filters.  Spectral estimation techniques. Introduction to Wavelet transform. Programming exercises in MATLAB environment."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "Επίδειξη λογισμικού. ",
+                    "en": "Software Demonstration.  "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "26",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "48",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "",
+                        "workload": "26",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "50",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτή εξέταση, γραπτές εργασίες και προφορική εξέταση στο εργαστηριακό κομμάτι του μαθήματος. Το 70% της τελικής βαθμολογίας αντιστοιχεί στην απόδοση στις γραπτές εξετάσεις και το 30 % στην απόδοση στις προγραμματιστικές ασκήσεις. Λεπτομέρειες στην ιστοσελίδα του μαθήματος ( ΠΗΛΕΑΣ, http://pileas.csd.auth.gr).",
+                    "en": "Written examination, oral exams on project deliverables. Written exams accounts for the 70% of the total mark, while performance at programming exercises accounts for the rest 30%. Details can be found at the course website. "
+                },
+                "assessment_methods": {
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Βιβλίο [18548755]: Βασικές τεχνικές ψηφιακής επεξεργασίας σημάτων, Μουστακίδης Γεώργιος Β. Λεπτομέρειες\r\nΒιβλίο [22721720]: ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΣΗΜΑΤΩΝ, Oppenheim/Schafer",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600121300"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": ""
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Βιβλίο [18548755]: Βασικές τεχνικές ψηφιακής επεξεργασίας σημάτων, Μουστακίδης Γεώργιος Β. Λεπτομέρειες\r\nΒιβλίο [22721720]: ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΣΗΜΑΤΩΝ, Oppenheim/Schafer",
+            "additional": ""
+        }
+    },
+    "winter": false,
+    "period": 6
+}

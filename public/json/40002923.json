@@ -1,0 +1,215 @@
+{
+    "coursecode": "NNA-07-03",
+    "AltKey": "NNA-07-03",
+    "title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ",
+    "titleEN": "NETWORK SECURITY",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155562,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ",
+                    "en": "NETWORK SECURITY"
+                },
+                "course_code": "NNA-07-03",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Γεώργιος Παπαδημητρίου"
+            },
+            "class_info": {
+                "class_title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Νικοπολιτίδης Πέτρος, Παπαδημητρίου Γεώργιος, Νικοπολιτίδης Πέτρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων",
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004928"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Εισαγωγή σε θέματα υποδομής στην ασφάλεια των δικτύων, αλγόριθμοι κρυπτογράφησης,\r\nασφάλεια στο διαδίκτυο, ασφάλεια ασυρμάτων δικτύων. Ο φοιτητής θα αποκτήσει μια\r\nσυνολική εικόνα του χώρου της ασφάλειας των δικτύων. Επίλυση ασκήσεων με βάση τη\r\nθεωρία που έχει διδαχθεί. Εργαστηριακές ασκήσεις σε θέματα ασφάλειας δικτύων.",
+                "en": "Introduction to fundamentals of communication networks security, cryptography algorithms, internet security, wireless networks security. The student will acquire knowledge on the area of communication networks security. Practice in solving exercises based on taught theory. Practice via participation in laboratory exercises on communication networks security."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή στην κρυπτογραφία, Συμμετρικοί αλγόριθμοι κρυπτογράφησης, ασύμμετροι\r\nαλγόριθμοι κρυπτογράφησης, πιστοποίηση αυθεντικότητας, ψηφιακές υπογραφές, το\r\nσύστημα πιστοποίησης αυθεντικότητας \"Κέρβερος\", ασφάλεια του εξυπηρέτη web, ασφάλεια\r\nτου χρήστη, ασφάλεια ηλεκτρονικού ταχυδρομείου, ασφαλείς ηλεκτρονικές συναλλαγές,\r\nφράγματα ασφάλειας, ασφάλεια ασυρμάτων δικτύων.",
+                    "en": "Introduction to Cryptography, Symmetric Cryptographic Algorithms, Asymmetric Crypto-graphic Algorithms, Authentication, Digital Signatures, The \"Kerberos\" authentication sys-tem, Web Server Security, Web User Security, E-mail security, Secure Electronic Transac-tions, Firewalls, Wireless networks security."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "H/Y και λογισμικό για εργαστηριακές ασκήσεις και laptop και προβολικό για τη διδασκαλία του μαθήματος. Χρηση πλατφόρμας blackboard για επικοινωνια με φοιτητες.",
+                    "en": "PC and software use for the lab excercises and use of laptop and data projector for teaching the course. Use of blackboard platform for interactions and communication with the students."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.87",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "50",
+                        "credits": "1.67",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "22",
+                        "credits": "0.74",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Τα κριτήρια και τα βάρη αυτών αναγράφονται στην ιστοσελίδα του μαθήματος",
+                    "en": "The criteria and their weights are listed on the web page of the course"
+                },
+                "assessment_methods": {
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004928"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 7
+}

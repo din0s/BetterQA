@@ -1,0 +1,269 @@
+{
+    "coursecode": "NET-07-03",
+    "AltKey": "ΝΕΤ-07-03",
+    "title": "ΔΙΔΑΚΤΙΚΗ ΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+    "titleEN": "DIDACTICS OF INFORMATICS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155590,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΔΙΔΑΚΤΙΚΗ ΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+                    "en": "DIDACTICS OF INFORMATICS"
+                },
+                "course_code": "NET-07-03",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Σταύρος Δημητριάδης"
+            },
+            "class_info": {
+                "class_title": "ΔΙΔΑΚΤΙΚΗ ΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Δημητριάδης Σταύρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004938"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": ""
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6750"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Καλή γνώση της ελληνικής γλώσσας. Καλές γνώσεις αλγοριθμικής και δομημένου προγραμματισμού. Ευχέρεια στη μελέτη κειμένων στα Αγγλικά.",
+                    "en": "Good knowledge of Greek language. Good knowledge of algorithmic and structured programming. Fluency in the study of texts in English."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: Κατανόηση αρχών οργάνωσης της διδασκαλίας και διδακτικής της Πληροφορικής\r\nστην πρωτοβάθμια και δευτεροβάθμια Εκπαίδευση. Εκμάθηση γενικών μεθόδων διδακτικής\r\nθεμάτων αλγοριθμικής και προγραμματισμού. Εκμάθηση καινοτόμων μεθόδων για την εκμά-\r\nθηση προγραμματισμού (εκπαιδευτική ρομποτική, απτικές διεπαφές).\r\nΔεξιότητες: Εκμάθηση λογισμικού για τη διδακτική θεμάτων Πληροφορικής σε Δημοτικό,\r\nΓυμνάσιο, Λύκειο. Εκμάθηση γλώσσας προγραμματισμού Logo. Οργάνωση διδασκαλίας με χρήση φύλλων εργασίας. Χειρισμός εκπαιδευτικών ρομπότ. Οργάνωση (σχεδίαση και υλοποίηση) διδασκαλίας σε θέματα Πληροφορικής σε περιβάλλον σχολείου Α/θμιας ή Β/θμιας Εκπαίδευσης.",
+                "en": "Cognitive: principles for the organization of teaching and teaching of Informatics in primary and secondary education. Learning general methods of teaching algorithmic and programming issues. Learn innovative methods for programming teaching (educational robotics, haptic interfaces).\r\nSkills: Learning software for teaching informatics in Elementary, High School. Learning programming language Logo. Organization of teaching using worksheets. Handling educational robot. Organization (design and implementation) of teaching on Informatics at school environment (Primary or Secondary Education)."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Η Πληροφορική στην εκπαίδευση (ως γνωστικό αντικείμενο και εκπαιδευτικό μέσο). Το\r\nπρόγραμμα σπουδών Πληροφορικής στην Ελληνική εκπαίδευση: Διαθεματικό Ενιαίο Πλαί-\r\nσιο Προγράμματος Σπουδών (ΔΕΠΠΣ). Η Πληροφορική στο Γυμνάσιο, στο Λύκειο και στην\r\nΕπαγγελματική Εκπαίδευση (Βασικοί άξονες διδασκαλίας, Αναλυτικό πρόγραμμα, Κύκλοι\r\nσπουδών). Θεωρητικό πλαίσιο της διδακτικής (Διδακτικός μετασχηματισμός εννοιών της\r\nΠληροφορικής, Νοητικά μοντέλα και αναπαραστάσεις της Πληροφορικής, Τύποι γνώσεων\r\nστον προγραμματισμό. Οι έννοιες της μεταβλητής, της επιλογής & της επανάληψης). Διδακ-\r\nτικές μέθοδοι για τη διδασκαλία προγραμματιστικών εννοιών: Εννοιολογικοί χάρτες, Αξιο-\r\nποίηση Logo-like περιβαλλόντων, Παιχνίδι ρόλων & αξιοποίηση αναλογιών στη διδακτική εννοιών Πληροφορικής, Μάθηση βασισμένη στο Παιχνίδι (computer games), Εκπαιδευτική Ρομποτική (χρήση NXT Lego Robots), Απτικές διεπαφές (tangible interfaces). Συνεργασία στην εκμάθηση προγραμματισμού (pair programming). Υπολογιστική Σκέψη. Σύγχρονα τεχνολογικά περιβάλλοντα για εισαγωγικό προγραμματισμό και υπολογιστική σκέψη. ",
+                    "en": "Informatics in education (as a discipline and educational media). Curriculum of Informatics in Greek education. Computer science in lower high school, the Lyceum and Vocational Education (main axes of teaching, Curriculum, Directions of studies). Theoretical framework of informatics didactics (Didactical transformation, Mental models and representations of Informatics, Types of knowledge in programming. The concepts of variable, control structure and loop structure).  selection and repetition). Didactic methods for teaching programming concepts: Conceptual maps, Logo-like environments, Role Playing, Analogy-based teaching of concepts Informatics, Game-based learning computer games), Educational Robotics, Tangible interfaces. Collaboration for learning programming (pair programming). Computational Thinking. Contemporary technological environments for introductory programming and computational thinking. "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο",
+                "-1": "Άλλο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "(α) Χρήση κατάλληλου λογισμικού για τη διδασκαλία αλγοριθμικής/προγραμματισμού\r\n(β) Χρήση Η/Υ σε Εργαστήριο Πληροφορικής για τη διδασκαλία εργαλείων λογισμικού\r\n(γ) Επικοινωνία με φοιτητές μέσω email & forum μαθήματος ",
+                    "en": "(a) Using appropriate software for teaching algorithmic thinking and programming\r\n(b) Using PCs in lab environment for teaching the use of software tools\r\n(c) Communicating with students with email and course forum "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "39",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "(1) Γραπτή εξέταση (50%): Αξιολογείται η επάρκεια βασικών θεωρητικών γνώσεων των\r\nφοιτητών καθώς και η ικανότητα σχεδίασης κατάλληλων λύσεων/μεθόδων για ποικίλα διδακ-\r\nτικά σενάρια στο πεδίο της διδακτικής Πληροφορικής. Χρησιμοποιούνται ερωτήσεις κλεισ-\r\nτού τύπου (πολλαπλών επιλογών, αντιστοίχισης, κλπ.) και ανοικτού τύπου (σύντομης απάν-\r\nτησης και ανάπτυξης). Επίσης παρόμοιες ερωτήσεις χρησιμοποιούνται για τη διαμορφωτική\r\nαξιολόγηση των φοιτητών (σε κάθε διάλεξη με χρήση κατάλληλων φύλλων ερωτημάτων).\r\n(2) Σχεδίαση διδασκαλιών & φύλλων εργασίας μαθητών(50%): Αξιολογείται η ικανότητα των φοιτητών όσον αφορά την εφαρμογή σύγχρονων μεθόδων διδακτικής και την ανάπτυξη φύλλων εργασίας για τη διδασκαλία θεμάτων προγραμματισμού και την υποστήριξη ανάπτυξης της υπολογιστικής σκέψης. ",
+                    "en": "(1) Written examination (50%): evaluating the adequacy of basic knowledge of\r\nstudents and the ability to design appropriate solutions / methods for a variety of didactic scenarios in the field of teaching Computer Science. Closed-type questions (multiple choice, matching, etc.) and open-ended (short essay). \r\n(2) Lesson and worksheets design (50%): evaluating the students' skills regarding their ability to implement current didactical models and develop/use worksheet for teaching in the programming domain and supporting the development of computational thinking. "
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "14": {
+                        "name": "Δημόσια Παρουσίαση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "16": {
+                        "name": "Έκθεση / Αναφορά",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1) «Εισαγωγή στη Διδακτική της Πληροφορικής», Κόμης, Β.Ι. Εκδόσεις Κλειδάριθμος,\r\nΑθήνα, 2005. (ISBN 960-209-838-4)\r\n2)«Διδακτικές Προσεγγίσεις και Εργαλεία για τη Διδασκαλία της Πληροφορικής».\r\nΓρηγοριάδου Μ. κ.ά.. Εκδόσεις Νέων Τεχνολογιών, Αθήνα. 2009. (ISBN 978-960-\r\n6759-23-9)",
+                "additional_bibliography_for_study": "Επιστημονικά/ερευνητικά άρθρα όπως:\r\n>> Φεσάκης, Γ. (2008). Τεχνολογίες Πληροφορικής και Επικοινωνιών στην προσχολική\r\nεκπαίδευση, διαστάσεις και προοπτικές, 4ο Πανελλήνιο Συνέδριο «Διδακτική της\r\nΠληροφορικής», Πάτρα, 2008.\r\n>> Ατματζίδου, Σ., Μαρκέλης, Η. & Δημητριάδης, Σ (2008). Χρήση των LEGO\r\nMindstorms στο Δημοτικό και Λύκειο: Το παιχνίδι ως έναυσμα μάθησης. 4ο Πανελ-\r\nλήνιο Συνέδριο «Διδακτική της Πληροφορικής», Πάτρα, 2008."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004938"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": ""
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6750"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1) «Εισαγωγή στη Διδακτική της Πληροφορικής», Κόμης, Β.Ι. Εκδόσεις Κλειδάριθμος,\r\nΑθήνα, 2005. (ISBN 960-209-838-4)\r\n2)«Διδακτικές Προσεγγίσεις και Εργαλεία για τη Διδασκαλία της Πληροφορικής».\r\nΓρηγοριάδου Μ. κ.ά.. Εκδόσεις Νέων Τεχνολογιών, Αθήνα. 2009. (ISBN 978-960-\r\n6759-23-9)",
+            "additional": "Επιστημονικά/ερευνητικά άρθρα όπως:\r\n>> Φεσάκης, Γ. (2008). Τεχνολογίες Πληροφορικής και Επικοινωνιών στην προσχολική\r\nεκπαίδευση, διαστάσεις και προοπτικές, 4ο Πανελλήνιο Συνέδριο «Διδακτική της\r\nΠληροφορικής», Πάτρα, 2008.\r\n>> Ατματζίδου, Σ., Μαρκέλης, Η. & Δημητριάδης, Σ (2008). Χρήση των LEGO\r\nMindstorms στο Δημοτικό και Λύκειο: Το παιχνίδι ως έναυσμα μάθησης. 4ο Πανελ-\r\nλήνιο Συνέδριο «Διδακτική της Πληροφορικής», Πάτρα, 2008."
+        }
+    },
+    "winter": true,
+    "period": 7
+}

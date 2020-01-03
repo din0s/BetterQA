@@ -1,0 +1,246 @@
+{
+    "coursecode": "NIS-07-07",
+    "AltKey": "NIS-07-07",
+    "title": "ΣΥΣΤΗΜΑΤΑ ΠΟΛΛΑΠΛΩΝ ΠΡΑΚΤΟΡΩΝ",
+    "titleEN": "MULTIAGENT SYSTEMS",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155571,
+    "elearning_url": "https://elearning.auth.gr/course/view.php?id=9124",
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΣΥΣΤΗΜΑΤΑ ΠΟΛΛΑΠΛΩΝ ΠΡΑΚΤΟΡΩΝ",
+                    "en": "MULTIAGENT SYSTEMS"
+                },
+                "course_code": "NIS-07-07",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "-"
+            },
+            "class_info": {
+                "class_title": "ΣΥΣΤΗΜΑΤΑ ΠΟΛΛΑΠΛΩΝ ΠΡΑΚΤΟΡΩΝ",
+                "academic_year": "2016 – 2017",
+                "class_period": "Χειμερινή",
+                "instructors": "Κραβαρη Καλλιοπη"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600039776"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "http://elearning.auth.gr"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις Τεχνητής Νοημοσύνης, Βασικές γνώσεις κατανεμημένων συστημάτων ",
+                    "en": "Basic Artificial Intelligence knowledge, Basic Distributed Systems knowledge"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: Κατάρτιση στην ανάλυση και σχεδίαση της αλληλεπίδρασης μεταξύ πολλαπλών, ετερογενών και κατανεμημένων ευφυών συστημάτων.\r\nΔεξιότητες: Εξοικείωση με πλατφόρμες ανάπτυξης συστημάτων πολλαπλών πρακτόρων.\r\n",
+                "en": "Cognitive: Training on the analysis and design of the interaction between multiple, het-erogeneous and distributed intelligent systems. \r\nSkills: Familiarization with platforms for developing multiagent systems.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 6",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 3"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή, Ευφυείς Πράκτορες, Επικοινωνία Πρακτόρων (Αναπαράσταση Γνώσης/Οντολογίες, Γλώσσες Επικοινωνίας), Συνεργασία και Συντονισμός Πρακτόρων, Θεωρία Παιγνίων, Θεωρία Κοινωνικών Επιλογών, Δημοπρασίες, Διαπραγμάτευση, Επιχειρηματολογία, Λογική Πρακτόρων, Πολυπρακτορική Μάθηση, Εφαρμογές, Ανάπτυξη Πολυπρακτορικών Συστημάτων (JADE, NetLogo).",
+                    "en": "Introduction, Intelligent Agents, Agent Communication (Knowledge Representa-tion/Ontologies, Communication Languages) , Cooperation and Coordination, Game Theory, Social Choice Theory, Auctions, Negotiation, Argumentation, Agent Logic, Multiagent Learning, Applications, Development of Multiagent Systems (JADE, NetLogo) ."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές",
+                    "4": "Χρήση Τ.Π.Ε. στην Αξιολόγηση των Φοιτητών"
+                },
+                "description": {
+                    "el": "Διαφάνειες σε ηλεκτρονική μορφή, εργαλεία Η/Υ & Βιντεοπαρουσιάσεις.",
+                    "en": "Slides in electronic format, software tools & videos."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "13",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις με βάρος 70%. Δύο εργασίες με βάρος 15% έκαστη. Τα κριτήρια αξιολόγησης αναφέρονται στις ιστοσελίδες του μαθήματος.",
+                    "en": "Written Exams weighting 70%, Two projects, each weighting 15%. The evaluation criteria are mentioned in the course webpages."
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "•\tΕισαγωγή στα Πολυπρακτορικά Συστήματα, M. Wooldridge, ΚΛΕΙΔΑΡΙΘΜΟΣ, ISBN: 9789604611256\r\n•\tΣυμπληρωματικές σημειώσεις (διαφάνειες μαθήματος).",
+                "additional_bibliography_for_study": "•\tAn Introduction to MultiAgent Systems, 2nd Edition, M. Wooldridge, Wiley, 2009.\r\n•\tMultiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations, Y. Shoham & K. Leyton-Brown, Cambridge University Press, 2009"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600039776"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "http://elearning.auth.gr"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "•\tΕισαγωγή στα Πολυπρακτορικά Συστήματα, M. Wooldridge, ΚΛΕΙΔΑΡΙΘΜΟΣ, ISBN: 9789604611256\r\n•\tΣυμπληρωματικές σημειώσεις (διαφάνειες μαθήματος).",
+            "additional": "•\tAn Introduction to MultiAgent Systems, 2nd Edition, M. Wooldridge, Wiley, 2009.\r\n•\tMultiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations, Y. Shoham & K. Leyton-Brown, Cambridge University Press, 2009"
+        }
+    },
+    "winter": true,
+    "period": 7
+}

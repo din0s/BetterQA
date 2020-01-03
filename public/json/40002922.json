@@ -1,0 +1,221 @@
+{
+    "coursecode": "NCO-02-05",
+    "AltKey": "NCO-02-05",
+    "title": "ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ",
+    "titleEN": "THEORY OF COMPUTATION",
+    "units": 5,
+    "ects": 6,
+    "classID": 600155624,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ",
+                    "en": "THEORY OF COMPUTATION"
+                },
+                "course_code": "NCO-02-05",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Παναγιώτης Κατσαρός"
+            },
+            "class_info": {
+                "class_title": "ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Κατσαρός Παναγιώτης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004959"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8083"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Είναι επιθυμητό να προϋπάρχει βασική γνώση Διακριτών Μαθηματικών (θεωρία συνόλων, σχέσεις, συναρτήσεις, τεχνικές απόδειξης). Γίνεται προσπάθεια να καλυφθεί εν συντομία η συγκεκριμένη ύλη στην εισαγωγή του μαθήματος. ",
+                    "en": "Some basic knowledge of Discrete Mathematics (set theory, relations, functions, proof techniques) is desirable. This basic knowledge is covered briefly in the introduction of the course."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Οι φοιτητές αναμένεται ότι στα πλαίσια του μαθήματος θα\r\n• κατανοήσουν την έννοια του υπολογισμού και τις δυνατότητες των υπολογιστικών μας μηχανών\r\n• γνωρίσουν τις θεμελιώσεις και τις αρχές της επιστήμης των υπολογιστών\r\n• αφομοιώσουν ύλη πάνω στην οποία στηρίζονται άλλα αντικείμενα, όπως η Θεωρία Γλωσσών Προγραμματισμού και η Αλγοριθμική\r\n• καλλιεργήσουν την ικανότητα να αναπτύσσουν τυπικά ορισμένους και μαθηματικώς τεκμηριωμένους συλλογισμούς\r\n• γνωρίσουν ανοικτά προβλήματα και εφαρμογές της Θεωρίας Υπολογισμού στην επιστήμη και την τεχνολογία",
+                "en": "The students who will attend the course are expected to\r\n• understand the notion of computation and the capabilities of our computing machines\r\n• know the principles and the foundations of the Computer Science\r\n• digest material upon which other subjects are founded, such as the Theory of Programming Languages and the Algorithmics    \r\n• cultivate the ability to develop formal and mathematically rigorous reasoning\r\n• know open problems and applications of the Theory of Computation in the science and the technology"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή, Κανονικές Γλώσσες: Κανονικές Εκφράσεις και Πεπερασμένα Αυτόματα, Γλώσσες Χωρίς Συμφραζόμενα: Γραμματικές και Αυτόματα Στοίβας, Μηχανές Turing, Μη επιλυσιμότητα",
+                    "en": "Introduction, Regular Languages: Regular Expressions and Finite Automata, Context-Free Languages: Grammars and Pushdown Automata, Turing Machines, Undecidability"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιείται η πλατφόρμα e-learning (moodle) για τη διάθεση του μαθήματος μέσω διαδικτύου και για την επικοινωνία με τους φοιτητές. Επίσης, οι παραδόσεις γίνονται με χρήση εποπτικών μέσων διδασκαλίας (ηλεκτρονικές διαφάνειες).  ",
+                    "en": "The course material is offered in Internet through the (moodle) software e-learning platform, which is also used for communicating with the students. The lectures take place by audiovisual teaching aids (electronic slides). "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "112",
+                        "credits": "3.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "13",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Οι φοιτητές αξιολογούνται με βάση τις απαντήσεις τους σε υποχρεωτικές διαδραστικές ασκήσεις (10 %) και την επίδοσή τους στην τελική γραπτή εξέταση (90 %). Η φοίτησή τους είναι επιτυχής, εφόσον ο σταθμισμένος μέσος όρος των τριών δοκιμασιών αντιστοιχεί σε προβιβάσιμο βαθμό (5). Η ανακοίνωση των κριτηρίων αξιολόγησης, της προόδου και των επιδόσεων των φοιτητών γίνεται στην πλατφόρμα e-learning.",
+                    "en": "The students are evaluated based on their answers to a mandatory interactive test (10 %) and their performance in the final written exam (90 %). Their study is successful if the weighted average is a promotable grade (5). The evaluation criteria, the mid-term exam and the results for the students' performance will be announced in the (moodle) software e-learning platform."
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. H.R. Lewis, Χ. Παπαδημητρίου, \"Στοιχεία θεωρίας υπολογισμού\", 1η έκδοση/2005, Εκδόσεις Κριτική, ISBN: 978-960-218-397-7\r\nΚωδικός Βιβλίου στον Εύδοξο: 11776\r\n2. M. Sipser, \"Εισαγωγή στη Θεωρία Υπολογισμού\", 1η έκδοση/2009, Εκδόσεις ΙΤΕ-Πανεπιστημιακές Εκδόσεις Κρήτης, ISBN: 978-960-524-243-5\r\nΚωδικός Βιβλίου στον Εύδοξο: 257",
+                "additional_bibliography_for_study": "1. Π. Κατσαρός, \"Θεωρία Υπολογισμού και Εφαρμογές\", 2015, Αποθετήριο Κάλλιπος, https://repository.kallipos.gr/handle/11419/5744\r\n2. E. Rich, \"Automata, Computability and Complexity: Theory and Applications\", 1st edition/2007, Prentice Hall, ISBN: 978-0132288064\r\n3. J. E. Hopcroft, R. Motwani, J. D. Ullman, \"Introduction to Automata Theory, Languages, and Computation\", 3rd edition/2006, Prentice Hall, ISBN: 978-0321455369"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004959"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8083"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. H.R. Lewis, Χ. Παπαδημητρίου, \"Στοιχεία θεωρίας υπολογισμού\", 1η έκδοση/2005, Εκδόσεις Κριτική, ISBN: 978-960-218-397-7\r\nΚωδικός Βιβλίου στον Εύδοξο: 11776\r\n2. M. Sipser, \"Εισαγωγή στη Θεωρία Υπολογισμού\", 1η έκδοση/2009, Εκδόσεις ΙΤΕ-Πανεπιστημιακές Εκδόσεις Κρήτης, ISBN: 978-960-524-243-5\r\nΚωδικός Βιβλίου στον Εύδοξο: 257",
+            "additional": "1. Π. Κατσαρός, \"Θεωρία Υπολογισμού και Εφαρμογές\", 2015, Αποθετήριο Κάλλιπος, https://repository.kallipos.gr/handle/11419/5744\r\n2. E. Rich, \"Automata, Computability and Complexity: Theory and Applications\", 1st edition/2007, Prentice Hall, ISBN: 978-0132288064\r\n3. J. E. Hopcroft, R. Motwani, J. D. Ullman, \"Introduction to Automata Theory, Languages, and Computation\", 3rd edition/2006, Prentice Hall, ISBN: 978-0321455369"
+        }
+    },
+    "winter": false,
+    "period": 2
+}

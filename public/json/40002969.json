@@ -1,0 +1,209 @@
+{
+    "coursecode": "NIS-07-04",
+    "AltKey": "NIS-07-04",
+    "title": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΤΑΥΤΟΧΡΟΝΙΣΜΟΥ ΚΑΙ ΑΣΦΑΛΕΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+    "titleEN": "CONCURRENCY AND SECURITY IN SOFTWARE",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155573,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΤΑΥΤΟΧΡΟΝΙΣΜΟΥ ΚΑΙ ΑΣΦΑΛΕΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+                    "en": "CONCURRENCY AND SECURITY IN SOFTWARE"
+                },
+                "course_code": "NIS-07-04",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Παναγιώτης Κατσαρός"
+            },
+            "class_info": {
+                "class_title": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΤΑΥΤΟΧΡΟΝΙΣΜΟΥ ΚΑΙ ΑΣΦΑΛΕΙΑ ΛΟΓΙΣΜΙΚΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Κατσαρός Παναγιώτης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004917"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8167"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Το μάθημα είναι αυτοτελές. Παρόλα αυτά, είναι απαραίτητο να προϋπάρχει εμπειρία προγραμματισμού σε γλώσσα υψηλού επιπέδου. ",
+                    "en": "The course is self-contained. However, it is essential for the student to have programming experience in a high-level language."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Οι φοιτητές αναμένεται ότι στα πλαίσια του μαθήματος θα\r\n• μάθουν να αναπτύσσουν προγράμματα ταυτοχρονισμού\r\n• μπορούν να επαληθεύσουν προγράμματα ταυτοχρονισμού ως προς την ορθότητά τους\r\n• μπορούν να διατυπώνουν αλγόριθμους επίλυσης προβλημάτων σε κατανεμημένα συστήματα με βάση θεμελιώδη κριτήρια ορθότητας   \r\n• εξοικειωθούν με τον προγραμματισμό μηχανισμών ασφάλειας λογισμικού\r\n• εξοικειωθούν με προβλήματα ασφάλειας εφαρμογών λογισμικού",
+                "en": "The students who will attend the course are expected to\r\n• learn how to develop concurrent programs\r\n• be able to verify the correctness of concurrent programs\r\n• develop algorithms for problems encountered in distributed systems, based on fundamental correctness criteria   \r\n• familiarize themselves with the programming of software security mechanisms\r\n• familiarize themselves with the problems of software application security"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αποτίμηση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "A Μέρος - Προγραμματισμός Ταυτοχρονισμού:\r\nΤαυτοχρονισμός στις γλώσσες προγραμματισμού (ατομικές εντολές, παρεμβολή, ορθότητα), Πρόβλημα του Κρίσιμου Τομέα, Επαλήθευση προγραμμάτων ταυτοχρονισμού, Προηγμένοι αλγόριθμοι για το πρόβλημα του Κρίσιμου Τομέα, Σηματοφορείς, Επιτηρητές, Κανάλια, Χώροι πλειάδων, Κατανεμημένοι αλγόριθμοι, Καθολικές ιδιότητες, Κοινή συναίνεση, Συστήματα πραγματικού χρόνου\r\n\r\nB Μέρος - Ασφάλεια Λογισμικού:\r\nΜηχανισμοί ασφάλειας, Πάροχοι ασφάλειας, Λίστες ελέγχου προσπέλασης, Συνόψεις μηνυμάτων, Κρυπτογραφία, Ψηφιακές υπογραφές, Ψηφιακά πιστοποιητικά, Αρχιτεκτονική ασφάλειας της Java, Ασφάλεια εφαρμογών λογισμικού",
+                    "en": "Part A - Concurrent Programming:\r\nConcurrency in programming languages (atomic statements, interleaving, correctness), The Critical Section problem, Verification of concurrent programs, Advanced algorithms for the Critical Section problem, Semaphores, Monitors, Channels, Spaces, Distributed algorithms, Global properties, Consensus, Real-Time Systems\r\n\r\nPart B - Software Security:\r\nSecurity mechanisms, Security providers, Access Control Lists, Message Digests, Cryptography, Digital signatures, Digital certificates, Java security architecture, Software application security"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιείται η πλατφόρμα e-learning (moodle) για τη διάθεση του μαθήματος μέσω διαδικτύου και για την επικοινωνία με τους φοιτητές. Επίσης, οι παραδόσεις γίνονται με χρήση εποπτικών μέσων διδασκαλίας (ηλεκτρονικές διαφάνειες).  ",
+                    "en": "The course material is offered in Internet through the (moodle) software e-learning platform, which is also used for communicating with the students. The lectures take place by audiovisual teaching aids (electronic slides). "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "95",
+                        "credits": "3.167",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Οι φοιτητές αξιολογούνται με βάση την επίδοσή τους σε υποχρεωτική γραπτή εργασία (30 %) και την επίδοσή τους στην τελική γραπτή εξέταση (70 %) και η φοίτησή τους είναι επιτυχής, εφόσον ο σταθμισμένος μέσος όρος των δύο αντιστοιχεί σε προβιβάσιμο βαθμό (5). Η ανακοίνωση των κριτηρίων αξιολόγησης, της εργασίας και των επιδόσεων των φοιτητών γίνεται στην πλατφόρμα e-learning. ",
+                    "en": "The students are evaluated based on their performance in a mandatory written assignment (30 %) and their performance in the final written exam (70 %) and their study is successful if the weighted average is a promotable grade (5). The evaluation criteria, the written assignment and the results for the students' performance will be announced in the (moodle) software e-learning platform. "
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. M. Ben-Ari, \"Αρχές Προγραμματισμού με Ταυτοχρονισμό και Κατανομή Λογισμικού\", 2η έκδοση/2015, Εκδόσεις Τζιόλας, ISBN: 978-960-418-591-7 \r\nΚωδικός Βιβλίου στον Εύδοξο: 50655947\r\n2. Ι.Κ.Κάβουρας, Ι.Ζ.Μήλης, Γ.Β.Ξυλωμένος, Α.Α.Ρουκουνάκη, \"Κατανεμημένα Συστήματα με Java\", Συστήματα Υπολογιστών - Τόμος ΙΙΙ, 3η έκδοση/2011, Εκδόσεις Κλειδάριθμος, ISBN: 978-960-461-463-9\r\nΚωδικός Βιβλίου στον Εύδοξο: 12533080",
+                "additional_bibliography_for_study": "1. M. Herlihy and N. Shavit, \"The art of multiprocessor programming\", Morgan Kauffman, 2008\r\n2. G. Taubenfeld, \"Synchronization Algorithms and Concurrent Programming\", Pearson / Prentice Hall, 2006\r\n3. N.Lynch, \"Distributed Algorithms\", Morgan Kauffman, 1996\r\n4. S. Oaks,\"Java Security\", O'Reilly, 1998"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004917"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8167"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. M. Ben-Ari, \"Αρχές Προγραμματισμού με Ταυτοχρονισμό και Κατανομή Λογισμικού\", 2η έκδοση/2015, Εκδόσεις Τζιόλας, ISBN: 978-960-418-591-7 \r\nΚωδικός Βιβλίου στον Εύδοξο: 50655947\r\n2. Ι.Κ.Κάβουρας, Ι.Ζ.Μήλης, Γ.Β.Ξυλωμένος, Α.Α.Ρουκουνάκη, \"Κατανεμημένα Συστήματα με Java\", Συστήματα Υπολογιστών - Τόμος ΙΙΙ, 3η έκδοση/2011, Εκδόσεις Κλειδάριθμος, ISBN: 978-960-461-463-9\r\nΚωδικός Βιβλίου στον Εύδοξο: 12533080",
+            "additional": "1. M. Herlihy and N. Shavit, \"The art of multiprocessor programming\", Morgan Kauffman, 2008\r\n2. G. Taubenfeld, \"Synchronization Algorithms and Concurrent Programming\", Pearson / Prentice Hall, 2006\r\n3. N.Lynch, \"Distributed Algorithms\", Morgan Kauffman, 1996\r\n4. S. Oaks,\"Java Security\", O'Reilly, 1998"
+        }
+    },
+    "winter": true,
+    "period": 7
+}

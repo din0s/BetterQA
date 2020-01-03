@@ -1,0 +1,239 @@
+{
+    "coursecode": "NNA-06-02",
+    "AltKey": "NNA-06-02",
+    "title": "ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ",
+    "titleEN": "MANAGEMENT OF COMPUTER NETWORKS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155630,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ",
+                    "en": "MANAGEMENT OF COMPUTER NETWORKS"
+                },
+                "course_code": "NNA-06-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Αμαλία Μήλιου"
+            },
+            "class_info": {
+                "class_title": "ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Μήλιου Αμαλία"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600005008"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Δίκτυα Η/Υ, Καλή γνώση της αγγλικής γλώσσας.",
+                    "en": "Computer Networks, Good level of English."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Εισαγωγή στη διαχείριση δικτύων και στους στόχους της. Σχετικά πρωτόκολλα επικοινω-\r\nνιών: SNMP για TCP/IP και CMIP/CMIS για το πρότυπο της OSI. Εισαγωγή στην αρχιτε-\r\nκτονική TMN για την πολλαπλής στάθμης διαχείριση των δικτύων επικοινωνίας. Ο φοιτητής\r\nθα αποκτήσει μια συνολική εικόνα των μεθόδων που χρησιμοποιούνται για την\r\nπαρακολούθηση, τη διαχείριση και τον έλεγχο των δικτύων υπολογιστών και επικοινωνίας με\r\nτη βοήθεια συγκεκριμένων πρωτοκόλλων. Εργαστηριακή άσκηση. Αναζήτηση των βιβλιογραφικών πληροφοριών.\r\nΕξοικειωθείτε στις προφορικές παρουσιάσεις των προγραμμάτων. Αναζήτηση\r\nβιβλιογραφικών πληροφοριών. Παρουσίαση εργασίας (ικανότητα επικοινωνίας, σωστή χρήση\r\nτεχνικών παρουσίασης, εξοικείωση με ερωτήσεις από το κοινό).",
+                "en": "General introduction to network administration and management and its objectives. Relevant communications protocols: SNMP for TCP/IP and CMIP/CMIS for the OSI model. Introduction to TMN architecture for multi-level administration of communication networks. The aim of the course is to provide the student with a general overview of the methods used to plan, manage and audit communication networks by means of protocols specifically applied to these tasks. Search of bibliographic information. Familiarize themselves in oral presentations of projects."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση"
+                ],
+                "Psychomotor Domain": [
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Διαχείριση επικοινωνιακών δικτύων. Η διαχειριστική προσέγγιση TCP/IP και OSI. (NMF,\r\nSNMP, SNMPv.2, CMIP, CMISE), Λειτουργικές περιοχές διαχείρισης. Αντικειμενοστραφής\r\nμοντελοποίηση. Βάσεις πληροφορίας διαχείρισης (ΜΙΒ). Διαχείριση Τοπικών δικτύων. Δια-\r\nχείριση δικτύων ΙΡ, ευρυζωνικών δικτύων (ΑΤΜ). Δίκτυα διαχείρισης τηλεπικοινωνιών\r\n(ΤΜΝ). Διαχείριση μέσω προγραμμάτων πλοήγησης. Η τεχνητή νοημοσύνη και τα έμπειρα\r\nσυστήματα στη διαχείριση δικτύων. Λογισμικό διαχείρισης δικτύων.",
+                    "en": "Management of Communication Systems. The management approach for TCP/IP and OSI\r\n(NMF, SNMP, SNMPv.2, CMIP, CMISE) . Functional Areas of management. Objectoriented\r\nmodelling. Management Information Bases (MIBs) . Management via browsers. Artificial intelligence and expert systems in network management. Software for network management."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "H/Y και λογισμικό για εργαστηριακές ασκήσεις και laptop και προβολικό για τη διδασκαλία του μαθήματος.",
+                    "en": "PC and software use for the lab exercises and use of laptop and data projector for teaching the course."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "30",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "22",
+                        "workload": "22",
+                        "credits": "0.734",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "50",
+                        "credits": "1.667",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "20",
+                        "credits": "0.667",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "28",
+                        "credits": "0.934",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Τελική εξέταση και βαθμός εκπόνησης μελέτης.\r\nΕναλλακτική αξιολόγηση από το εξεταζόμενο εργαστήριο και την εκπόνηση μελέτης.",
+                    "en": "The student assessment is based on final written exams, laboratory exams and project."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "-1": {
+                        "name": "Άλλη / Άλλες",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Α. Μήλιου, Π.Νικοπολιτίδης, Α.Πομπόρτσης, “Διαχείριση Δικτύων Η/Υ”, Εκδόσεις\r\nΤζιόλα, 2007.",
+                "additional_bibliography_for_study": "1.\t“SNMP, SNMPv2, SNMPv3 and RMON 1 and 2”, William Stallings, Third edition, Addison Wesley.\r\n2.\t“Network Management-Principles and Practice”, Mani Subramanian, Addison Wesley.\r\n3.\t“Effective Management of Local Area Networks”, Kornel Terplan, McGraw-Hill Series on Computer Communications.\r\n4.\t“Διαχείριση Δικτύων Τηλεπικοινωνιών”, Ε. Οικονόμου, New Type.\r\n5.\t“Total SNMP”, Sean Harnedy, McGraw-Hill."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600005008"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Α. Μήλιου, Π.Νικοπολιτίδης, Α.Πομπόρτσης, “Διαχείριση Δικτύων Η/Υ”, Εκδόσεις\r\nΤζιόλα, 2007.",
+            "additional": "1.\t“SNMP, SNMPv2, SNMPv3 and RMON 1 and 2”, William Stallings, Third edition, Addison Wesley.\r\n2.\t“Network Management-Principles and Practice”, Mani Subramanian, Addison Wesley.\r\n3.\t“Effective Management of Local Area Networks”, Kornel Terplan, McGraw-Hill Series on Computer Communications.\r\n4.\t“Διαχείριση Δικτύων Τηλεπικοινωνιών”, Ε. Οικονόμου, New Type.\r\n5.\t“Total SNMP”, Sean Harnedy, McGraw-Hill."
+        }
+    },
+    "winter": false,
+    "period": 6
+}

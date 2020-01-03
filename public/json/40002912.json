@@ -1,0 +1,237 @@
+{
+    "coursecode": "NCO-01-05",
+    "AltKey": "NCO-01-05",
+    "title": "ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+    "titleEN": "BASIC PROGRAMMING PRINCIPLES",
+    "units": 7,
+    "ects": 9,
+    "classID": 600155586,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "en": "BASIC PROGRAMMING PRINCIPLES"
+                },
+                "course_code": "NCO-01-05",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Δημήτριος Βράκας"
+            },
+            "class_info": {
+                "class_title": "ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Βράκας Δημήτριος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004870"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/course-info.php?id=5"
+                },
+                {
+                    "label": "Άλλη 1: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=25"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Εξοικείωση με τις αρχές των αλγορίθμων, Ευχέρεια στη χρήση Η/Υ",
+                    "en": "Familiarization with the principles of algorithms, Fluency in using computers."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Κατανόηση των βασικών αρχών και εννοιών του δομημένου προγραμματισμού (μεταβλητές, δομές, εντολές ελέγχου & επανάληψης, συναρτήσεις, αναδρομή κ.α.). Χρήση ολοκληρωμένων εργαλείων για την ανάπτυξη, αποσφαλμάτωση και εκτέλεση προγραμμάτων. Προγραμματισμός με βάση τις αρχές του δομημένου προγραμματισμού (σε γλώσσα C). Εμβάθυνση στον δομημένο προγραμματισμό. Κατανόηση σύνθετων εννοιών του δομημένου προγραμματισμού (δείκτες, δυναμική διαχείριση μνήμης, δομές δεδομένων, κ.α.).",
+                "en": "Understanding of structural programming basic principles and concepts (variables, structures, control and loop statements, functions, recursion etc.). Using integrated tools for the development, debugging and execution of computer programs. Programming, based on the principles of structured programming (in C language). Acquiring good level of knowledge on structural programming. Understanding complex programming concepts (pointers, dynamic memory management, data structures, etc.). "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 4",
+                "Competence": "Επίπεδο 3",
+                "Skills": "Επίπεδο 4"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικές αρχές δομημένου προγραμματισμού: Σχεδίαση, υλοποίηση, διόρθωση και τεκμηρίωση προγραμμάτων, τύποι δεδομένων, έλεγχος ροής προγράμματος. Η γλώσσα προγραμματισμού C: βασικές εντολές εισόδου/εξόδου, εντολές ελέγχου και επανάληψης, πίνακες, διαδικασίες και συναρτήσεις και ο ρόλος τους στη δομή ενός προγράμματος. Αναδρομικοί αλγόριθμοι. Δομημένοι τύποι δεδομένων. Δείκτες στην γλώσσα C. Αρχεία και επεξεργασία τους. Δείκτες και δυναμικές δομές δεδομένων. Δείκτες και συναρτήσεις. Δείκτες και πίνακες. Δείκτες και αλφαριθμητικά. Αριθμητική διευθύνσεων. Δυναμική διαχείριση μνήμης. Δείκτες και πολυδιάστατοι πίνακες. Δομές, συναρτήσεις και δομές. Δείκτες σε δομή. Πίνακες Δομών.",
+                    "en": "Design, implementation, debugging and documentation of computer programs, data types, program flow control. The C programming language: simple input/output functions, control and loop statements, single and multi dimensional arrays, functions, recursive algorithms. Structured data types Handling of pointers in C. Pointers and dynamic data structures. Pointers and functions. Pointers and Arrays. String handling in C. Dynamic memory allocation. Pointers and multi dimensional arrays. Pointers and structs."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "3": "Βιντεοδιαλέξεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Ηλεκτρονικές Διαφάνειες Μαθήματος, Βιντεοπαρουσιάσεις, Σύστημα Ηλεκτρονικής Υποβοήθησης Διδασκαλίας Moodle",
+                    "en": "Slides in electronic format, projection of video-tutorials. Teaching aiding software Moodle."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "78",
+                        "workload": "90",
+                        "credits": "3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "26",
+                        "workload": "60",
+                        "credits": "2",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "90",
+                        "credits": "3",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις μαθήματος (ποσοστό 40%), Εργαστήρια Μαθήματος (ποσοστό 50%), Προγραμματιστική εργασία (ποσοστό 10%)",
+                    "en": "Final Examination (40%), Laboratory Exercise (50%), Programming Project (10%)"
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1.  Η γλώσσα C σε βάθος, 3η έκδοση, Ν. Χατζηγιαννάκης, Κλειδάριθμος, ISBN 9789604612086 \r\n2.  Διαδικαστικός προγραμματισμός - C, Κ. Θραμπουλίδης, ΤΖΙΟΛΑΣ, ISBN: 9789608050792",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004870"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/course-info.php?id=5"
+            },
+            {
+                "title": "Άλλη 1: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=25"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1.  Η γλώσσα C σε βάθος, 3η έκδοση, Ν. Χατζηγιαννάκης, Κλειδάριθμος, ISBN 9789604612086 \r\n2.  Διαδικαστικός προγραμματισμός - C, Κ. Θραμπουλίδης, ΤΖΙΟΛΑΣ, ISBN: 9789608050792",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 1
+}

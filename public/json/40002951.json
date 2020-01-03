@@ -1,0 +1,275 @@
+{
+    "coursecode": "NET-06-03",
+    "AltKey": "ΝΕΤ-06-03",
+    "title": "ΘΕΩΡΙΕΣ ΜΑΘΗΣΗΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ",
+    "titleEN": "LEARNING THEORIES & EDUCATIONAL SOFTWARE",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155635,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΘΕΩΡΙΕΣ ΜΑΘΗΣΗΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ",
+                    "en": "LEARNING THEORIES & EDUCATIONAL SOFTWARE"
+                },
+                "course_code": "NET-06-03",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Σταύρος Δημητριάδης"
+            },
+            "class_info": {
+                "class_title": "ΘΕΩΡΙΕΣ ΜΑΘΗΣΗΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Δημητριάδης Σταύρος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600005019"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": ""
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8144"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Καμία.",
+                    "en": "None. "
+                }
+            },
+            "learning_outcomes": {
+                "el": "1) Κατανόηση των σύγχρονων επιστημονικών θεωριών μάθησης και της επίδρασής τους στη σχεδίαση εκπαιδευτικού λογισμικού. \r\n2) Εμβάθυνση στα λειτουργικά και δομικά χαρακτηριστικά των διαφόρων κατηγοριών λογισμικών (όπως αρχιτεκτονική, διεπαφή, κλπ.) και συσχέτισή τους με τις θεωρίες μάθησης και τα αντίστοιχα διδακτικά μοντέλα.\r\n3) Εκμάθηση της γλώσσας προγραμματισμού Python για την ανάπτυξη διαδραστικού πολυμεσικού λογισμικού. ",
+                "en": "1) Understanding of contemporary scientific learning theories and their impact on the design of\r\neducational software.\r\n2) Elaboration in the operational and structural features of various types of software (architecture, user interface, etc.) and their relation to learning theories and respective didactic models. \r\n3) Learning the Python programming language for developing interactive multimedia software. "
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Μίμηση",
+                    "Χειρισμός",
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "(α) Θεωρίες Μάθησης\r\nΒασικές έννοιες και ορισμοί: Νόηση και Μάθηση, Αναπαράσταση, Μάθηση και Εκπαίδευση, Θεωρία Μάθησης και Διδακτικό Μοντέλο, Τεχνολογία & Τεχνολογικά Ενισχυόμενη Μάθηση, Θεωρίες Μάθησης & Εκπαιδευτικό Λογισμικό. \r\nΣυμπεριφορισμός: Ιστορικά στοιχεία, Συντελεστική εξάρτηση, Επίδραση στην εκπαιδευτική τεχνολογία, Προγραμματισμένη διδασκαλία, Λογισμικά \"Drill 'n' Practice\")\r\nΓνωσιακές θεωρίες: Ιστορικά στοιχεία, Η Αναπαραστασιακή Θεώρηση & Θεωρία Επεξεργασίας Πληροφορίας, Γνωσιακές Θεωρίες και Σχεδίαση Εκπαιδευτικού Λογισμικού, Θεωρία Γνωσιακής Ευελιξίας, Θεωρία διπλής κωδικοποίησης και Πολυμεσική μάθηση. \r\nΕποικοδομισμός: Ιστορικά στοιχεία, Ανακαλυπτική/Διερευνητική μάθηση, Λογισμικά τύπου προσομοίωσης, μικρόκοσμου & μοντελοποίησης, Διερευνητική μάθηση με χρήση προσομοιώσεων.\r\nΚοινωνικός εποικοδομισμός: Κοινωνιο-πολιτισμική θεώρηση, Ζώνη επικείμενης ανάπτυξης, Συνεργατική μάθηση με την Υποστήριξη Υπολογιστή (ΣΜΥΥ), Τεχνολογίες Μαθησιακής Σχεδίασης (Learning Design).\r\nΚονεκτιβισμος: Συμμετοχικός Ιστός 2.0. Κοινωνικά δίκτυα και μάθηση/εκπαίδευση. Wikis, Ιστολόγια (Blogs) και εκπαιδευτική χρήση. Μάθηση με φορητές συσκευές.\r\nΚονστραξιονισμός: Εμπειρική μάθηση, Papert & Logo-like εργαλεία, Εκπαιδευτική ρομποτική, Παιχνιδοκεντρική μάθηση (ψηφιακά παιχνίδια, παιχνιδοποίηση).         \r\n     \r\n(β) Εργαστήριο\r\nΒασική Python: Χαρακτηριστικά της γλώσσας και μοντέλο εκτέλεσης κώδικα), Μεταβλητές, Βασικές δομές προγραμματισμού (if, while, for), βασικές δομές δεδομένων (list, dictionary, tuple, set), Συναρτήσεις, Διαχείριση αρχείων, Διαχείριση εξαιρέσεων.\r\nΠροχωρημένη Python: Αντικειμενοστρεφής προγραμματισμός (κλάσεις, αντικείμενα), Σύνδεση με εξωτερικές βιβλιοθήκες, Πολυμεσικές διαδραστικές εφαρμογές με Pygame. \r\n",
+                    "en": "(a) Learning Theories\r\nBasic concepts and definitions: Cognition and Learning, Representation, Learning and Education, Learning Theories and Didactic Model, Technology and Technology-enhanced learning, Learning Theories and Educational Software, \r\nBehaviorism: Historical background, Operational conditioning, Impact on educational technology, Programmed instruction, \"Drill 'n' Practice\" software. \r\nCognitive Theories: Historical background, Representational approach and Information Processing Theory, Cognitive theories and Educational Software Design, Cognitive Flexibility Theory, Double Coding Theory and Multimedia Learning. \r\nConstructivism, Historical background, Discovery/Inquiry Learning, Educational simulation software, Microworld and Modeller, Inquiry learning with simulation software. \r\nSocial constructivism: Socio-cultural approach, Zone of proximal development, Computer-supported Collaborative Learning (CSCL), Learning Design Tools.\r\nConnectivism: Participatory Web 2.0, Social networks and learning/education, Wikis, Blogs and educational use, Mobile learning (m-learning).\r\nConstructionism: Experiential learning, Papert and Logo-like tools, Educational Robotics, Game-based learning (digital games, gamification).\r\n\r\n(b) Programming Lab\r\nBasic Python: Basic programming language features and execution model), Variables, Basic programming structures (if, while, for), Basic data structures (list, dictionary, tuple, set), Functions, File handling, Exception handling. \r\nAdvanced Python: Object-oriented programming (classes and object/instances), Linking to external libraries, Multimedia interactive applications using the Pygame library.   "
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Συνεχής και εκτεταμένη: Γίνεται χρήση ιστοχώρου για την επικοινωνία και διαμοίραση ψηφιακού μαθησιακού υλικού.  - Εκμάθηση γλωσσών προγραμματισμού πολυμεσικής εφαρμογής. Γίνεται χρήση interactive Google forms για την online εξάσκηση των φοιτητών στα θέματα του μαθήματος μέσω ερωτηματολογίων με ερωτήματα κλειστού τύπου.  ",
+                    "en": "Continuous and extended use of ICT: Use of course web site to communicate with students and disseminate learning material. Multimedia programming learning. Use of interactive Google forms for delivering online student quizzes to familiarize students with course content. "
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "13",
+                        "credits": "0.433",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "α. Περιγραφή της διαδικασίας\r\n(1) Γραπτές εξετάσεις (50%): αξιολογούνται οι βασικές θεωρητικές γνώσεις των φοιτητών. Χρησιμοποιούνται ερωτήσεις κλειστού τύπου (πολλαπλών επιλογών, αντιστοίχισης, κλπ.) και ανοικτού τύπου (σύντομης απάντησης και ανάπτυξης). Παρόμοιες ερωτήσεις χρησιμοποιούνται για τη διαμορφωτική αξιολόγηση των φοιτητών (σε κάθε διάλεξη με χρήση κατάλληλων φύλλων ερωτημάτων).\r\n(2) Quiz Python (20%):  αξιολογείται η γνώση της βασικής Python.  \r\n(3) Εργασία προγραμματισμού (ανάπτυξη εφαρμογής σε γλώσσα Python) (30%): Αξιολογείται η ικανότητα των φοιτητών να ανπτύξουν σύνθετο λογισμικό με χρήση της γλώσσας προγραμματισμού Python.\r\n\r\nΤα κριτήρια αξιολόγησης παρουσιάζονται αναλυτικά στον οδηγό εργασίας του μαθήματος\r\nπου είναι διαθέσιμος στο δικτυακό τόπο του μαθήματος.\r\n\r\nβ. Μέθοδοι αξιολόγησης\r\n Δοκιμασία Πολλαπλής Επιλογής για βελτίωση και βαθμολόγηση\r\n Ερωτήσεις Σύντομης Απάντησης για βελτίωση και βαθμολόγηση\r\n Ερωτήσεις Ανάπτυξης Δοκιμίου για βελτίωση και βαθμολόγηση\r\n Γραπτή Εργασία για βαθμολόγηση (συμπερασματική)\r\n Έκθεση για Εργαστηριακή Άσκηση για βελτίωση και βαθμολόγηση",
+                    "en": "(1) Written exams to assess students' course conceptual knowledge. \r\n(2) Quiz Python to assess students' basic Python programming knowledge.\r\n(3) Project Python to assess students' advanced Python understanding and software development skills. \r\n"
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": ">> «Θεωρίες Μάθησης και Εκπαιδευτικό Λογισμικό», Στ. Δημητριάδης, Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2013. \r\nΑπό το 2016 το ανωτέρω βιβλίο είναι δωρεάν διαθέσιμο σε ψηφιακή μορφή μέσω του προγράμματος 'ΚΑΛΛΙΠΟΣ\".",
+                "additional_bibliography_for_study": "> Σημειώσεις του διδάσκοντος για την εκμάθηση της γλώσσας προγραμματισμού Python. \r\n> Κεφάλαια άλλων βιβλίων (διαθέσιμα σε ψηφιακή μορφή) και διαφάνειες μαθήματος."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600005019"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": ""
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8144"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": ">> «Θεωρίες Μάθησης και Εκπαιδευτικό Λογισμικό», Στ. Δημητριάδης, Εκδόσεις Τζιόλα, Θεσσαλονίκη, 2013. \r\nΑπό το 2016 το ανωτέρω βιβλίο είναι δωρεάν διαθέσιμο σε ψηφιακή μορφή μέσω του προγράμματος 'ΚΑΛΛΙΠΟΣ\".",
+            "additional": "> Σημειώσεις του διδάσκοντος για την εκμάθηση της γλώσσας προγραμματισμού Python. \r\n> Κεφάλαια άλλων βιβλίων (διαθέσιμα σε ψηφιακή μορφή) και διαφάνειες μαθήματος."
+        }
+    },
+    "winter": false,
+    "period": 6
+}

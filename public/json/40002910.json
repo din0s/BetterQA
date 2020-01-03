@@ -1,0 +1,186 @@
+{
+    "coursecode": "NCO-01-03",
+    "AltKey": "NCO-01-03",
+    "title": "ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ",
+    "titleEN": "LINEAR ALGEBRA",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155595,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ",
+                    "en": "LINEAR ALGEBRA"
+                },
+                "course_code": "NCO-01-03",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Κωνσταντίνος Δραζιώτης"
+            },
+            "class_info": {
+                "class_title": "ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Δραζιώτης Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004868"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6448"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Στο μάθημα αυτό, ο φοιτητής θα μάθει έννοιες και μεθόδους της γραμμικής άλγεβρας και πως να τις χρησιμοποιεί σε προβλήματα που προέρχονται από την επιστήμη των υπολογιστών. Ο φοιτητής θα γράψει μικρά προγράμματα σε ψευδοκώδικα που υλοποιούν βασικές διαδικασίες της γραμμικής άλγεβρας.",
+                "en": "In this cource, the student will learn the concepts and methods of linear algebra, and how to use them to think about problems arising in computer science. The student will write small programs in pseudocode to implement basic tasks of linear algebra."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Εφαρμογή",
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Γραμμικά συστήματα εξισώσεων. Πράξεις με Πίνακες. Αντίστροφος πίνακας. Απαλοιφή Gauss. Διανυσματικοί χώροι και υπόχωροι. Γραμμική εξάρτηση και ανεξαρτησία . Βάση διανυσματικού χώρου και διάσταση. Γραμμικές απεικονίσεις.\r\nΟρθοκανονικοποίηση των Gram-Schimdt. Ορίζουσες και υπολογισμός αντίστροφου πίνακα. Ιδιοτιμές και Ιδιοδιανύσματα.\r\nΔιαγωνοποίηση. Θεώρημα Cayley-Hamilton, SVD.",
+                    "en": "Linear systems of equations. Matrix operations. Inverse Matrix. Gaussian Elimination. Vectos spaces and subspaces. Linear dependence and indepedence.Base of vector space and dimension. Linear maps. Gram-Schmidt process. Determinants and inverse matrix. Eigenvalues and eigenvectors. Diagonalization of a matrix. Cayley-Hamilton Theorem, SVD."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "65",
+                        "credits": "2.167",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "30",
+                        "credits": "1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Το μάθημα έχει δύο γραπτές προόδους οι οποίες είναι απαλλακτικές για την εξέταση του μαθήματος",
+                    "en": "The cource has two tests which allow the student to pass the cource."
+                },
+                "assessment_methods": []
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ ΚΑΙ ΕΦΑΡΜΟΓΕΣ, STRANG GILBERT, ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ.\r\n\r\n2. Εισαγωγή στη Γραμμική Άλγεβρα και Αναλυτική Γεωμετρία, Ιωαννίδου Θεοδώρα, ΕΚΔΟΣΕΙΣ Α. ΤΖΙΟΛΑ & ΥΙΟΙ Ο.Ε.\r\n\r\n3. Γραμμική Άλγεβρα (5η Έκδοση), Lipschutz Seymour,Lipson Marc Lars, ΕΚΔΟΣΕΙΣ Α. ΤΖΙΟΛΑ & ΥΙΟΙ Ο.Ε.",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004868"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6448"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ ΚΑΙ ΕΦΑΡΜΟΓΕΣ, STRANG GILBERT, ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ & ΕΡΕΥΝΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ.\r\n\r\n2. Εισαγωγή στη Γραμμική Άλγεβρα και Αναλυτική Γεωμετρία, Ιωαννίδου Θεοδώρα, ΕΚΔΟΣΕΙΣ Α. ΤΖΙΟΛΑ & ΥΙΟΙ Ο.Ε.\r\n\r\n3. Γραμμική Άλγεβρα (5η Έκδοση), Lipschutz Seymour,Lipson Marc Lars, ΕΚΔΟΣΕΙΣ Α. ΤΖΙΟΛΑ & ΥΙΟΙ Ο.Ε.",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 1
+}

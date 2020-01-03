@@ -1,0 +1,223 @@
+{
+    "coursecode": "NCO-04-01",
+    "AltKey": "NCO-04-01",
+    "title": "ΣΧΕΔΙΑΣΗ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+    "titleEN": "PROGRAMMING LANGUAGE DESIGN",
+    "units": 5,
+    "ects": 7,
+    "classID": 600155616,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΣΧΕΔΙΑΣΗ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                    "en": "PROGRAMMING LANGUAGE DESIGN"
+                },
+                "course_code": "NCO-04-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Γεωργιος Μακρης"
+            },
+            "class_info": {
+                "class_title": "ΣΧΕΔΙΑΣΗ ΓΛΩΣΣΩΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ",
+                "academic_year": "2016 – 2017",
+                "class_period": "Εαρινή",
+                "instructors": "Κατσαρός Παναγιώτης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600039822"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8084"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Είναι επιθυμητό να προϋπάρχει επαρκής γνώση βασικών αποτελεσμάτων της Θεωρίας Υπολογισμού.",
+                    "en": "Sufficient knowledge of the basic results of the Theory of Computation is required."
+                }
+            },
+            "learning_outcomes": {
+                "el": "Οι φοιτητές αναμένεται ότι στα πλαίσια του μαθήματος θα\r\n• εξοικειωθούν με μία κριτική προσέγγιση των γλωσσών προγραμματισμού μέσα από τη συγκριτική ανάλυση των χαρακτηριστικών τους\r\n• κατανοήσουν τις αντικρουόμενες επιλογές σχεδίασης γλωσσών προγραμματισμού και το πώς αυτές επηρεάζουν την αποδοχή τους\r\n• κατανοήσουν τις τάσεις στη χρήση γλωσσών προγραμματισμού ώστε να είναι προετοιμασμένοι για νέες προγραμματιστικές μεθόδους, υποδείγματα και εργαλεία\r\n• γνωρίσουν όλο τον κύκλο σχεδίασης γλωσσών προγραμματισμού\r\n• αποκτήσουν εμπειρία υλοποίησης μεταγλωττιστή",
+                "en": "The students who will attend the course are expected to\r\n• familiarize themselves with a critical approach in programming languages ​​through the comparative analysis of their characteristics\r\n• understand the conflicting design options in programming languages ​​and how they can affect their acceptance\r\n• understand the trends in the use of programming languages, ​​in order to be prepared for new programming methods, paradigms and tools    \r\n• know the whole design cycle of programming languages\r\n• gain experience in compiler construction"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια",
+                    "Επιδεξιότητα",
+                    "Φυσικότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 4",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή, Γλώσσες με δομή block, Στατική και δυναμική εμβέλεια, Συναρτήσεις και υποπρογράμματα, Κανόνες εμβέλειας, Διαχείριση μνήμης, Λεξική δομή γλωσσών προγραμματισμού, Λεξική ανάλυση, Γεννήτριες κώδικα, Σύνταξη γλωσσών προγραμματισμού, Συντακτική ανάλυση: καθοδική και ανοδική, Σημασία γλωσσών προγραμματισμού: αξιωματική, δηλωτική και λειτουργική σημασία, Σημασιολογική ανάλυση: γραμματικές ιδιοτήτων και πίνακας συμβόλων, Παραγωγή-σύνθεση κώδικα: ενδιάμεσος κώδικας και κώδικας μηχανής, Συστήματα τύπων, Απεικόνιση τύπων και δεδομένων στη μνήμη",
+                    "en": "Introduction, Block-structured languages, Static and dynamic scope, Functions and procedures, Scoping rules, Memory management, Lexical structure of programming languages, Lexical analysis, Code generators, Programming language syntax, Syntax analysis: top-down and bottom-up, Programming language semantics: axiomatic, denotational and operational semantics, Semantic analysis: attribute grammars and symbol table, Code generation/synthesis: intermediate code and machine code, Type systems, Type and data representation"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "7": "Διαδραστικές ασκήσεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρησιμοποιείται η πλατφόρμα e-learning ΠΗΛΕΑΣ (moodle) για τη διάθεση του μαθήματος μέσω διαδικτύου και για την επικοινωνία με τους φοιτητές. Επίσης, οι παραδόσεις γίνονται με χρήση εποπτικών μέσων διδασκαλίας (ηλεκτρονικές διαφάνειες). ",
+                    "en": "The course material is offered in Internet through the PILEAS (moodle) software e-learning platform, which is also used for communicating with the students. The lectures take place by audiovisual teaching aids (electronic slides)."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "52",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "",
+                        "workload": "13",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 1
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "142",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 1
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Οι φοιτητές έχουν τη δυνατότητα να επιλέξουν την αξιολόγηση (α) με βάση την επίδοσή τους σε διαδραστικές ασκήσεις (10 %) και την επίδοσή τους στην τελική γραπτή εξέταση (90 %) ή εναλλακτικά (β) μπορούν να αναλάβουν την ανάπτυξη ενός πλήρους μεταγλωττιστή γλώσσας προγραμματισμού, που θα παρουσιάσουν σε προφορική εξέταση. Η φοίτησή τους είναι επιτυχής, εφόσον ο σταθμισμένος μέσος όρος των τριών δοκιμασιών ή η επίδοση της προφορικής εξέτασης αντιστοιχεί σε προβιβάσιμο βαθμό (5). Η ανακοίνωση των κριτηρίων αξιολόγησης, της προόδου, της εργασίας και των επιδόσεων των φοιτητών γίνεται στην πλατφόρμα e-learning.",
+                    "en": "The students can choose between (a) the evaluation based on their answers to an interactive test (10 %) and their performance in the final written exam (90 %) or alternatively (b) they can undertake a compiler construction project for a programming language and present it in an oral exam. Their study is successful if the weighted average of the three exams or their performance in the oral exam corresponds to a promotable grade (5). The evaluation criteria, the mid-term exam, the compiler construction project and the results for the students' performance will be announced in the moodle software e-learning platform."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Κ. Λάζος, Π. Κατσαρός, Ζ. Καραϊσκος, \"Μεταγλωττιστές Γλωσσών Προγραμματισμού: Θεωρία & Πράξη\", 3η έκδοση/2004, ISBN: 960-87723-4-6\r\nΚωδικός Βιβλίου στον Εύδοξο: 68383471\r\n2. R. W. Sebesta, \"Αρχές Γλωσσών Προγραμματισμού\", 11η έκδοση, Εκδόσεις Μ. Γκιούρδας, ISBN: 978-960-512-698-8, Κωδικός Βιβλίου στον Εύδοξο: 68369373",
+                "additional_bibliography_for_study": "1. K. C. Louden, K. A. Lambert, \"Programming Languages - Principles and Practice\", 3rd edition/2011, Cengage Learning, ISBN: 978-1111529413\r\n2. A. V. Aho, M. S. Lam, R. Sethi, J. D. Ullman, \"Compilers: Principles, Techniques, and Tools\", 2nd edition/2006, Addison Wesley, ISBN: 978-0321486813\r\n3. A. B. Tucker, R. E. Noonan, \"Programming Languages - Principles and Paradigms\", 2nd edition/2007, McGraw Hill, ISBN: 978-0071254397\r\n4. M. L. Scott, \"Πραγματολογία Γλωσσών Προγραμματισμού\", 2η έκδοση/2009, Εκδόσεις Κλειδάριθμος, ISBN: 978-960-461-230-7"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600039822"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8084"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Κ. Λάζος, Π. Κατσαρός, Ζ. Καραϊσκος, \"Μεταγλωττιστές Γλωσσών Προγραμματισμού: Θεωρία & Πράξη\", 3η έκδοση/2004, ISBN: 960-87723-4-6\r\nΚωδικός Βιβλίου στον Εύδοξο: 68383471\r\n2. R. W. Sebesta, \"Αρχές Γλωσσών Προγραμματισμού\", 11η έκδοση, Εκδόσεις Μ. Γκιούρδας, ISBN: 978-960-512-698-8, Κωδικός Βιβλίου στον Εύδοξο: 68369373",
+            "additional": "1. K. C. Louden, K. A. Lambert, \"Programming Languages - Principles and Practice\", 3rd edition/2011, Cengage Learning, ISBN: 978-1111529413\r\n2. A. V. Aho, M. S. Lam, R. Sethi, J. D. Ullman, \"Compilers: Principles, Techniques, and Tools\", 2nd edition/2006, Addison Wesley, ISBN: 978-0321486813\r\n3. A. B. Tucker, R. E. Noonan, \"Programming Languages - Principles and Paradigms\", 2nd edition/2007, McGraw Hill, ISBN: 978-0071254397\r\n4. M. L. Scott, \"Πραγματολογία Γλωσσών Προγραμματισμού\", 2η έκδοση/2009, Εκδόσεις Κλειδάριθμος, ISBN: 978-960-461-230-7"
+        }
+    },
+    "winter": false,
+    "period": 4
+}

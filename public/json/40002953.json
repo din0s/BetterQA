@@ -1,0 +1,227 @@
+{
+    "coursecode": "NET-07-01",
+    "AltKey": "ΝΕΤ-07-01",
+    "title": "ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΕΡΙΒΑΛΛΟΝΤΑ ΔΙΑΔΙΚΤΥΟΥ",
+    "titleEN": "INTERNET EDUCATIONAL ENVIRONMENTS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155567,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΕΡΙΒΑΛΛΟΝΤΑ ΔΙΑΔΙΚΤΥΟΥ",
+                    "en": "INTERNET EDUCATIONAL ENVIRONMENTS"
+                },
+                "course_code": "NET-07-01",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Θρασύβουλος-Κωνσταντίνος Τσιάτσος"
+            },
+            "class_info": {
+                "class_title": "ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΕΡΙΒΑΛΛΟΝΤΑ ΔΙΑΔΙΚΤΥΟΥ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Τσιάτσος Θρασύβουλος-Κωνσταντίνος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004936"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": ""
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνωστικοί: Κατανόηση θεμάτων σχεδιασμού, υλοποίησης και αξιολόγησης εκπαιδευτικών περιβαλλόντων διαδικτύου.\r\nΔεξιότητες: Χρήση τεχνολογιών Διαδικτύου για την υλοποίηση εκπαιδευτικών δικτυακών τόπων.\r\n",
+                "en": "Cognitive: \r\nUnderstanding of design, implementation and evaluation issues for Internet Educational En-vironments.\r\nSkills: \r\nUsage of Internet technologies/tools for the creation of Internet Educational Environments.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "10": "Σχεδιασμός και διαχείριση έργων",
+                "11": "Σεβασμός στη διαφορετικότητα και στην πολυπολιτισμικότητα",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση",
+                    "Εσωτερίκευση"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 7",
+                "Skills": "Επίπεδο 7"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Παιδαγωγικές προσεγγίσεις περιβαλλόντων Διαδικτύου για την υποστήριξη διαδικτυακής μάθησης (προσαρμοστικά περιβάλλοντα, συνεργατική μάθηση, κοινότητες πρακτικής, μάθη-ση βασισμένη στους διατιθέμενους πόρους). Πρότυπα και τυποποιήσεις που αφορούν εκπαι-δευτικά περιβάλλοντα Διαδικτύου με έμφαση στην διαλειτουργικότητα για την ανταλλαγή εκπαιδευτικών πόρων, την ανταλλαγή δεδομένων ανάμεσα σε εκπαιδευτικούς οργανισμούς, την επικοινωνία εφαρμογών εκπαιδευτικού λογισμικού (HTML, XML, QTI, SCORM). Δη-μιουργία παιδαγωγικών σχεδιάσεων με περιπτώσεις χρήσης (use cases) και χρήση UML. Δι-αδικασία επιλογής ολοκληρωμένων περιβαλλόντων Διαδικτύου για την υποστήριξη διαδι-κτυακής μάθησης και εκπαίδευσης. Εργαλεία, τεχνολογίες και υπηρεσίες του Διαδικτύου και του Παγκόσμιου Ιστού για την υποστήριξη των παιδαγωγικών προσεγγίσεων και παρουσία-ση ολοκληρωμένων περιβαλλόντων Διαδικτύου ανοιχτού κώδικα για την υποστήριξη διαδι-κτυακής μάθησης.",
+                    "en": "Pedagogical approaches of Internet environments for the support of internet (or web based) learning (adaptive environments, collaborative learning, communities of practice, resource based learning. Standards and specifications for Internet educational environments concerning the interoperability in the exchange of educational resources, the exchange of data between educational organisms, the communication of educational applications (HTML, XML, QTI, SCORM) . Creation of educational applications using use cases and UML. Framework for the selection of integrated learning and educational Internet environments for Internet and World Wide Web tools, technologies and services that support pedagogical approaches. Presentation of open source integrated learning management systems."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Χρήση Συστήματος Διαχειρισης Μαθημάτων για την ανάρτηση του εκπαιδευτικού υλικού και την επικοινωνία με τους φοιτητές.\r\nΑξιοποίηση ηλεκτρονικών παιχνιδιών για την κινητροδότηση και αξιολόγηση των φοιτητών.",
+                    "en": "Usage of an LMS system for delivering of educational content and communication with students.\r\nUtilization of computer games for motivating and assessiand student assessment."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "56",
+                        "credits": "1.867",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "1": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Πολλαπλής Επιλογής",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "ΤΣΙΑΤΣΟΣ, Θ., 2015. Εκπαιδευτικά περιβάλλοντα διαδικτύου. [ηλεκτρ. βιβλ.] Αθήνα:Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. Διαθέσιμο στο: http://hdl.handle.net/11419/3200",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004936"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": ""
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "ΤΣΙΑΤΣΟΣ, Θ., 2015. Εκπαιδευτικά περιβάλλοντα διαδικτύου. [ηλεκτρ. βιβλ.] Αθήνα:Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. Διαθέσιμο στο: http://hdl.handle.net/11419/3200",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 7
+}

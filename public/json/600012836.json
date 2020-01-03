@@ -1,0 +1,168 @@
+{
+    "coursecode": "NGE-08-02",
+    "AltKey": "NGE-08-02",
+    "title": "ΔΙΚΑΙΟ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+    "titleEN": "LAW OF INFORMATICS",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155646,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΔΙΚΑΙΟ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+                    "en": "LAW OF INFORMATICS"
+                },
+                "course_code": "NGE-08-02",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ιωάννης Ιγγλεζάκης"
+            },
+            "class_info": {
+                "class_title": "ΔΙΚΑΙΟ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+                "academic_year": "2016 – 2017",
+                "class_period": "Εαρινή",
+                "instructors": "Ιγγλεζάκης Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": [],
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600055329"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση: - Να έχουν αποδεδειγμένα γνώσεις και δυνατότητα κατανόησης θεμάτων στο γνωστικό πεδίο του δικαίου πληροφορικής - Να χρησιμοποιούν στην πράξη τις γνώσεις και τη δυνατότητα κατανόησης που απέκτησαν και να διαθέτουν ικανότητες που να αποδεικνύονται με την ανάπτυξη και υποστήριξη επιχειρημάτων και την επίλυση πρακτικών προβλημάτων στο πλαίσιο του γνωστικού πεδίου του δικαίου της πληροφορικής - Να παρέχουν έγκυρη πληροφόρηση επάνω στα ζητήματα του δικαίου πληροφορικής και να προτείνουν λύσεις σε πρακτικά προβλήματα νομικής φύσης - Να έχουν αποκτήσει εκείνες τις δεξιότητες για περαιτέρω απόκτηση γνώσεων, οι οποίες είναι αναγκαίες για να προχωρήσουν σε σπουδές μεταπτυχιακού επιπέδου.",
+                "en": "Upon successful completion of this course, students will be able to: \r\n- Have knowledge and ability to understand issues in the academic field of information law \r\n- Use their knowledge and their ability to comprehend in practice , and to reinforce skills that have to be proven by developing and supporting arguments and solve practical problems in the field of information law \r\n- Provide accurate information on information law issues and propose practical solutions to legal problems \r\n- To have acquired those skills to further knowledge, which is necessary to proceed to postgraduate studies."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "7": "Εργασία σε διεθνές περιβάλλον",
+                "8": "Εργασία σε διεπιστημονικό περιβάλλον",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": [],
+            "levels_of_intended_learning_outcomes": [],
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Α. Εισαγωγή στο δίκαιο πληροφορικής και τη νομική μεθοδολογία\r\nΒ. Προστασία ψηφιακών έργων: 1. Εισαγωγή στο δικαίο της πνευματικής και της βιομηχανικής ιδιοκτησίας. Η έννοια του έργου πνευματικής ιδιοκτησίας. Παράγωγο και πρωτότυπο έργο. Τα περιουσιακά και ηθικά δικαιώματα του δημιουργού. Περιορισμοί του περιουσιακού δικαιώματος.\r\n2. Νομική προστασία λογισμικού. Τα δικαιώματα εκμετάλλευσης του λογισμικού και τα δικαιώματα του νόμιμου χρήστη. Λογισμικό ανοικτού Κώδικα.\r\n3. Βάσεις δεδομένων. Προστασία με το δίκαιο πνευματικής ιδιοκτησίας και με το δικαίωμα sui generis.\r\n4. Έργα πολυμέσων και ψηφιακά έργα (βίντεο, e-books, μουσική κλπ.), ψηφιακές βιβλιοθήκες, peer-to-peer networks.\r\nΓ. Συμβάσεις διάθεσης λογισμικού, βάσεων δεδομένων και υπηρεσιών διαδικτύου (πρόσβαση, απόκτηση domain name, φιλοξενία και σχεδιασμός ιστοσελίδων κλπ.). Το σύστημα creative commons.\r\nΔ. Ηλεκτρονικό εμπόριο. Νομικές προϋποθέσεις δραστηριοποίησης στο Διαδίκτυο. Ευθύνη του παρέχοντος υπηρεσίες ηλεκτρονικού εμπορίου. Ηλεκτρονικές πληρωμές. Προστασία καταναλωτή. Ηλεκτρονικές υπογραφές: Ο Κανονισμός 910/2014 σχετικά με την ηλεκτρονική ταυτοποίηση και τις υπηρεσίες εμπιστοσύνης για τις ηλεκτρονικές συναλλαγές.\r\nΕ. Προστασία προσωπικών δεδομένων και της ιδιωτικότητας. Έννοια προσωπικών δεδομένων, απλών και ευαίσθητων. Συνταγματική προστασία. Ο ν. 2472/1997 και ο νέος Κανονισμός της ΕΕ. Προϋποθέσεις για τη νόμιμη επεξεργασία προσωπικών δεδομένων. Διαδικαστικές προϋποθέσεις. Ευθύνη από την παράνομη επεξεργασία προσωπικών δεδομένων.\r\nΣτ. Ποινική Προστασία έναντι της ηλεκτρονικής εγκληματικότητας.  \r\n",
+                    "en": "A. Introduction to Informatics law and Legal Methodology.\r\nB. Protection of Digital Assets: 1. Introduction to IPR. The concept of works in Copyright Law. Original and Derivative Law. Property and moral rights of creators. Restrictions of property rights.\r\n2. Software protection. \r\n3. Legal protection of Databases, \r\n4. Multimedia works and  digital works (video & music files, e-books), digital libraries, peer-to-peer networks.\r\nC. Contracts for Sofware, databases and Internet services. Creative commons.\r\nD. Electronic commerce.\r\nE. Personal data and privacy protection.\r\nF. Electronic crimes\r\n"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "3": "Βιντεοδιαλέξεις",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "",
+                        "workload": "125",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "25",
+                        "credits": "",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "",
+                    "en": ""
+                },
+                "assessment_methods": {
+                    "3": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Εκτεταμένης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1) Ι. Ιγγλεζάκης, Δίκαιο της Πληροφορικής, εκδ. Σάκκουλα, Θεσσαλονίκη 2008. Κωδικός Βιβλίου στον ΕΥΔΟΞΟ: 34427 \r\n2) Ε. Παπακωνσταντίνου, Δίκαιο Πληροφορικής, εκδ. Σάκκουλα, Θεσσαλονίκη 2010. Κωδικός Βιβλίου στον ΕΥΔΟΞΟ: 12564400",
+                "additional_bibliography_for_study": "Ι. Ιγγλεζάκης, Νομική πληροφορική, εκδ. Σάκκουλα, Θεσσαλονίκη 2012, Κωδικός Βιβλίου στον Εύδοξο: 22893222"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600055329"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1) Ι. Ιγγλεζάκης, Δίκαιο της Πληροφορικής, εκδ. Σάκκουλα, Θεσσαλονίκη 2008. Κωδικός Βιβλίου στον ΕΥΔΟΞΟ: 34427 \r\n2) Ε. Παπακωνσταντίνου, Δίκαιο Πληροφορικής, εκδ. Σάκκουλα, Θεσσαλονίκη 2010. Κωδικός Βιβλίου στον ΕΥΔΟΞΟ: 12564400",
+            "additional": "Ι. Ιγγλεζάκης, Νομική πληροφορική, εκδ. Σάκκουλα, Θεσσαλονίκη 2012, Κωδικός Βιβλίου στον Εύδοξο: 22893222"
+        }
+    },
+    "winter": false,
+    "period": 8
+}

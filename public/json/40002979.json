@@ -1,0 +1,219 @@
+{
+    "coursecode": "NDM-08-01",
+    "AltKey": "NDM-08-01",
+    "title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΟΣΕΙΡΩΝ/VIDEO",
+    "titleEN": "DIGITAL VIDEO PROCESSING",
+    "units": 3,
+    "ects": 5,
+    "classID": 600155608,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΟΣΕΙΡΩΝ/VIDEO",
+                    "en": "DIGITAL VIDEO PROCESSING"
+                },
+                "course_code": "NDM-08-01",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Ιωάννης Πήτας"
+            },
+            "class_info": {
+                "class_title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΟΣΕΙΡΩΝ/VIDEO",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Πήτας Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004981"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=106"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8087"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις εφαρμοσμένων μαθηματικών και επεξεργασίας εικόνας. Γνώσεις προγραμματισμού C/C++ ή MATLAB. Ευχέρεια στην μελέτη επιστημονικών κειμένων στα Αγγλικά.",
+                    "en": "Basic knowledge in digital image processing. Programming skills. Good level of English."
+                }
+            },
+            "learning_outcomes": {
+                "el": "α) Μαθησιακοί στόχοι: Εμπέδωση των βασικών εννοιών θεωρίας και τεχνολογίας ψηφιακού και αναλογικού βίντεο, ψηφιοποίησης βίντεο, ψηφιακής τηλεόρασης, επεξεργασίας, ανάλυσης, συμπίεσης/αποθήκευσης, περιγραφής και αναζήτησης ψηφιακού βίντεο. Εκτεταμένη έκθεση σε προγραμματισμό C/C++ ή MATLAB για επεξεργασία βίντεο. Εξοικείωση με προγραμματιστικά περιβάλλοντα και πακέτα, όπως MATLAB toolboxes και Adobe Premiere, Avid.\r\nβ) Δεξιότητες: Θεμελίωση υποβάθρου για την περαιτέρω μελέτη προβλημάτων και εφαρμογών ψηφιακού και αναλογικού βίντεο, ψηφιακής και διαδικτυακής τηλεόρασης, επεξεργασίας, ανάλυσης, συμπίεσης/αποθήκευσης, περιγραφής και αναζήτησης ψηφιακού βίντεο στην ψηφιακή εκπομπή (τηλεόραση), διαδικτυακή μετάδοση βίντεο (webcasting), κοινωνικά μέσα (YouTube). Απόκτηση ικανότητας χρήσης και ανάπτυξης αλγορίθμων ψηφιακής επεξεργασίας βίντεο. Όξυνση αναλυτικών και προγραμματιστικών δεξιοτήτων. Ικανότητα ανάπτυξης βασικών εφαρμογών ψηφιακής επεξεργασίας βίντεο με χρήση με χρήση C/C++ ή MATLAB.",
+                "en": "a) Course objectives /outcomes and competences: \r\na) Knowledge: Familiarization with the fundamental principles, theory algorithms and technology of digital and analog video, video digitization, digital TV, video processing, analysis, compression/storage and retrieval. Exposure to digital video processing programming using C/C++ and MATLAB. Acquaintance with digital video processing and studio systems and their application in areas such as social media, video communication, videoconferencing, broadcasting, webcasting etc.\r\nb) Skills: Setting the foundations for advanced studies on digital video processing issues and applications in social media, video communication, videoconferencing, broadcasting, webcasting. Acquisition of skills in the use and development of digital video processing algorithms. Promoting analytical and programming skills. Ability to develop basic digital video processing applications using C/C++, MATLAB, Adobe Premier, Avid.\r\n\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "9": "Παραγωγή νέων ερευνητικών ιδεών"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Βασικά για το σήμα βίντεο. Χρονομεταβαλλόμενα μοντέλα σχηματισμού εικόνων. Μέθοδοι εκτίμησης δισδιάστατης κίνησης. Μέθοδοι εκτίμησης τρισδιάστατης κίνησης και κατάτμησής της. Φιλτράρισμα εικονοσειρών. Εκτίμηση πληροφορίας βάθους από κίνηση. Συμπίεση video. Τα πρότυπα MPEG-1, MPEG-2, MPEG-4. Κωδικοποίηση βασισμένη σε μοντέλα. Διαδικτυακή μετάδοση (streaming/webcasting). Βίντεο στα κοινωνικά μέσα (Youtube). Περιγραφή και ανάκτηση βίντεο, μοντέλο MPEG-7. Εργασίες προγραμματισμού ψηφιακής επεξεργασίας βίντεο σε C/C++ ή MATLAB. Βιβλιογραφικές εργασίες.",
+                    "en": "Analog and digital video. Video digitization. Time-variant image formation models. Methods for 2-D motion estimation. Methods for 3-D motion estimation and segmentation. Image sequence filtering. Depth from motion. Video compression. The MPEG-1, MPEG-2 and MPEG-4 standards. Model-based coding. Video analysis, indexing and retrieval. The MPEG-7 standard. Video streaming/webcasting. Video in social media (YouTube) . Programming assignments in C/C++ and MATLAB."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "105",
+                        "credits": "3.5",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "6",
+                        "credits": "0.2",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "13": {
+                    "activity": {
+                        "name": "Συγγραφή εργασίας / εργασιών",
+                        "hours_of_instruction": "",
+                        "workload": "24",
+                        "credits": "0.8",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "4",
+                        "workload": "15",
+                        "credits": "0.5",
+                        "individual": 0,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτή εξέταση και βιβλιογραφικές ή προγραμματιστικές εργασίες ή προόδους ή παρουσιάσεις στις οποίες οι φοιτητές εξετάζονται και δίνουν μέχρι 2-4 προσθετικές μονάδες (αν ο βαθμός γραπτής εξέτασης είναι τουλάχιστον 4).",
+                    "en": "Written exams. Literature survey or programming assignments or proodos or oral presentations provide an additional 2-4 points, if the exam mark is at least 4."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "α. Προτεινόμενη βιβλιογραφία & υλικό\r\nΠήτας Ι. «Ψηφιακή Επεξεργασία Βίντεο-Ψηφιακή Τηλεόραση», Θεσσαλονίκη, 2010.\r\nβ. Επιπρόσθετη βιβλιογραφία\r\nM. Tekalp, \"Digital Video Processing\", Prentice Hall PTR, 1996. \r\nYao Wang, Jorn Ostermann, and Ya-Qin Zhang, \"Video Processing and Communications\", Prentice Hall, 2001.",
+                "additional_bibliography_for_study": "a) Recommended bibliography & material\r\nΠήτας Ι. «Ψηφιακή Επεξεργασία Βίντεο-Ψηφιακή Τηλεόραση», Θεσσαλονίκη, 2010. \r\nb) Additional bibliography\r\nM. Tekalp, \"Digital Video Processing\", Prentice Hall PTR, 1996. \r\nYao Wang, Jorn Ostermann, and Ya-Qin Zhang, \"Video Processing and Communications\", Prentice Hall, 2001."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004981"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=106"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8087"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "α. Προτεινόμενη βιβλιογραφία & υλικό\r\nΠήτας Ι. «Ψηφιακή Επεξεργασία Βίντεο-Ψηφιακή Τηλεόραση», Θεσσαλονίκη, 2010.\r\nβ. Επιπρόσθετη βιβλιογραφία\r\nM. Tekalp, \"Digital Video Processing\", Prentice Hall PTR, 1996. \r\nYao Wang, Jorn Ostermann, and Ya-Qin Zhang, \"Video Processing and Communications\", Prentice Hall, 2001.",
+            "additional": "a) Recommended bibliography & material\r\nΠήτας Ι. «Ψηφιακή Επεξεργασία Βίντεο-Ψηφιακή Τηλεόραση», Θεσσαλονίκη, 2010. \r\nb) Additional bibliography\r\nM. Tekalp, \"Digital Video Processing\", Prentice Hall PTR, 1996. \r\nYao Wang, Jorn Ostermann, and Ya-Qin Zhang, \"Video Processing and Communications\", Prentice Hall, 2001."
+        }
+    },
+    "winter": false,
+    "period": 8
+}

@@ -1,0 +1,201 @@
+{
+    "coursecode": "NCO-05-03",
+    "AltKey": "NCO-05-03",
+    "title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
+    "titleEN": "DATABASES",
+    "units": 6,
+    "ects": 7,
+    "classID": 600155604,
+    "elearning_url": "https://elearning.auth.gr/course/view.php?id=10329",
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
+                    "en": "DATABASES"
+                },
+                "course_code": "NCO-05-03",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Αναστάσιος Γούναρης"
+            },
+            "class_info": {
+                "class_title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Μανωλόπουλος Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "3": "Επιστημονικής Περιοχής",
+                "4": "Ανάπτυξης Δεξιοτήτων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004888"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://delab.csd.auth.gr/courses/c_db/"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Δεν υπάρχουν προαπαιτούμενα μαθήματα μ ετην τυπική έννοια. Ο φοιτητές πρέπει να κατέχουν τα αντικείμενα Προγραμματισμός, Δομές Δεδομένων, Αλγόριθμοι.",
+                    "en": "There are no prerequisite courses in the formal sense. Students should master topics related to Programming, Data Structures, Algorithms"
+                }
+            },
+            "learning_outcomes": {
+                "el": "Κατανόηση της έννοιας της διαχείρισης μαζικών δεδομένων (και της χρήσης δευτερεύουσας μνήμης). Γνώσεις σχεδιασμού αντίστοιχης εφαρμογής με μαζικά δεδομένα. Γνώσεις της γλώσσας 4ης γενιάς SQL. Απόκτηση ικανότητας θεωρητικής μελέτης σχεδιασμού μίας εφαρμογής βάσεων δεδομένων και βασικού χειρισμού ενός συστήματος διαχείρισης βάσεων δεδομένων (MS SQL Server). ",
+                "en": "Understanding of the concept of massive data management (using secondary memory). Knowledge of designing applications with massive data. Mastering SQL. Acquaintance of MS SQL Server to design, implement, define and manipulate a database."
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία"
+            },
+            "learning_outcomes_categorization": [],
+            "levels_of_intended_learning_outcomes": [],
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή. Φυσικά μέσα αποθήκευσης. Αρχιτεκτονική συστημάτων. Μοντέλο Οντοτήτων-Συσχετίσεων. Σχεσιακό μοντέλο δεδομένων. Σχεσιακή Άλγεβρα και Σχεσιακός Λογισμός. Συναρτησιακές και Πλειονότιμες εξαρτήσεις. Κανονικοποίηση και Κανονικές μορφές. Γλώσσα  SQL. Υποχρεωτικές εργαστηριακές ασκήσεις με MS SQL Server.",
+                    "en": "Introduction. Storage media. System architecture. Entity-relationship model. Relational model. Relational algebra and relational calculus. Functional and multivalued dependencies. Normalization and Normal forms. SQL language. Mandatory lab exercises with MS SQL Server."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "2": "Χρήση Τ.Π.Ε. στην Εργαστηριακή Εκπαίδευση"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "52",
+                        "credits": "1.733",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "3": {
+                    "activity": {
+                        "name": "Εργαστηριακή Άσκηση",
+                        "hours_of_instruction": "26",
+                        "workload": "26",
+                        "credits": "0.867",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "45",
+                        "credits": "1.5",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "6",
+                        "credits": "0.2",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "81",
+                        "credits": "2.7",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτές εξετάσεις συνολικού βάρους 70%, Βαθμολογούμενο εργαστήριο και Εργαστηριακή εξέταση βάρους 30%. ",
+                    "en": "Written exams (70%) and Lab exams (30%)"
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Ιωάννης Μανωλόπουλος και Απόστολος Παπαδόπουλος: \"Βάσεις Δεδομένων: Θεωρία και Πρακτική Εφαρμογή\", Εκδόσεις Νέων Τεχνολογιών, Αθήνα, 2006.",
+                "additional_bibliography_for_study": "- H. Garcia-Molina, J.D. Ullman, J.D. Widom, \"ΣΥΣΤΗΜΑΤΑ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ, ΤΟΜΟΣ Ι\", Πανεπιστημιακές Εκδόσεις Κρήτης, 2011.\r\n- R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw-Hill, 2002.  \r\n- C. J. Date, \"Introduction to Database Systems\", Addison Wesley, 2003.  \r\n- R. Elmasri, S.B. Navathe, \"Fundamentals of Database Systems\", Addison Wesley, 2006.  \r\n- A. Silberschatz, H.F. Korth, S. Sudarshan, \"Database System Concepts\", McGraw-Hill, 2005"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004888"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://delab.csd.auth.gr/courses/c_db/"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Ιωάννης Μανωλόπουλος και Απόστολος Παπαδόπουλος: \"Βάσεις Δεδομένων: Θεωρία και Πρακτική Εφαρμογή\", Εκδόσεις Νέων Τεχνολογιών, Αθήνα, 2006.",
+            "additional": "- H. Garcia-Molina, J.D. Ullman, J.D. Widom, \"ΣΥΣΤΗΜΑΤΑ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ, ΤΟΜΟΣ Ι\", Πανεπιστημιακές Εκδόσεις Κρήτης, 2011.\r\n- R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw-Hill, 2002.  \r\n- C. J. Date, \"Introduction to Database Systems\", Addison Wesley, 2003.  \r\n- R. Elmasri, S.B. Navathe, \"Fundamentals of Database Systems\", Addison Wesley, 2006.  \r\n- A. Silberschatz, H.F. Korth, S. Sudarshan, \"Database System Concepts\", McGraw-Hill, 2005"
+        }
+    },
+    "winter": true,
+    "period": 5
+}

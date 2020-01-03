@@ -1,0 +1,211 @@
+{
+    "coursecode": "NDM-07-01",
+    "AltKey": "NDM-07-01",
+    "title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΑΣ",
+    "titleEN": "DIGITAL IMAGE PROCESSING",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155627,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΑΣ",
+                    "en": "DIGITAL IMAGE PROCESSING"
+                },
+                "course_code": "NDM-07-01",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Ιωάννης Πήτας"
+            },
+            "class_info": {
+                "class_title": "ΨΗΦΙΑΚΗ ΕΠΕΞΕΡΓΑΣΙΑ ΕΙΚΟΝΑΣ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Πήτας Ιωάννης"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004893"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://pileas.csd.auth.gr/course/view.php?id=57"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=8154"
+                }
+            ],
+            "erasmus": 0,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις εφαρμοσμένων μαθηματικών και ψηφιακής επεξεργασίας σήματος. Γνώ-σεις προγραμματισμού C/C++ ή MATLAB. Ευχέρεια στην μελέτη επιστημονικών κειμένων στα Αγγλικά.",
+                    "en": "Basic knowledge in applied mathematics and digital signal processing. Programming skills. Good level of English."
+                }
+            },
+            "learning_outcomes": {
+                "el": "α) Μαθησιακοί στόχοι: Εμπέδωση των βασικών εννοιών και αλγορίθμων ψηφιακής επεξεργασίας εικόνας, όπως ψηφιοποίηση εικόνας, βελτίωση ποιότητας εικόνας, ανάλυση εικόνας, συμπίεση/αποθήκευση ψηφιακών εικόνων καθώς και περιγραφή σχημάτων, με εφαρμογές στην βιολογία/ιατρική, τηλεπισκόπηση/γεωγραφικά συστήματα, μετάδοση εικόνων και διαδικτυακές εφαρμογές, εκτύπωση/επίδειξη εικόνων.  Εκτεταμένη έκθεση σε προγραμματισμό C/C++ ή MATLAB για  ψηφιακή επεξεργασίας εικόνας. Εξοικείωση με προγραμματιστικά περιβάλλοντα και πακέτα, όπως MATLAB toolboxes και Photoshop.\r\nβ) Δεξιότητες: Θεμελίωση υποβάθρου για την περαιτέρω μελέτη προβλημάτων και εφαρμογών ψηφιακής επεξεργασίας εικόνας. Απόκτηση ικανότητας χρήσης και ανάπτυξης αλγορίθμων ψηφιακής επεξεργασίας και ανάλυσης εικόνας, καθώς και συμπίεσης/αποθήκευσης ψηφιακών εικόνων με εφαρμογές στην βιολογία/ιατρική, τηλεπισκόπηση/γεωγραφικά συστήματα, μετάδοση εικόνων και διαδικτυακές εφαρμογές, εκτύπωση/επίδειξη εικόνων. Όξυνση αναλυτικών και προγραμματιστικών δεξιοτήτων. Ικανότητα ανάπτυξης βασικών εφαρμογών ψηφιακής επεξεργασίας εικόνας με χρήση C/C++ ή MATLAB.\r\n",
+                "en": "a) Knowledge: Familiarization with the fundamental digital image processing principles and algorithms, such as the theory and technology of image digitization, processing, analysis, compression/storage, and shape description. Exposure to digital image processing programming using C/C++ and MATLAB. Acquaintance with digital image processing systems and their application in areas, such as with applications in medicine/biology, remote sensing/GIS, image communication and www applications, image printing/display, etc.\r\nb) Skills: Setting the foundations for advanced studies on digital image processing issues and applications. Acquisition of skills in the use and development of digital image processing algorithms. Promoting analytical and programming skills. Ability to develop basic digital image processing applications using C/C++ and MATLAB.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "3": "Προσαρμογή σε νέες καταστάσεις",
+                "4": "Λήψη αποφάσεων",
+                "5": "Αυτόνομη εργασία"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση",
+                    "Οργάνωση"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Εισαγωγή στην Ψηφιακή Επεξεργασία Εικόνας. Ψηφιακή Καταγραφή Εικόνας. Βελτίωση της ποιότητας εικόνας. Αποκατάσταση εικόνας. Συμπίεση ψηφιακής εικόνας και σχετικά πρότυπα (πχ. JPEG/JPEG2000). Αλγόριθμοι ανίχνευσης ακμών. Κατάτμηση εικόνας. Περιγραφή σχήματος.   Εργασίες προγραμματισμού ψηφιακής επεξεργασίας εικόνας σε C/C++  ή MATLAB. Βιβλιογραφικές εργασίες.",
+                    "en": "Digital image recording/digitization. Image enhancement and filtering. Image restoration. Digital image compression and related standards (e.g. JPEG/JPEG2000) . Edge detection algorithms. Image segmentation. Shape description. Programming assignments in C/C++ and MATLAB."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "52",
+                        "workload": "114",
+                        "credits": "3.8",
+                        "individual": 1,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "21",
+                        "credits": "0.7",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "3",
+                        "workload": "15",
+                        "credits": "0.5",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτή εξέταση και βιβλιογραφικές ή προγραμματιστικές εργασίες ή προόδους ή παρουσιάσεις στις οποίες οι φοιτητές εξετάζονται και δίνουν μέχρι 2-4 προσθετικές μονάδες (αν ο βαθμός γραπτής εξέτασης είναι τουλάχιστον 4).",
+                    "en": "Written exams. Literature survey or programming assignments or mid-term exams or oral presentations provide an additional 2-4 points, if the exam mark is at least 4."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "4": {
+                        "name": "Γραπτή Εργασία",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Πήτας Ι. «Ψηφιακή Επεξεργασία Εικόνας», Θεσσαλονίκη, 2010. \r\nΠαπαμάρκος Ν. «Ψηφιακή Επεξεργασία και Ανάλυση Εικόνας», Εκδόσεις Ν. Παπαμαρκος, Αθήνα, 2010.",
+                "additional_bibliography_for_study": "I. Pitas, \"Digital Image Processing Algorithms and Aplications\", Wiley Inter-Science, 2000.  \r\nWilliam K. Pratt,\"Digital image processing\", John Wiley & Sons, 2007 3) R. C. Gonzalez, R.E. Woods,\"Digital image processing\", Addison-Welsey, 2007."
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004893"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://pileas.csd.auth.gr/course/view.php?id=57"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=8154"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Πήτας Ι. «Ψηφιακή Επεξεργασία Εικόνας», Θεσσαλονίκη, 2010. \r\nΠαπαμάρκος Ν. «Ψηφιακή Επεξεργασία και Ανάλυση Εικόνας», Εκδόσεις Ν. Παπαμαρκος, Αθήνα, 2010.",
+            "additional": "I. Pitas, \"Digital Image Processing Algorithms and Aplications\", Wiley Inter-Science, 2000.  \r\nWilliam K. Pratt,\"Digital image processing\", John Wiley & Sons, 2007 3) R. C. Gonzalez, R.E. Woods,\"Digital image processing\", Addison-Welsey, 2007."
+        }
+    },
+    "winter": true,
+    "period": 7
+}

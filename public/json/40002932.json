@@ -1,0 +1,202 @@
+{
+    "coursecode": "NCO-03-01",
+    "AltKey": "NCO-03-01",
+    "title": "ΕΦΑΡΜΟΣΜΕΝΑ ΜΑΘΗΜΑΤΙΚΑ",
+    "titleEN": "APPLIED MATHEMATICS",
+    "units": 4,
+    "ects": 7,
+    "classID": 600155598,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΕΦΑΡΜΟΣΜΕΝΑ ΜΑΘΗΜΑΤΙΚΑ",
+                    "en": "APPLIED MATHEMATICS"
+                },
+                "course_code": "NCO-03-01",
+                "department_id": "64",
+                "course_period": "Χειμερινή",
+                "teacher_in_charge": "Νικόλαος Τσίτσας"
+            },
+            "class_info": {
+                "class_title": "ΕΦΑΡΜΟΣΜΕΝΑ ΜΑΘΗΜΑΤΙΚΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Χειμερινή",
+                "instructors": "Τσίτσας Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "1": "Υποβάθρου",
+                "2": "Γενικών Γνώσεων"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004876"
+                },
+                {
+                    "label": "Στον ιστοχώρο του Τμήματος: ",
+                    "url": "http://www.csd.auth.gr/course-info.php?id=13"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=6562"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "learning_outcomes": {
+                "el": "Γνώση στοιχειωδών εννοιών και χρήση βασικών μεθοδολογιών των Εφαρμοσμένων Μαθηματικών που αξιοποιούνται στην επιστήμη της Πληροφορικής.",
+                "en": "Knowledge of basic notions and utilization of basic methodologies of Applied Mathematics which can be exploited in Computer Science."
+            },
+            "general_competences": {
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Ανάλυση"
+                ],
+                "Affective Domain": [
+                    "Οργάνωση"
+                ],
+                "Psychomotor Domain": [
+                    "Ακρίβεια",
+                    "Επιδεξιότητα"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 7",
+                "Competence": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Στόχοι του μαθήματος είναι η κατανόηση μεθοδολογιών επίλυσης Συνήθων Διαφορικών Εξισώσεων, βασικών εννοιών της Μιγαδικής Ανάλυσης καθώς και βασικών στοιχείων της Ανάλυσης Fourier. Το περιεχόμενο του μαθήματος συνοψίζεται στις ακόλουθες τρεις ενότητες:\r\n\r\n-- Μεθοδολογίες επίλυσης στοιχειωδών συνήθων διαφορικών εξισώσεων με εφαρμογές\r\n-- Μιγαδικοί αριθμοί, ολόμορφες μιγαδικές συναρτήσεις και μιγαδική ολοκλήρωση με εφαρμογές\r\n-- Σειρές και μετασχηματισμοί Fourier\r\n\r\nΕπίσης, θα γίνουν και εφαρμογές των ανωτέρω με χρήση μαθηματικού λογισμικού (εφόσον υπάρχει χρόνος).\r\n",
+                    "en": "This course aims at the students understanding the basic methodologies for the solution of Ordinary Differential Equations as well as the basic notions of Complex Analysis. Its syllabus is summarized in the following two sections:\r\n\r\n-- Methodologies for solving ordinary differential equations with applications\r\n-- Complex numbers, analytic complex functions and complex integration with applications\r\n-- Fourier series and transforms\r\n\r\nAlso, there will be some implementations of the above by using mamthematical software (if time permits).\r\n"
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "1": "Σημειώσεις",
+                "2": "Διαφάνειες",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "",
+                    "en": ""
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "78",
+                        "workload": "78",
+                        "credits": "2.6",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "5": {
+                    "activity": {
+                        "name": "Μελέτη και ανάλυση βιβλίων και άρθρων",
+                        "hours_of_instruction": "",
+                        "workload": "90",
+                        "credits": "3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "15": {
+                    "activity": {
+                        "name": "Εξετάσεις",
+                        "hours_of_instruction": "",
+                        "workload": "3",
+                        "credits": "0.1",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                },
+                "-1": {
+                    "activity": {
+                        "name": " Άλλο / Άλλα",
+                        "hours_of_instruction": "",
+                        "workload": "39",
+                        "credits": "1.3",
+                        "individual": 1,
+                        "teamwork": 0,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Στο μάθημα γίνονται δύο γραπτές πρόοδοι οι οποίες είναι απαλλακτικές για τους φοιτητές που θα έχουν βαθμολογία μεγαλύτερη του 5 σε κάθε μία από τις προόδους.",
+                    "en": "There will be two tests and the students can pass the course if they have grade greater than 5 in each one of these tests."
+                },
+                "assessment_methods": {
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "1. Θέματα Εφαρμοσμένών Μαθηματικών, Κραββαρίτης Δ., 978-618-80741-6-3, Εκδόσεις Τσότρας, 2013, 1η έκδοση, 33134034.\r\n\r\n2. Στοιχειώδεις Διαφορικές Εξισώσεις και Προβλήματα Συνοριακών Τιμών, W. E. Boyce - R. C. Diprima, 60-254-543-7\tΠανεπιστημιακές Εκδόσεις ΕΜΠ, 1999, 5η έκδοση, 20770.",
+                "additional_bibliography_for_study": ""
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004876"
+            },
+            {
+                "title": "Στον ιστοχώρο του Τμήματος: ",
+                "link": "http://www.csd.auth.gr/course-info.php?id=13"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=6562"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "1. Θέματα Εφαρμοσμένών Μαθηματικών, Κραββαρίτης Δ., 978-618-80741-6-3, Εκδόσεις Τσότρας, 2013, 1η έκδοση, 33134034.\r\n\r\n2. Στοιχειώδεις Διαφορικές Εξισώσεις και Προβλήματα Συνοριακών Τιμών, W. E. Boyce - R. C. Diprima, 60-254-543-7\tΠανεπιστημιακές Εκδόσεις ΕΜΠ, 1999, 5η έκδοση, 20770.",
+            "additional": ""
+        }
+    },
+    "winter": true,
+    "period": 3
+}

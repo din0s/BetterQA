@@ -1,0 +1,215 @@
+{
+    "coursecode": "NDM-07-04",
+    "AltKey": "NDM-07-04",
+    "title": "ΓΡΑΦΙΚΑ",
+    "titleEN": "COMPUTER GRAPHICS",
+    "units": 4,
+    "ects": 5,
+    "classID": 600155637,
+    "qa": {
+        "general_data": {
+            "course_info": {
+                "course_title": {
+                    "el": "ΓΡΑΦΙΚΑ",
+                    "en": "COMPUTER GRAPHICS"
+                },
+                "course_code": "NDM-07-04",
+                "department_id": "64",
+                "course_period": "Εαρινή",
+                "teacher_in_charge": "Νικόλαος Νικολαΐδης"
+            },
+            "class_info": {
+                "class_title": "ΓΡΑΦΙΚΑ",
+                "academic_year": "2015 – 2016",
+                "class_period": "Εαρινή",
+                "instructors": "Νικολαϊδης Νικόλαος"
+            }
+        },
+        "course_information_form_data": {
+            "type_of_the_course": {
+                "3": "Επιστημονικής Περιοχής"
+            },
+            "mode_of_delivery": {
+                "1": "Πρόσωπο με πρόσωπο"
+            },
+            "digital_course_content": [
+                {
+                    "label": "e-Οδηγός Σπουδών",
+                    "url": "https://qa.auth.gr/el/class/1/600004980"
+                },
+                {
+                    "label": "eLearning (Moodle): ",
+                    "url": "https://elearning.auth.gr/course/view.php?id=7688"
+                }
+            ],
+            "erasmus": 1,
+            "language_of_instruction": {
+                "1": {
+                    "name": "Ελληνικά",
+                    "variety": {
+                        "1": "Διδασκαλία",
+                        "2": "Εξέταση"
+                    }
+                },
+                "2": {
+                    "name": "Αγγλικά",
+                    "variety": {
+                        "2": "Εξέταση"
+                    }
+                }
+            },
+            "prerequisites": {
+                "required_courses": "",
+                "general_prerequisites": {
+                    "el": "Βασικές γνώσεις γραμμικής άλγεβρας και γεωμετρίας. Γνώσεις προγραμματισμού. Ευχέρεια στην μελέτη επιστημονικών κειμένων στα Αγγλικά.",
+                    "en": "Basic knowledge in linear algebra and geometry. Programming skills. Good level of English."
+                }
+            },
+            "learning_outcomes": {
+                "el": "α) Μαθησιακοί στόχοι: Εμπέδωση των βασικών εννοιών και αλγορίθμων γραφικών όπως μετασχηματισμοί και προβολές στον τρισδιάστατο χώρο, φωτισμός, σκίαση, απόκρυψη κρυμμένων επιφανειών κλπ. Εκτεταμένη έκθεση σε προγραμματισμό γραφικών με χρήση της OpenGL. Εξοικείωση με τα συστήματα γραφικών και τις εφαρμογές τους σε τομείς όπως οι ταινίες κινουμένων σχεδίων, τα βιντεοπαιχνίδια, η οπτικοποίηση επιστημονικών δεδομένων, τα γεωγραφικά συστήματα πληροφοριών κ.α.\r\nβ) Δεξιότητες: Θεμελίωση υποβάθρου για την περαιτέρω μελέτη προβλημάτων και εφαρμογών γραφικών. Απόκτηση ικανότητας χρήσης και ανάπτυξης αλγορίθμων γραφικών. Όξυνση αναλυτικών και προγραμματιστικών δεξιοτήτων. Ικανότητα ανάπτυξης βασικών εφαρμογών γραφικών με χρήση OpenGL.\r\n",
+                "en": "Knowledge: Familiarization with the fundamental computer graphics principles and algorithms such as geometric transformations and projections in 3D space, lighting and shading, hidden surface removal etc. Exposure to computer graphics programming using OpenGL. Acquaintance with graphics systems and their application in areas such as animated motion pictures, computer games, data visualization, GIS etc.\r\nSkills: Setting the foundations for advanced studies on computer graphics issues and applications. Acquisition of skills in the use and development of graphics algorithms. Promoting analytic and programming skills. Ability to develop basic graphics applications using OpenGL.\r\n"
+            },
+            "general_competences": {
+                "1": "Εφαρμογή της γνώσης στην πράξη",
+                "2": "Αναζήτηση, ανάλυση και σύνθεση δεδομένων και πληροφοριών, με τη χρήση και των απαραίτητων τεχνολογιών",
+                "5": "Αυτόνομη εργασία",
+                "6": "Ομαδική εργασία",
+                "14": "Άσκηση κριτικής και αυτοκριτικής",
+                "15": "Προαγωγή της ελεύθερης, δημιουργικής και επαγωγικής σκέψης"
+            },
+            "learning_outcomes_categorization": {
+                "Cognitive Domain": [
+                    "Μνήμη",
+                    "Κατανόηση",
+                    "Εφαρμογή",
+                    "Ανάλυση",
+                    "Αξιολόγηση",
+                    "Δημιουργία"
+                ],
+                "Affective Domain": [
+                    "Πρόσληψη",
+                    "Αντίδραση",
+                    "Αποτίμηση"
+                ]
+            },
+            "levels_of_intended_learning_outcomes": {
+                "Knowledge": "Επίπεδο 5",
+                "Competence": "Επίπεδο 5",
+                "Skills": "Επίπεδο 5"
+            },
+            "course_content_syllabus": {
+                "course_content": {
+                    "el": "Συστήματα γραφικών και μοντέλα. Εισαγωγή στην OpenGL και στον προγραμματισμό γραφικών. Είσοδος και αλληλεπίδραση σε εφαρμογές γραφικών. Γεωμετρικά αντικείμενα και μετασχηματισμοί. Προβολές και παρατήρηση στον τρισδιάστατο χώρο. Φωτισμός και σκίαση. Αλγόριθμοι παράστασης βασικών σχημάτων σε raster οθόνες. Αλγόριθμοι ψαλιδίσματος. Απόκρυψη κρυμμένων επιφανειών. Εργασίες προγραμματισμού γραφικών σε C/C++ με χρήση της OpenGL.",
+                    "en": "Graphics systems and models. Graphics programming. Introduction to OpenGL. Input and interaction. Geometric primitives and transformations. Viewing. Projections (perspective, orthographic). Lighting and shading. Scan conversion. Clipping algorithms. Visible surface determination. Graphics programming assignments in C/C++ and OpenGL."
+                },
+                "keywords": {
+                    "el": null,
+                    "en": null
+                }
+            },
+            "educational_material_types": {
+                "2": "Διαφάνειες",
+                "6": "Πολυμεσικό υλικό",
+                "8": "Βιβλίο"
+            },
+            "use_of_information_and_communication_technologies": {
+                "use_of_ict": {
+                    "1": "Χρήση Τ.Π.Ε. στη Διδασκαλία",
+                    "3": "Χρήση Τ.Π.Ε. στην Επικοινωνία με τους φοιτητές"
+                },
+                "description": {
+                    "el": "Διδακτικό υλικό σε ψηφιακή μορφή, χρήση του περιβάλλοντος ηλεκτρονικής εκπαίδευσης ΠΗΛΕΑΣ.",
+                    "en": "Course material in digital form, use of PILEAS e-learning environment."
+                }
+            },
+            "course_organization": {
+                "1": {
+                    "activity": {
+                        "name": "Διαλέξεις",
+                        "hours_of_instruction": "34",
+                        "workload": "63",
+                        "credits": "2.1",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "6": {
+                    "activity": {
+                        "name": "Φροντιστήριο",
+                        "hours_of_instruction": "18",
+                        "workload": "42",
+                        "credits": "1.4",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                },
+                "12": {
+                    "activity": {
+                        "name": "Εκπόνηση μελέτης (project)",
+                        "hours_of_instruction": "",
+                        "workload": "45",
+                        "credits": "1.5",
+                        "individual": 0,
+                        "teamwork": 1,
+                        "erasmus": 0
+                    }
+                }
+            },
+            "student_assessment": {
+                "description_of_the_procedure": {
+                    "el": "Γραπτή εξέταση  που διαμορφώνει τον τελικό βαθμό κατά 45-55%, 3 προγραμματιστικές εργασίες στις οποίες οι φοιτητές εξετάζονται προφορικά και διαμορφώνουν τον τελικό βαθμό κατά 55-45%.\r\n",
+                    "en": "Written exam (45-55% of the total grade), 3 programming assignments where students are orally examined on the outcome (55-45% of the total grade)."
+                },
+                "assessment_methods": {
+                    "2": {
+                        "name": "Γραπτή Εξέταση με Ερωτήσεις Σύντομης Απάντησης",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "8": {
+                        "name": "Προφορική Εξέταση",
+                        "variety": {
+                            "1": "Διαμορφωτική",
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "15": {
+                        "name": "Γραπτή Εξέταση με Επίλυση Προβλημάτων",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    },
+                    "17": {
+                        "name": "Εργαστηριακή Εργασία",
+                        "variety": {
+                            "2": "Συμπερασματική"
+                        }
+                    }
+                }
+            },
+            "bibliography": {
+                "course_bibliogrpahy_eudoxus": "Γραφικά Υπολογιστών με Open GL, Hearn D, Baker P.\r\nΓραφικά και Οπτικοποίηση, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν.",
+                "additional_bibliography_for_study": "Interactive Computer Graphics - A Top Down Approach with Shader-Based OpenGL, E. Angel, D. Shreiner, 6th Edition\r\nOpenGL Programming Guide, 8th Edition, Shreiner D., The Khronos OpenGL ARB Working Group"
+            }
+        },
+        "digital_content": [
+            {
+                "title": "e-Οδηγός Σπουδών",
+                "link": "https://qa.auth.gr/el/class/1/600004980"
+            },
+            {
+                "title": "eLearning (Moodle): ",
+                "link": "https://elearning.auth.gr/course/view.php?id=7688"
+            }
+        ],
+        "bibliography": {
+            "eudoxus": "Γραφικά Υπολογιστών με Open GL, Hearn D, Baker P.\r\nΓραφικά και Οπτικοποίηση, Θεοχάρης Θ., Πλατής Ν., Παπαϊωάννου Γ., Πατρικαλάκης Ν.",
+            "additional": "Interactive Computer Graphics - A Top Down Approach with Shader-Based OpenGL, E. Angel, D. Shreiner, 6th Edition\r\nOpenGL Programming Guide, 8th Edition, Shreiner D., The Khronos OpenGL ARB Working Group"
+        }
+    },
+    "winter": false,
+    "period": 7
+}

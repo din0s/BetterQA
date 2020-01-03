@@ -1,0 +1,36 @@
+.Semester-container {
+  margin-top: 3rem;
+}
+
+.Semester-info {
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.Semester-info h2 {
+  font-size: calc(8px + 2vmin);
+}
+
+.Semester-info h4 {
+  font-size: calc(2px + 2vmin);
+}
+
+@media screen and (max-width: 500px), screen and (max-height: 500px) {
+  .Head-cell {
+    font-size: 0.75rem !important;
+  }
+
+  .Course-cell {
+    font-size: 0.75rem !important;
+  }
+}
+
+@media screen and (max-width: 360px) {
+
+  .Opt-cell {
+    display: none !important;
+  }
+}
