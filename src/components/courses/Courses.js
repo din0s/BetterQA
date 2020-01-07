@@ -11,10 +11,14 @@ import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 
+import { Link } from "react-router-dom";
+
 import { translate, getLanguage } from "react-switch-lang";
 
 const PROG_ID = "600000438";
 const GET_COURSES = "https://ws-ext.it.auth.gr/open/getStudiesProgCourses/";
+
+const SPLIT_REGEX = new RegExp("\\s*,\\s*");
 
 const StyledTableCell = withStyles(theme => ({
   head: {
@@ -36,12 +40,15 @@ const StyledTableRow = withStyles(theme => ({
 }))(TableRow);
 
 class Courses extends Component {
+  _isMounted = false;
+
   constructor() {
     super();
     this.state = { semesters: [], errors: false };
   }
 
   componentDidMount() {
+    this._isMounted = true;
     let semesters = this.state.semesters;
     fetch(GET_COURSES + PROG_ID)
       .then(res => res.json())
@@ -56,11 +63,18 @@ class Courses extends Component {
                 semesters[semester] = new Map();
               }
               semesters[semester].set(id, classJson);
-              this.setState({ semesters, errors: false });
-            });
+              if (this._isMounted) {
+                this.setState({ semesters, errors: false });
+              }
+            })
+            .catch(err => console.log(err));
         });
       })
       .catch(err => this.setState({ semesters: [], errors: true }));
+  }
+
+  componentWillUnmount() {
+    this._isMounted = false;
   }
 
   render() {
@@ -99,20 +113,36 @@ class Courses extends Component {
                       <StyledTableCell
                         align="right"
                         className="Head-cell Opt-cell"
-                      ></StyledTableCell>
+                      >
+                        {t("courses.teachers")}
+                      </StyledTableCell>
                     </StyledTableRow>
                   </TableHead>
                   <TableBody>
                     {k.map(course => {
                       let c = course[1];
+                      let instrSet = new Set(
+                        c.qa.general_data.class_info.instructors.split(
+                          SPLIT_REGEX
+                        )
+                      );
                       return (
-                        <StyledTableRow key={c.coursecode}>
+                        <StyledTableRow
+                          key={c.coursecode}
+                          className="Course-row"
+                          hover={true}
+                        >
                           <StyledTableCell
                             component="th"
                             scope="row"
-                            className="Course-cell Course-name"
+                            className="Course-cell"
                           >
-                            {en ? c.titleEN : c.title}
+                            <Link
+                              to={"/class/" + c.classID}
+                              className="Course-name"
+                            >
+                              {en ? c.titleEN : c.title}
+                            </Link>
                           </StyledTableCell>
                           <StyledTableCell
                             align="right"
@@ -130,7 +160,11 @@ class Courses extends Component {
                             align="right"
                             className="Course-cell Opt-cell"
                           >
-                            []
+                            <ul className="Course-teachers">
+                              {Array.from(instrSet).map(instr => (
+                                <li key={instr}>{instr.trim()}</li>
+                              ))}
+                            </ul>
                           </StyledTableCell>
                         </StyledTableRow>
                       );

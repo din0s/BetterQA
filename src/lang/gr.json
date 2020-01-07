@@ -6,6 +6,10 @@
     "semester": "Εξάμηνο",
     "code": "Κωδικός",
     "name": "Όνομα",
-    "ects": "ECTS"
+    "ects": "ECTS",
+    "teachers": "Καθηγητές"
+  },
+  "class": {
+      "select": "Επέλεξε ένα μάθημα."
   }
 }

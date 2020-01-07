@@ -6,6 +6,10 @@
         "semester": "Semester",
         "code": "Code",
         "name": "Name",
-        "ects": "ECTS"
+        "ects": "ECTS",
+        "teachers": "Teachers"
+    },
+    "class": {
+        "select": "Please select a class."
     }
 }

@@ -17,10 +17,3 @@
   color: #61dafb;
 }
 
-.Info-box {
-  line-height: 12px;
-}
-
-.Info-box h1 {
-  font-size: calc(10px + 2vmin);
-}

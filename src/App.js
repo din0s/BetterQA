@@ -1,19 +1,20 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 
 import Nav from "./components/navigator/Nav";
-import Courses from "./components/courses/Courses";
+import Programme from "./pages/programme/Programme";
 import "./App.css";
+
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import {
   setTranslations,
   setDefaultLanguage,
-  setLanguageCookie,
-  translate
+  setLanguageCookie
 } from "react-switch-lang";
 
 import en from "./lang/en.json";
 import gr from "./lang/gr.json";
+import Class from "./pages/class/Class";
 
 setTranslations({ en, gr });
 setDefaultLanguage("en");
@@ -21,23 +22,24 @@ setLanguageCookie();
 
 class App extends Component {
   render() {
-    const { t } = this.props;
     return (
       <div className="App">
         <div className="App-content">
           <Nav />
-          <div className="Info-box">
-            <h1>{t("desc")}</h1>
-          </div>
-          <Courses />
+          <Router>
+            <Switch>
+              <Route path="/class">
+                <Class />
+              </Route>
+              <Route path="/">
+                <Programme />
+              </Route>
+            </Switch>
+          </Router>
         </div>
       </div>
     );
   }
 }
 
-App.propTypes = {
-  t: PropTypes.func.isRequired
-};
-
-export default translate(App);
+export default App;
