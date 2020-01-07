@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "title": "School of Informatics of AUTh",
+    "desc": "e-Study Guide"
+  },
+
+  "courses": {
+    "courses": "Courses",
+    "semester": "Semester",
+    "code": "Code",
+    "name": "Name",
+    "ects": "ECTS",
+    "teachers": "Teachers"
+  },
+
+  "class": {
+    "select": "Please select a class"
+  }
+}

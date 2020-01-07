@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 import "./Class.css";
 
-import { translate } from "react-switch-lang";
-import PropTypes from "prop-types";
-
-import { Switch, Route, withRouter, useParams } from "react-router-dom";
+import { Switch, Route, withRouter, useParams, Redirect } from "react-router-dom";
+import { withTranslation } from 'react-i18next';
 
 function ClassInfo() {
   const { classID } = useParams();
@@ -20,17 +18,11 @@ class Class extends Component {
           <Route path={`${match.path}/:classID`}>
             <ClassInfo />
           </Route>
-          <Route path={match.path}>
-            <h3>{t("class.select")}</h3>
-          </Route>
+          <Redirect to="/" />
         </Switch>
       </div>
     );
   }
 }
 
-Class.propTypes = {
-  t: PropTypes.func.isRequired
-};
-
-export default withRouter(translate(Class));
+export default withRouter(withTranslation()(Class));

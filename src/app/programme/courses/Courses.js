@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import "./Courses.css";
 
 import { withStyles } from "@material-ui/core/styles";
@@ -12,8 +11,7 @@ import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 
 import { Link } from "react-router-dom";
-
-import { translate, getLanguage } from "react-switch-lang";
+import { withTranslation } from 'react-i18next';
 
 const PROG_ID = "600000438";
 const GET_COURSES = "https://ws-ext.it.auth.gr/open/getStudiesProgCourses/";
@@ -78,43 +76,42 @@ class Courses extends Component {
   }
 
   render() {
-    const { t } = this.props;
-    const en = getLanguage() === "en";
+    const { t, i18n } = this.props;
+    const en = i18n.language === "en";
     if (this.state.errors) {
       return <h1>An error occurred when querying the QA servers.</h1>;
     }
     return (
       <div className="Semester-list">
         {this.state.semesters.map((k, index) => {
-          let id = `Semester ${index + 1}`;
           k = Array.from(k);
           return (
-            <div key={id}>
+            <div key={`sem${index}`}>
               <TableContainer component={Paper} className="Semester-container">
                 <div className="Semester-info">
-                  <h2>{id}</h2>
-                  <h4>{`${k.length} ${t("courses.courses")}`}</h4>
+                  <h2>{`${t("courses:semester")} ${index + 1}`}</h2>
+                  <h4>{`${k.length} ${t("courses:courses")}`}</h4>
                 </div>
                 <Table className="Semester-table">
                   <TableHead>
                     <StyledTableRow>
                       <StyledTableCell className="Head-cell">
-                        {t("courses.name")}
+                        {t("courses:name")}
                       </StyledTableCell>
                       <StyledTableCell align="right" className="Head-cell">
-                        {t("courses.code")}
+                        {t("courses:code")}
                       </StyledTableCell>
                       <StyledTableCell
                         align="right"
                         className="Head-cell Opt-cell"
                       >
-                        {t("courses.ects")}
+                        {t("courses:ects")}
                       </StyledTableCell>
                       <StyledTableCell
                         align="right"
                         className="Head-cell Opt-cell"
                       >
-                        {t("courses.teachers")}
+                        {t("courses:teachers")}
                       </StyledTableCell>
                     </StyledTableRow>
                   </TableHead>
@@ -180,8 +177,4 @@ class Courses extends Component {
   }
 }
 
-Courses.propTypes = {
-  t: PropTypes.func.isRequired
-};
-
-export default translate(Courses);
+export default withTranslation()(Courses);
