@@ -1,0 +1,8 @@
+.loader {
+  align-self: center;
+  border: 1px dashed rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  color: rgba(0, 0, 0, 0.5);
+  margin: 2rem;
+  padding: 1rem;
+}

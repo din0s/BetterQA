@@ -1,5 +1,12 @@
+.Semester-list {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 .Semester-container {
   margin-top: 3rem;
+  width: 90vw !important;
 }
 
 .Semester-info {
@@ -35,7 +42,7 @@
   list-style: none;
 }
 
-@media screen and (max-width: 500px), screen and (max-height: 500px) {
+@media screen and (max-width: 550px), screen and (max-height: 550px) {
   .Head-cell {
     font-size: 0.7rem !important;
   }
@@ -43,9 +50,7 @@
   .Course-cell {
     font-size: 0.7rem !important;
   }
-}
 
-@media screen and (max-width: 360px) {
   .Opt-cell {
     display: none !important;
   }

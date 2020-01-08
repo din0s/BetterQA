@@ -11,7 +11,7 @@ import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 
 import { Link } from "react-router-dom";
-import { withTranslation } from 'react-i18next';
+import { withTranslation } from "react-i18next";
 
 const PROG_ID = "600000438";
 const GET_COURSES = "https://ws-ext.it.auth.gr/open/getStudiesProgCourses/";
@@ -107,10 +107,7 @@ class Courses extends Component {
                       >
                         {t("courses:ects")}
                       </StyledTableCell>
-                      <StyledTableCell
-                        align="right"
-                        className="Head-cell Opt-cell"
-                      >
+                      <StyledTableCell align="right" className="Head-cell">
                         {t("courses:teachers")}
                       </StyledTableCell>
                     </StyledTableRow>
@@ -155,7 +152,7 @@ class Courses extends Component {
                           </StyledTableCell>
                           <StyledTableCell
                             align="right"
-                            className="Course-cell Opt-cell"
+                            className="Course-cell"
                           >
                             <ul className="Course-teachers">
                               {Array.from(instrSet).map(instr => (

@@ -1,28 +1,25 @@
 import React, { Component } from "react";
 import "./Class.css";
 
-import { Switch, Route, withRouter, useParams, Redirect } from "react-router-dom";
-import { withTranslation } from 'react-i18next';
+import ClassInfo from "./class-info/ClassInfo";
 
-function ClassInfo() {
-  const { classID } = useParams();
-  return <div>{classID}</div>;
-}
+import { Switch, Route, withRouter, Redirect } from "react-router-dom";
+
+import BackBar from "../components/back-bar/BackBar";
 
 class Class extends Component {
   render() {
-    const { t, match } = this.props;
+    const { match } = this.props;
     return (
-      <div>
-        <Switch>
-          <Route path={`${match.path}/:classID`}>
-            <ClassInfo />
-          </Route>
-          <Redirect to="/" />
-        </Switch>
-      </div>
+      <Switch>
+        <Route path={`${match.path}/:classID`}>
+          <BackBar home={true} />
+          <ClassInfo />
+        </Route>
+        <Redirect to="/" />
+      </Switch>
     );
   }
 }
 
-export default withRouter(withTranslation()(Class));
+export default withRouter(Class);
