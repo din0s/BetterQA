@@ -1,9 +1,0 @@
-.Info-box {
-  line-height: 12px;
-  margin-top: calc(2rem + 4vmin);
-  text-align: center;
-}
-
-.Info-box h1 {
-  font-size: calc(1rem + 2vmin);
-}

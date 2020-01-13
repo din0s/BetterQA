@@ -1,0 +1,60 @@
+nav {
+  background-color: rgba(222, 222, 222, 0.11);
+  height: 4rem;
+  width: 100vw;
+
+  .Logo {
+    cursor: pointer;
+    height: 3rem;
+    margin: 0.5rem;
+    position: absolute;
+    left: 0.5rem;
+  }
+
+  .Lang-switcher {
+    margin: 0.5rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 0;
+
+    button {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1.5rem;
+      margin: 0.25rem;
+    }
+  }
+}
+
+@media screen and (max-width: 360px) {
+  nav {
+    height: 11vh;
+
+    .Logo {
+      margin-bottom: 0;
+      left: 0;
+      position: relative;
+    }
+
+    .Lang-switcher {
+      margin-top: 0;
+      top: auto;
+    }
+  }
+}
+
+@media screen and (max-width: 230px) {
+  nav {
+    height: 9vh;
+
+    .Logo {
+      height: auto;
+      width: 85vw;
+    }
+
+    .Lang-switcher button {
+      font-size: 1rem;
+    }
+  }
+}

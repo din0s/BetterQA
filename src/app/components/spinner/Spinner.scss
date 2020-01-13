@@ -1,0 +1,13 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+
+  .loader {
+    border: 1px dashed rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    margin: 2rem;
+    padding: 1rem;
+  }
+}

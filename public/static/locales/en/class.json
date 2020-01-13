@@ -1,0 +1,24 @@
+{
+  "in-charge": "In charge",
+  "period": "Period",
+  "year": "Academic Year",
+  "type": "Class Type",
+  "delivery": "Method of Delivery",
+  "languages": "Offered Languages",
+  "links": "Useful Links",
+  "goals": "Goals",
+  "content": "Content",
+  "keywords": "Keywords",
+  "skills": "Skills",
+  "material": "Material",
+  "assessment": "Student Assessment",
+
+  "erasmus-y": "Τhis class is available for Erasmus students.",
+  "erasmus-n": "Τhis class is NOT available for Erasmus students.",
+
+  "pre-courses": "Prerequisite Courses",
+  "pre-knowledge": "Prerequisite Knowledge",
+
+  "biblio-eudoxus": "Bibliography from Eudoxus",
+  "biblio-extra": "Extra bibliography"
+}
