@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Ubuntu&display=swap");
+
+body {
+  line-height: 1.5rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.App {
+  background-color: rgba(232, 217, 202, 0.2);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
